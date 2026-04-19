@@ -390,8 +390,8 @@ export default function App() {
   return (
     <div className="shell">
       <Header
-        sessions={461}
-        questions={3925}
+        sessions={SESSIONS.length}
+        questions={SESSIONS.reduce((n, s) => n + s.questions.length, 0)}
         theme={tweaks.theme}
         onThemeToggle={() => setTweaks(t => ({ ...t, theme: t.theme === "dusk" ? "paper" : "dusk" }))}
       />
