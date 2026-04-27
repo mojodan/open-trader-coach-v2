@@ -16,7 +16,7 @@ function deriveTitle(questions) {
   return 'Coaching Session';
 }
 
-const src = readFileSync('C:/Users/dhaye/repos/open-trader-coach/open-trader-coach/pilot.md', 'utf8');
+const src = readFileSync('C:/Users/dhaye/repos/open-trader-coach-v2/pilot.md', 'utf8');
 const lines = src.split('\n');
 
 const sessions = [];

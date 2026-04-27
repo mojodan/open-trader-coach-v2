@@ -1,5 +1,127 @@
 export const SESSIONS = [
   {
+    "iso": "2026-04-22",
+    "date": "April 22, 2026",
+    "questions": [
+      {
+        "t": "00:09",
+        "q": "Chart Review (April 21st): I struggled to understand Tuesday's Open price action and how we should have been thinking about it. I wasn't sure if the correct approach was to look for Long at Initial Support, or Short at Initial Resistance. Were these automatic trades? I felt unclear about how proper preparation for this day should look like, and how to map out scenarios and define trade conditions in advance. Can you give examples on how I should have thought about it?",
+        "asker": ""
+      },
+      {
+        "t": "01:05",
+        "q": "Chart Review (April 21st): Awais suggested a Short setup on the pullback following the breakdown below Initial Support. What conditions were in play at that moment that made this a valid setup?",
+        "asker": ""
+      },
+      {
+        "t": "23:28",
+        "q": "Chart Review (April 16th): Last Thursday was frustrating. ES never reached Initial Support, therefore there was no fill for me and ES moved higher towards Initial Resistance where it missed my Short by a few Ticks on the first test. Should that Short be skipped once the first test was gone?",
+        "asker": ""
+      }
+    ],
+    "title": "Chart Review"
+  },
+  {
+    "iso": "2026-04-15",
+    "date": "April 15, 2026",
+    "questions": [
+      {
+        "t": "00:09",
+        "q": "Chart Review (April 14th): As ES opened at Initial Resistance which was a Bias Changing Zone after balancing ahead of it in Pre-Market, was it valid to take a Short at this Zone? Can you walk us through your thought process going into that day?",
+        "asker": ""
+      }
+    ],
+    "title": "Chart Review"
+  },
+  {
+    "iso": "2026-04-08",
+    "date": "April 8, 2026",
+    "questions": [
+      {
+        "t": "00:09",
+        "q": "Student Trade Review (April 2nd): I shorted both Initial Resistance and the 6630 area as both were Bias Changing Zones, but I got stopped out on both. The market was moving very quickly and I didn't have time to re-enter at the Bias Confirming Resistance. Was it valid process to attempt these trades at the Bias Changing Zones, or should I have been more conservative and focused solely on the Bias Confirming Zone that ended up working?",
+        "asker": ""
+      },
+      {
+        "t": "10:58",
+        "q": "Can you share the best Zone Fade opportunities from this past week and the context that went into these trades? Which days offered the highest quality setups, what factors contributed to those trades, and how should we think about them?",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2026-04-01",
+    "date": "April 1, 2026",
+    "questions": [
+      {
+        "t": "00:10",
+        "q": "Student Trade Review (March 27th): ES was oversold and moved into strong Support, so I thought there would be profit taking into the weekend. I took two Long trades but got stopped out. How should we think about days like that?",
+        "asker": ""
+      },
+      {
+        "t": "10:24",
+        "q": "Chart Review (March 31st): I'm trying to better understand the IBB setups, when and how to take them. I missed the setup on Tuesday and did not see it coming. What signs were there?",
+        "asker": ""
+      },
+      {
+        "t": "17:50",
+        "q": "Chart Review (March 31st): I was confused about how to prepare for the day and the conditions to look for at Support and Resistance. How did you approach that day?",
+        "asker": ""
+      },
+      {
+        "t": "27:53",
+        "q": "If price moves quickly because of news and hits my level without normal structure, is that still a valid setup or do I need price to move slowly and clearly for the setup to be valid?",
+        "asker": ""
+      },
+      {
+        "t": "33:01",
+        "q": "Can you explain what \"Broad market strength and sustained upside momentum\" and \"Trend down conditions\" are? What must I see on the chart and market internals (NYSE Tick and A/D Line) that will indicate this?",
+        "asker": ""
+      },
+      {
+        "t": "37:15",
+        "q": "Student Trade Review (March 30th, March 31st): On Monday, I planned a Long at Initial Support, then Short with a Stop above the IB High. I missed both trades which would have returned 6R by a few points. The next day, I took a Short in Pre-Market in front of Pre-Market Resistance but got stopped out. I normally don't take these kind of trades but I believe I was affected by missing out on the big profit potential the previous day. Can you comment on this?",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2026-03-25",
+    "date": "March 25, 2026",
+    "questions": [
+      {
+        "t": "00:09",
+        "q": "Can you share the best Zone Fade opportunities of the week and the context that went into them?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2026-03-18",
+    "date": "March 18, 2026",
+    "questions": [
+      {
+        "t": "00:09",
+        "q": "Chart Review (March 17th): I traded Initial Resistance for -1R, and then I failed to re-Short at the upper Resistance. How should I think about this complex contextual situation, why was fading Initial Resistance in this specific instance on first test and exhaustion not such a good idea?",
+        "asker": ""
+      },
+      {
+        "t": "11:51",
+        "q": "Can you share best Zone Fades from this past week along with the context that made them ideal trading opportunities?",
+        "asker": ""
+      },
+      {
+        "t": "18:18",
+        "q": "Can you share your best practices when using the daisy-chain technique of execution. I ams realizing that I am probably overusing it, which is degrading my executional edge. I'd like some general guidance on when to use it, given the context in play.",
+        "asker": ""
+      }
+    ],
+    "title": "Chart Review"
+  },
+  {
     "iso": "2026-03-11",
     "date": "March 11, 2026",
     "questions": [
@@ -22849,6 +22971,8990 @@ export const SESSIONS = [
         "asker": ""
       }
     ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-08-03",
+    "date": "August 3, 2016",
+    "questions": [
+      {
+        "t": "00:21",
+        "q": "General thoughts on Swing trading on the larger timeframe.",
+        "asker": ""
+      },
+      {
+        "t": "07:45",
+        "q": "Student Trade Review (August 3rd): Short reversal trade off of the 2151.50-2153.50 zone following a multi-week balance breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "22:55",
+        "q": "Chart Review (August 3rd): Disconnect between NYSE TICK and price action.",
+        "asker": ""
+      },
+      {
+        "t": "29:43",
+        "q": "Can you explain the STEP process and give an example?",
+        "asker": ""
+      },
+      {
+        "t": "36:27",
+        "q": "Is there any significance to the NYSE TICK movement from one level to another, i.e. if it moves slickly with a few bars, or if it takes many bars to get there?",
+        "asker": ""
+      },
+      {
+        "t": "38:46",
+        "q": "Chart Review (July 25th): Can you explain how you would identify the Bull/Bear zone for that day?",
+        "asker": ""
+      },
+      {
+        "t": "40:30",
+        "q": "How do you determine a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "44:25",
+        "q": "How large does a gap need to be in order to be significant?",
+        "asker": ""
+      },
+      {
+        "t": "48:59",
+        "q": "Student Trade Review (August 3rd): Shorting the Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "55:53",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-07-27",
+    "date": "July 27, 2016",
+    "questions": [
+      {
+        "t": "00:29",
+        "q": "Chart Review (July 21st): Intraday balancing with rising A/D and positive TICK skew.",
+        "asker": ""
+      },
+      {
+        "t": "05:54",
+        "q": "Student Trade Review (July 25th): Intraday balance breakout.",
+        "asker": ""
+      },
+      {
+        "t": "10:30",
+        "q": "Do you recommend trading both the S&P 500 (ES) and the Russell (TF) at the same time?",
+        "asker": ""
+      },
+      {
+        "t": "10:30",
+        "q": "Chart Review (July 26th): How do you handle the sudden expansion in volatility which resulted in a large downside move?",
+        "asker": ""
+      },
+      {
+        "t": "17:56",
+        "q": "When do you play defense and how to do it correctly?",
+        "asker": ""
+      },
+      {
+        "t": "23:10",
+        "q": "Student Trade Review (July 27th): Is the 2163-2165 pre-market support zone a good spot to expect a reversal?",
+        "asker": ""
+      },
+      {
+        "t": "27:51",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Chart Review"
+  },
+  {
+    "iso": "2016-07-20",
+    "date": "July 20, 2016",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "If the markets are balancing in a narrow intraday range, do you recommend placing bracket buy and sell orders above and below the trading range to profit from whichever direction the market breaks out?",
+        "asker": ""
+      },
+      {
+        "t": "06:28",
+        "q": "Intraday Range Analysis: How does the overnight session play a role in reference to the 10-day ATR?",
+        "asker": ""
+      },
+      {
+        "t": "14:20",
+        "q": "Chat Review (July 14th): What's the difference between Pre-market Support and Initial Support?",
+        "asker": ""
+      },
+      {
+        "t": "18:33",
+        "q": "Can you define broad market support?",
+        "asker": ""
+      },
+      {
+        "t": "20:09",
+        "q": "How do you identify intraday KRAs?",
+        "asker": ""
+      },
+      {
+        "t": "22:28",
+        "q": "Do you pay attention to the DOM (Depth Of Market)?",
+        "asker": ""
+      },
+      {
+        "t": "24:49",
+        "q": "Student Trade Review (July 20th): Using reward-to-risk in the decision process for initiating trades.",
+        "asker": ""
+      },
+      {
+        "t": "30:22",
+        "q": "Student Trade Review (July 18th): Shorting in an overall bullish environment, using the VWAP to initiate trades.",
+        "asker": ""
+      },
+      {
+        "t": "39:48",
+        "q": "Chart Review (July 20th): General thoughts on trading based on expectancy.",
+        "asker": ""
+      },
+      {
+        "t": "46:49",
+        "q": "Chart Review (July 20th): What other reasons to look aside from the Russell (TF)?",
+        "asker": ""
+      },
+      {
+        "t": "48:24",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-07-13",
+    "date": "July 13, 2016",
+    "questions": [
+      {
+        "t": "00:37",
+        "q": "How to interpret and use a two-sided TICK?",
+        "asker": ""
+      },
+      {
+        "t": "04:09",
+        "q": "What are the contextual situations where one should be conservative or aggressive?",
+        "asker": ""
+      },
+      {
+        "t": "08:34",
+        "q": "What are the tactics you use in conservative and aggressive contextual situations?",
+        "asker": ""
+      },
+      {
+        "t": "10:00",
+        "q": "Chart Review (July 13th): Intraday candlestick patterns.",
+        "asker": ""
+      },
+      {
+        "t": "15:21",
+        "q": "Student Trade Review (July 7th): Managing a bigger picture counter-trend short trade.",
+        "asker": ""
+      },
+      {
+        "t": "18:15",
+        "q": "Chart Review (July 6th): Interpreting the TICK in an intraday balance.",
+        "asker": ""
+      },
+      {
+        "t": "24:15",
+        "q": "Student Trade Review (July 7th): Fading after an intraday balance breakdown in an overall bullish environment.",
+        "asker": ""
+      },
+      {
+        "t": "29:18",
+        "q": "Chart Review (July 11th): Pullback to Overnight High.",
+        "asker": ""
+      },
+      {
+        "t": "30:47",
+        "q": "Student Trade Review (July 12th): Shorting in an overall bullish environment.",
+        "asker": ""
+      },
+      {
+        "t": "33:03",
+        "q": "Chart Review (July 11th): General thoughts on the Intraday Range Analysis.",
+        "asker": ""
+      },
+      {
+        "t": "39:02",
+        "q": "Chart Review (July 13th): Reading the intraday bias in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "46:33",
+        "q": "Chart Review (July 12th): Why was the 2129-2131 zone not used?",
+        "asker": ""
+      },
+      {
+        "t": "49:55",
+        "q": "Chart Review (July 12th): Was it correct to shift the 2119.75-2122.75 zone up to 2123-2125 to incorporate the RTH low from the previous day?",
+        "asker": ""
+      },
+      {
+        "t": "56:03",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-07-06",
+    "date": "July 6, 2016",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "Market Analysis following the Brexit price action: Multi-month balance breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "12:58",
+        "q": "Student Trade Review (July 5th): Re-entering a zone after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "18:27",
+        "q": "Student Trade Review (July 5th): Long entry following an intraday balance breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "23:48",
+        "q": "Chart Review (July 1st, July 5th): When to get on board an Open Drive.",
+        "asker": ""
+      },
+      {
+        "t": "31:40",
+        "q": "Chart Review (July 6th): Globex balance breakout.",
+        "asker": ""
+      },
+      {
+        "t": "37:12",
+        "q": "When to re-enter a zone after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "45:34",
+        "q": "What do you generally look for in the Globex session?",
+        "asker": ""
+      },
+      {
+        "t": "38:30",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-06-29",
+    "date": "June 29, 2016",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "General thoughts on how and when to scale up/down in trade size.",
+        "asker": ""
+      },
+      {
+        "t": "08:21",
+        "q": "How do you determine the size of your stop?",
+        "asker": ""
+      },
+      {
+        "t": "10:13",
+        "q": "What session close do you use for gaps?",
+        "asker": ""
+      },
+      {
+        "t": "12:43",
+        "q": "Do you differentiate between higher and lower probability trades with respect to your risk management?",
+        "asker": ""
+      },
+      {
+        "t": "17:01",
+        "q": "Chart Review (June 28th): Is it bad practice to initiate longs to take advantage of market bounces when both the larger and shorter timeframe are bearish?",
+        "asker": ""
+      },
+      {
+        "t": "22:23",
+        "q": "Chart Review (June 27th): Trade plan discussion.",
+        "asker": ""
+      },
+      {
+        "t": "28:07",
+        "q": "Student Trade Review (June 28th): Pullback Continuation trade.",
+        "asker": ""
+      },
+      {
+        "t": "33:13",
+        "q": "Student Trade Review (June 29th): Short trade in pre-market.",
+        "asker": ""
+      },
+      {
+        "t": "37:49",
+        "q": "Student Trade Review (June 28th): Pullback Continuation and Breakout trade.",
+        "asker": ""
+      },
+      {
+        "t": "42:47",
+        "q": "Student Trade Review (June 29th): Is it ok to set the target a few ticks ahead of a zone even if this means a slightly less than 2R reward potential?",
+        "asker": ""
+      },
+      {
+        "t": "49:19",
+        "q": "Chart Review (June 29th): A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "50:38",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-06-22",
+    "date": "June 22, 2016",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "General thoughts on how to avoid over-trading newly developed intraday support/resistance zones.",
+        "asker": ""
+      },
+      {
+        "t": "05:42",
+        "q": "General thoughts on how to avoid over-trading in-between zones.",
+        "asker": ""
+      },
+      {
+        "t": "08:40",
+        "q": "Do you recommend staying out of the market until the BREXIT vote is over?",
+        "asker": ""
+      },
+      {
+        "t": "11:31",
+        "q": "Do you recommend trading other markets such as Gold or Bonds, and how are they different in terms of opportunities, market moves, liquidity?",
+        "asker": ""
+      },
+      {
+        "t": "15:22",
+        "q": "Student Trade Review (June 20th): Should I be looking for smaller profits to avoid seeing trades turn around?",
+        "asker": ""
+      },
+      {
+        "t": "23:23",
+        "q": "Student Trade Review (June 17th): A/D disconnect and TICK skew.",
+        "asker": ""
+      },
+      {
+        "t": "30:35",
+        "q": "Student Trade Review (June 16th): Over-weighing market internals at larger timeframe zones.",
+        "asker": ""
+      },
+      {
+        "t": "36:04",
+        "q": "Student Trade Review (June 22nd): Shorting in the middle of a balance.",
+        "asker": ""
+      },
+      {
+        "t": "40:45",
+        "q": "Student Trade Review (June 22nd): Using R/R as a filter for initiating trades.",
+        "asker": ""
+      },
+      {
+        "t": "45:03",
+        "q": "Can a disconnect in the A/D line be used to initiate a trade?",
+        "asker": ""
+      },
+      {
+        "t": "49:37",
+        "q": "How does one calculate R and Expectancy when trading Options?",
+        "asker": ""
+      },
+      {
+        "t": "52:11",
+        "q": "Do you also use Fibonacci retracements on the larger timeframe when the market goes directional?",
+        "asker": ""
+      },
+      {
+        "t": "53:52",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-06-15",
+    "date": "June 15, 2016",
+    "questions": [
+      {
+        "t": "00:23",
+        "q": "When context on the higher timeframes allows for entry, do you apply strict rules for when/where to enter on the smaller timeframe?",
+        "asker": ""
+      },
+      {
+        "t": "05:53",
+        "q": "What is the typical price rotation of up moves and down moves of the ES?",
+        "asker": ""
+      },
+      {
+        "t": "12:36",
+        "q": "How long should one wait after major news release such as the FOMC announcement before initiating a trade?",
+        "asker": ""
+      },
+      {
+        "t": "15:00",
+        "q": "Student Trade Review (June 14th): Shorting pre-market resistance. Should one wait for a re-test confirmation?",
+        "asker": ""
+      },
+      {
+        "t": "21:09",
+        "q": "Chart Review (June 14th): Where does the 2060.25 - 2062.25 support zone come from?",
+        "asker": ""
+      },
+      {
+        "t": "22:33",
+        "q": "Student Trade Review (June 14th): Missed entry.",
+        "asker": ""
+      },
+      {
+        "t": "29:58",
+        "q": "Student Trade Review (June 14th): Missed entry and setting target.",
+        "asker": ""
+      },
+      {
+        "t": "32:19",
+        "q": "Chart Review (June 10th): What would you consider the short-term bias for that day?",
+        "asker": ""
+      },
+      {
+        "t": "39:12",
+        "q": "Student Trade Review (June 13th).",
+        "asker": ""
+      },
+      {
+        "t": "43:57",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-06-08",
+    "date": "June 8, 2016",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "Student Trade Review (6/2): Intraday down bar in the context of a bigger picture bullish environment.",
+        "asker": ""
+      },
+      {
+        "t": "07:11",
+        "q": "Chart Review (6/2): Is the large intraday down bar considered an intraday downtrend conviction?",
+        "asker": ""
+      },
+      {
+        "t": "10:05",
+        "q": "Chart Review (6/6): How to use buying tails.",
+        "asker": ""
+      },
+      {
+        "t": "16:03",
+        "q": "Chart Review (6/3): Larger timeframe support zone.",
+        "asker": ""
+      },
+      {
+        "t": "22:35",
+        "q": "Chart Review (6/6): Why was the 2089-2092 zone not relevant for the day?",
+        "asker": ""
+      },
+      {
+        "t": "26:37",
+        "q": "Student Trade Review (6/7): Is it a valid idea to get long in pre-market at 2109.25?",
+        "asker": ""
+      },
+      {
+        "t": "27:56",
+        "q": "Chart Review (6/7): How do determine potential resistance zones when the market is making fresh all-time highs?",
+        "asker": ""
+      },
+      {
+        "t": "33:04",
+        "q": "General thoughts on using the OpenTrader methodology to trade Forex and other markets.",
+        "asker": ""
+      },
+      {
+        "t": "36:14",
+        "q": "What is the probability of a trending day moving forward?",
+        "asker": ""
+      },
+      {
+        "t": "40:36",
+        "q": "Is it odd that the volume is low as the market is making fresh all-time highs?",
+        "asker": ""
+      },
+      {
+        "t": "44:29",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-06-01",
+    "date": "June 1, 2016",
+    "questions": [
+      {
+        "t": "00:29",
+        "q": "General thoughts on gaps and how \"not\" to use them.",
+        "asker": ""
+      },
+      {
+        "t": "08:35",
+        "q": "General thoughts on contract back-adjustment and using the non-adjusted prices as reference areas.",
+        "asker": ""
+      },
+      {
+        "t": "13:04",
+        "q": "Chart Review (6/1): Failed breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "20:15",
+        "q": "General thoughts on fine tuning support/resistance zones.",
+        "asker": ""
+      },
+      {
+        "t": "25:45",
+        "q": "Student Trade Review (5/31): Stop management.",
+        "asker": ""
+      },
+      {
+        "t": "30:25",
+        "q": "General thoughts on setting and using zones.",
+        "asker": ""
+      },
+      {
+        "t": "35:43",
+        "q": "Chart Review (5/31): How is the target set for the long trade off of 2087?",
+        "asker": ""
+      },
+      {
+        "t": "36:34",
+        "q": "Chart Review (5/31): When would you enter at the 2087-2089 zone?",
+        "asker": ""
+      },
+      {
+        "t": "37:44",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-05-25",
+    "date": "May 25, 2016",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "Student Trade Review (5/20): Interpreting the A/D line off the open, pullback trade, target not hit.",
+        "asker": ""
+      },
+      {
+        "t": "12:13",
+        "q": "Chart Review (5/25): Was there a trigger to get long at the open?",
+        "asker": ""
+      },
+      {
+        "t": "14:26",
+        "q": "How do you interpret conflicting information in other markets (NQ and TF)?",
+        "asker": ""
+      },
+      {
+        "t": "16:26",
+        "q": "Student Trade Review (5/24): How to get on board open drives.",
+        "asker": ""
+      },
+      {
+        "t": "25:35",
+        "q": "Are there any rules of thumb for entering ahead of zone, and where to set the stop in that case?",
+        "asker": ""
+      },
+      {
+        "t": "28:37",
+        "q": "Student Trade Review (5/24): At which point was it valid to participate in the breakout trade at the open via a market order?",
+        "asker": ""
+      },
+      {
+        "t": "31:09",
+        "q": "Chart Review (5/25): How was the 2075-2077.50 zone derived?",
+        "asker": ""
+      },
+      {
+        "t": "33:25",
+        "q": "General thoughts on how to track big money price manipulation, and how to read the NYSE TICK.",
+        "asker": ""
+      },
+      {
+        "t": "37:18",
+        "q": "How do you guess tops or bottoms after a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "39:42",
+        "q": "Chart Review (5/25): Would you have bought the morning pullback to 2084?",
+        "asker": ""
+      },
+      {
+        "t": "40:54",
+        "q": "Chart Review (5/25): Since we were expecting a balancing day after the previous day's trending move, does it make sense to sell the range tops and buy the range bottoms?",
+        "asker": ""
+      },
+      {
+        "t": "42:21",
+        "q": "Student Trade Review (5/25): Pullback Continuation trade on a range bound day.",
+        "asker": ""
+      },
+      {
+        "t": "44:35",
+        "q": "Chart Review (5/25): Is shorting 2086 in the morning a valid trade?",
+        "asker": ""
+      },
+      {
+        "t": "46:23",
+        "q": "General thoughts on measuring your development as a trader?",
+        "asker": ""
+      },
+      {
+        "t": "50:34",
+        "q": "What is the best platform for Volume Profile?",
+        "asker": ""
+      },
+      {
+        "t": "51:01",
+        "q": "Chart Review (5/25): Would you have a resting short order at the 2092.25-2094.25 resistance zone in the overnight session going into tomorrow?",
+        "asker": ""
+      },
+      {
+        "t": "57:03",
+        "q": "Do you look at seasonality?",
+        "asker": ""
+      },
+      {
+        "t": "51:49",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-05-18",
+    "date": "May 18, 2016",
+    "questions": [
+      {
+        "t": "00:47",
+        "q": "General thoughts on how to trade after major news releases, and how long to wait before starting to trade?",
+        "asker": ""
+      },
+      {
+        "t": "05:50",
+        "q": "General thoughts on inside days, what normally ensues before and after such days?",
+        "asker": ""
+      },
+      {
+        "t": "08:10",
+        "q": "How often would you recommend we go through the training videos as a practice routine?",
+        "asker": ""
+      },
+      {
+        "t": "11:49",
+        "q": "Chart Review (5/13): Intraday Balance Breakdown  into a zone.",
+        "asker": ""
+      },
+      {
+        "t": "21:45",
+        "q": "Why would you sometimes have Pre-market Support/Resistance and other times you wouldn’t, to just have Initial Support/Resistance?",
+        "asker": ""
+      },
+      {
+        "t": "23:18",
+        "q": "Chart Review (5/17): What is the reason behind the zone around 2052.25?",
+        "asker": ""
+      },
+      {
+        "t": "26:35",
+        "q": "Chart Review (5/17): How would you trade the breakdown through initial support?",
+        "asker": ""
+      },
+      {
+        "t": "29:34",
+        "q": "Chart Review: Larger timeframe bias changes between 5/6 and 5/13.",
+        "asker": ""
+      },
+      {
+        "t": "37:02",
+        "q": "Student Trade Review (5/17).",
+        "asker": ""
+      },
+      {
+        "t": "41:49",
+        "q": "Do you use Pivot Points?",
+        "asker": ""
+      },
+      {
+        "t": "43:45",
+        "q": "Student Trade Review (5/18): Directional move after FOMC.",
+        "asker": ""
+      },
+      {
+        "t": "47:20",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-05-11",
+    "date": "May 11, 2016",
+    "questions": [
+      {
+        "t": "00:26",
+        "q": "When trading Options, how many days till expiration would you recommend when applying the OpenTrader methodology?",
+        "asker": ""
+      },
+      {
+        "t": "06:05",
+        "q": "What do you recommend in terms of tactics for execution when using the OpenTrader methodology to trade other markets and instruments that don't have market internals?",
+        "asker": ""
+      },
+      {
+        "t": "14:58",
+        "q": "How do you a gauge if an area that's already been tested in the Overnight/Globex session is still valid during RTH?",
+        "asker": ""
+      },
+      {
+        "t": "18:34",
+        "q": "Chart Review (5/5): How do you avoid the morning chop?",
+        "asker": ""
+      },
+      {
+        "t": "25:04",
+        "q": "Chart Review (5/5): Do you consider it a divergence when A/D opened at +1000 but price gapped up by 3-4 points from the previous close?",
+        "asker": ""
+      },
+      {
+        "t": "28:47",
+        "q": "Chart Review (5/11): A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "32:46",
+        "q": "Chart Review (5/11): Does the intraday price action and market internals affect your initial target from the morning trade plan?",
+        "asker": ""
+      },
+      {
+        "t": "38:58",
+        "q": "Student Trade Review (5/11): Did I set the target and stop correctly?",
+        "asker": ""
+      },
+      {
+        "t": "42:18",
+        "q": "Chart Review (5/11): Was the NQ weakness a tell for the afternoon breakdown?",
+        "asker": ""
+      },
+      {
+        "t": "46:32",
+        "q": "Where are the morning videos posted?",
+        "asker": ""
+      },
+      {
+        "t": "47:01",
+        "q": "What timeframes do you look at intraday?",
+        "asker": ""
+      },
+      {
+        "t": "47:56",
+        "q": "Do you use intraday candlestick patterns that could signal a change in momentum?",
+        "asker": ""
+      },
+      {
+        "t": "49:47",
+        "q": "What timeframes do you look at for NQ and TF?",
+        "asker": ""
+      },
+      {
+        "t": "50:37",
+        "q": "Chart Review (5/11): Is the large down bar in the morning considered an exhaustion bar?",
+        "asker": ""
+      },
+      {
+        "t": "51:14",
+        "q": "Do I need a charting platform to paper trade?",
+        "asker": ""
+      },
+      {
+        "t": "53:56",
+        "q": "What is the third market that you also keep track of?",
+        "asker": ""
+      },
+      {
+        "t": "54:09",
+        "q": "Is the A/D line platform dependent?",
+        "asker": ""
+      },
+      {
+        "t": "54:48",
+        "q": "Do you hold positions overnight?",
+        "asker": ""
+      },
+      {
+        "t": "55:42",
+        "q": "Chart Review (5/10): Would you have risked 2R on the morning trade off of the 2058-2060 support zone?",
+        "asker": ""
+      },
+      {
+        "t": "56:29",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-05-04",
+    "date": "May 4, 2016",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "Student Trade Review (4/29): Stop placement and stop size based on market environment.",
+        "asker": ""
+      },
+      {
+        "t": "06:00",
+        "q": "Market analysis: Larger timeframe bias.",
+        "asker": ""
+      },
+      {
+        "t": "10:13",
+        "q": "Chart Review (5/2): Why was the 42-44 zone shifted down?",
+        "asker": ""
+      },
+      {
+        "t": "13:17",
+        "q": "Chart Review (5/2): Taking trades that are not in a zone.",
+        "asker": ""
+      },
+      {
+        "t": "19:45",
+        "q": "General thoughts on failed breakdowns or breakouts.",
+        "asker": ""
+      },
+      {
+        "t": "28:23",
+        "q": "Student Trade Review (5/4): Scaling out ahead of an economic report.",
+        "asker": ""
+      },
+      {
+        "t": "36:39",
+        "q": "Do the stop loss and position sizing apply to Options and Forex?",
+        "asker": ""
+      },
+      {
+        "t": "38:52",
+        "q": "How to identify failed breakouts or breakdowns.",
+        "asker": ""
+      },
+      {
+        "t": "42:59",
+        "q": "When is the A/D line considered extreme? How to interpret the A/D line.",
+        "asker": ""
+      },
+      {
+        "t": "48:07",
+        "q": "Do you look for failed breakouts in the current bullish environment?",
+        "asker": ""
+      },
+      {
+        "t": "48:25",
+        "q": "Student Trade Review (5/4): Do you use Delta?",
+        "asker": ""
+      },
+      {
+        "t": "54:05",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-04-27",
+    "date": "April 27, 2016",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "How do you identify a valid trade when price is in-between zones?",
+        "asker": ""
+      },
+      {
+        "t": "05:22",
+        "q": "How to re-enter a trade after getting stopped out?",
+        "asker": ""
+      },
+      {
+        "t": "13:12",
+        "q": "General thoughts on setting high probability targets based on market environment.",
+        "asker": ""
+      },
+      {
+        "t": "23:38",
+        "q": "What is the difference between zones and single line S/R levels.",
+        "asker": ""
+      },
+      {
+        "t": "28:57",
+        "q": "Chart Review (4/18):  Can you describe the key differences you see when taking an exhaustion setup vs. skipping the trade in the case of a momentum market?",
+        "asker": ""
+      },
+      {
+        "t": "33:50",
+        "q": "Student Trade Review (4/26): General advice on how to deal with current low volatility, choppy market environment.",
+        "asker": ""
+      },
+      {
+        "t": "48:13",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-04-20",
+    "date": "April 20, 2016",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "Student trade review (4/14): Stop placement.",
+        "asker": ""
+      },
+      {
+        "t": "04:58",
+        "q": "If the market breaks the previous day's low, do you automatically consider the previous day's high as resistance since outside days are less common?",
+        "asker": ""
+      },
+      {
+        "t": "06:54",
+        "q": "What is the best way to find the intraday support/resistance levels during the trading day?",
+        "asker": ""
+      },
+      {
+        "t": "10:09",
+        "q": "Student trade review (4/19): Having resting orders in the Globex session.",
+        "asker": ""
+      },
+      {
+        "t": "14:24",
+        "q": "Chart review (4/19): Is a test of a zone in the Globex session still considered first test?",
+        "asker": ""
+      },
+      {
+        "t": "15:58",
+        "q": "What is the difference between a reference area and a bull/bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "19:10",
+        "q": "Which range do you consider more important, the 8-9:30am EST range in pre-market or the opening swing in the first hour?",
+        "asker": ""
+      },
+      {
+        "t": "22:36",
+        "q": "Student trade review (4/19): Scratching a trade.",
+        "asker": ""
+      },
+      {
+        "t": "26:01",
+        "q": "General thoughts on how to maintain mental and physical clarity during the day.",
+        "asker": ""
+      },
+      {
+        "t": "30:45",
+        "q": "What are the main issues/problems trading all time highs markets?",
+        "asker": ""
+      },
+      {
+        "t": "34:45",
+        "q": "Chart review (4/20): How was the 2091-2093 zone (pre-market support) derived?",
+        "asker": ""
+      },
+      {
+        "t": "36:27",
+        "q": "With price making new all-time highs, how do you derive the resistance zones above?",
+        "asker": ""
+      },
+      {
+        "t": "40:46",
+        "q": "Student trade review (4/20).",
+        "asker": ""
+      },
+      {
+        "t": "47:46",
+        "q": "Chart review (4/4, 4/13): Why was the short-term bias neutral on 4/4 and bullish on 4/13?",
+        "asker": ""
+      },
+      {
+        "t": "53:05",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-04-13",
+    "date": "April 13, 2016",
+    "questions": [
+      {
+        "t": "00:37",
+        "q": "Student trade review (4/8): Intra-day bias shift, stop placement, and determining targets.",
+        "asker": ""
+      },
+      {
+        "t": "13:17",
+        "q": "Student trade review (4/8).",
+        "asker": ""
+      },
+      {
+        "t": "16:45",
+        "q": "Student trade review (4/11).",
+        "asker": ""
+      },
+      {
+        "t": "22:55",
+        "q": "General thoughts on how to overcome exiting early for quick profits after taking several losses in a row.",
+        "asker": ""
+      },
+      {
+        "t": "29:25",
+        "q": "Student trade review (4/8, 4/11).",
+        "asker": ""
+      },
+      {
+        "t": "31:07",
+        "q": "General thoughts on using stops for long term sustainability. What does \"cut your losses quickly\" mean?",
+        "asker": ""
+      },
+      {
+        "t": "39:58",
+        "q": "Student trade review (4/13): Range expectation after a big trending day.",
+        "asker": ""
+      },
+      {
+        "t": "45:50",
+        "q": "General thoughts on gaps and gap fills.",
+        "asker": ""
+      },
+      {
+        "t": "50:29",
+        "q": "Student trade review (4/7).",
+        "asker": ""
+      },
+      {
+        "t": "52:52",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-04-06",
+    "date": "April 6, 2016",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "Which Forex pairs do you recommend trading?",
+        "asker": ""
+      },
+      {
+        "t": "02:44",
+        "q": "General thoughts on how to overcome overtrading on bad days?",
+        "asker": ""
+      },
+      {
+        "t": "11:53",
+        "q": "What different factors are involved between holding and breaking when a level is tested multiple times?",
+        "asker": ""
+      },
+      {
+        "t": "15:54",
+        "q": "General thoughts on applying the methodology to swing trading.",
+        "asker": ""
+      },
+      {
+        "t": "21:46",
+        "q": "Student trade review (4/1).",
+        "asker": ""
+      },
+      {
+        "t": "29:27",
+        "q": "Chart review (4/1): How to gauge the market strength during the trading day.",
+        "asker": ""
+      },
+      {
+        "t": "32:02",
+        "q": "Student trade review (4/1): A/D disconnect.",
+        "asker": ""
+      },
+      {
+        "t": "36:12",
+        "q": "Chart review (4/1): How soon after the open should I have been able to recognize that it was a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "37:51",
+        "q": "How to identify which side is in control and which carries more weight, a breakdown from a 4-day balance or the larger timeframe bias?",
+        "asker": ""
+      },
+      {
+        "t": "47:10",
+        "q": "Student trade review (4/4): Intra-day bias.",
+        "asker": ""
+      },
+      {
+        "t": "54:38",
+        "q": "Student trade review (4/4).",
+        "asker": ""
+      },
+      {
+        "t": "56:00",
+        "q": "Student trade review (4/5).",
+        "asker": ""
+      },
+      {
+        "t": "58:14",
+        "q": "Chart review: Can you explain the difference between the A/D of 4/4 and 4/5?",
+        "asker": ""
+      },
+      {
+        "t": "59:07",
+        "q": "Student trade review (4/5): When to chase a trade.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-03-30",
+    "date": "March 30, 2016",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "What do you mean by moving stops to the \"point of no return\"?",
+        "asker": ""
+      },
+      {
+        "t": "04:45",
+        "q": "Student trade review (3/29): Negative $TICK readings at the open.",
+        "asker": ""
+      },
+      {
+        "t": "09:29",
+        "q": "Student trade review (3/29): How to predict the direction of the breakout from a balance area?",
+        "asker": ""
+      },
+      {
+        "t": "16:31",
+        "q": "Student trade review (3/29): How should one have traded the Yellen press release?",
+        "asker": ""
+      },
+      {
+        "t": "20:10",
+        "q": "While still in an intra-day balance and ahead of a pending major news release, do you recommend placing two orders, a long above and a short below the balance to catch the breakout in either direction?",
+        "asker": ""
+      },
+      {
+        "t": "22:02",
+        "q": "Chart review (3/29): Interpreting pre-market action.",
+        "asker": ""
+      },
+      {
+        "t": "23:46",
+        "q": "Chart review (3/29): Can you explain the reason behind entering at the 2020-2022 bull-bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "25:58",
+        "q": "Student trade review (3/29): Using the Fibonacci retracement.",
+        "asker": ""
+      },
+      {
+        "t": "27:26",
+        "q": "Are there any ways than the R/R to determine if I should place the order in front, within, or at the back of a zone?",
+        "asker": ""
+      },
+      {
+        "t": "30:47",
+        "q": "What does it mean when it is said that successful traders you should find a methodology that fits their personality?",
+        "asker": ""
+      },
+      {
+        "t": "34:43",
+        "q": "Is it easier to trade 2 contracts instead of 1?",
+        "asker": ""
+      },
+      {
+        "t": "36:11",
+        "q": "Do you trade the Globex session, and why?",
+        "asker": ""
+      },
+      {
+        "t": "39:33",
+        "q": "Student trade review (3/29).",
+        "asker": ""
+      },
+      {
+        "t": "41:51",
+        "q": "Chart review (3/29): Does the proximity of zones or levels impact your stop size?",
+        "asker": ""
+      },
+      {
+        "t": "43:14",
+        "q": "Student trade review (3/28): Using the IB high/low on Neutral days.",
+        "asker": ""
+      },
+      {
+        "t": "47:54",
+        "q": "Chart review (3/28): Is the opening considered an open drive?",
+        "asker": ""
+      },
+      {
+        "t": "50:49",
+        "q": "Chart review (3/30): What were the signs to enter the bull-bear zone in the first 5 minutes of the day?",
+        "asker": ""
+      },
+      {
+        "t": "55:12",
+        "q": "Chart review (3/30): As the market was coming down around 12pm EST, would you still fade the down move at the key support level?",
+        "asker": ""
+      },
+      {
+        "t": "57:05",
+        "q": "Chart review (3/29): How was the initial support zone at 2020-2022 derived?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-03-23",
+    "date": "March 23, 2016",
+    "questions": [
+      {
+        "t": "00:46",
+        "q": "Student trade review (3/21): Missed entries.",
+        "asker": ""
+      },
+      {
+        "t": "03:49",
+        "q": "Student trade review (3/21): A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "05:25",
+        "q": "Student trade review (3/21): Reading the NYSE TICK.",
+        "asker": ""
+      },
+      {
+        "t": "07:08",
+        "q": "Student trade review (3/21): Short bias.",
+        "asker": ""
+      },
+      {
+        "t": "09:50",
+        "q": "On balanced days, should I fade every zone?",
+        "asker": ""
+      },
+      {
+        "t": "11:10",
+        "q": "Student trade review (3/21).",
+        "asker": ""
+      },
+      {
+        "t": "18:12",
+        "q": "Chart review: What should we expect as we enter the previous balance area that extended from Mid October 2015 to early January?",
+        "asker": ""
+      },
+      {
+        "t": "20:00",
+        "q": "Since most zones are 2 points wide, does that mean that we always have to use a 3 point stop to have it beyond the zone?",
+        "asker": ""
+      },
+      {
+        "t": "21:18",
+        "q": "Student trade review (3/22).",
+        "asker": ""
+      },
+      {
+        "t": "25:00",
+        "q": "Chart review (3/23): Intra-day bias.",
+        "asker": ""
+      },
+      {
+        "t": "27:36",
+        "q": "Student trade review (3/22): Failed breakout.",
+        "asker": ""
+      },
+      {
+        "t": "35:04",
+        "q": "Why was the long term bias changed to neutral from bearish on March 2nd?",
+        "asker": ""
+      },
+      {
+        "t": "36:42",
+        "q": "Student trader review (3/22): Why was it not correct to initiate a failed breakout short trade at 2:14pm EST today?",
+        "asker": ""
+      },
+      {
+        "t": "41:00",
+        "q": "Chart review (3/22): Is there a certain time frame off the open to see if something holds or not?",
+        "asker": ""
+      },
+      {
+        "t": "44:13",
+        "q": "Chart review (3/22): Is this day considered a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "45:10",
+        "q": "Student trade review (3/22).",
+        "asker": ""
+      },
+      {
+        "t": "47:04",
+        "q": "How relevant are S/R areas related to price action that took place a couple of weeks or months ago?",
+        "asker": ""
+      },
+      {
+        "t": "48:46",
+        "q": "Should I learn to read the tape?",
+        "asker": ""
+      },
+      {
+        "t": "51:12",
+        "q": "Chart review (3/23): Why was the support zone at 2030.5-2031.5 not drawn with a bottom of 2028.75 since that is where the last tail was on 3/21?",
+        "asker": ""
+      },
+      {
+        "t": "52:02",
+        "q": "Student trade review (3/23): Does fading when the market hovers in front of a zone have less odds?",
+        "asker": ""
+      },
+      {
+        "t": "53:50",
+        "q": "Chart review (3/23): Initial support on second test.",
+        "asker": ""
+      },
+      {
+        "t": "57:56",
+        "q": "Could you please elaborate on the following terms: Being Cautious, Being Conservative, Being Selective, Playing Defense?",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-03-16",
+    "date": "March 16, 2016",
+    "questions": [
+      {
+        "t": "00:41",
+        "q": "Student trade review (3/10): Fading a reversal day.",
+        "asker": ""
+      },
+      {
+        "t": "13:08",
+        "q": "Student trade review (3/10): How to re-enter after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "19:34",
+        "q": "Chart review (3/14): Do you use Fibonacci retracements to enter on the pullback?",
+        "asker": ""
+      },
+      {
+        "t": "24:00",
+        "q": "Chart review (3/15): Pre-market analysis.",
+        "asker": ""
+      },
+      {
+        "t": "30:23",
+        "q": "Chart review (3/15): General context vs market internals.",
+        "asker": ""
+      },
+      {
+        "t": "36:52",
+        "q": "What do you recommend for days when you can tell pretty early on that the volume is light?",
+        "asker": ""
+      },
+      {
+        "t": "40:00",
+        "q": "How much do you think the spring break is factoring into the low volume (3/14, 3/15)?",
+        "asker": ""
+      },
+      {
+        "t": "40:57",
+        "q": "Student trade review (GBPJPY 3/15).",
+        "asker": ""
+      },
+      {
+        "t": "43:34",
+        "q": "What time of day, day of week, or month of the year do you avoid trading?",
+        "asker": ""
+      },
+      {
+        "t": "44:38",
+        "q": "What kind of events do you avoid trading, i.e. FOMC, Jobs Report?",
+        "asker": ""
+      },
+      {
+        "t": "47:39",
+        "q": "Do you use Volume charts for the larger timeframe analysis?",
+        "asker": ""
+      },
+      {
+        "t": "48:56",
+        "q": "Can you elaborate on the disadvantages between CFDs and Futures?",
+        "asker": ""
+      },
+      {
+        "t": "50:29",
+        "q": "Chart review (3/15): On the gap down, how long do you wait before you realize this is not an open drive down?",
+        "asker": ""
+      },
+      {
+        "t": "51:55",
+        "q": "How long into the day do you normally trade?",
+        "asker": ""
+      },
+      {
+        "t": "54:56",
+        "q": "Does the Globex trading session follow the same rules as RTH in respecting the key reference areas?",
+        "asker": ""
+      },
+      {
+        "t": "56:34",
+        "q": "Student trade review (3/15).",
+        "asker": ""
+      },
+      {
+        "t": "57:38",
+        "q": "Chart review (3/16): FOMC day.",
+        "asker": ""
+      },
+      {
+        "t": "59:11",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-03-09",
+    "date": "March 9, 2016",
+    "questions": [
+      {
+        "t": "01:37",
+        "q": "Student trade review (3/3): A/D disconnect and market context.",
+        "asker": ""
+      },
+      {
+        "t": "12:18",
+        "q": "When a trade approaches and struggles ahead of your target, how often do you take the profit vs hold the trade?",
+        "asker": ""
+      },
+      {
+        "t": "19:29",
+        "q": "How do you know when a LVN is going to hold or not?",
+        "asker": ""
+      },
+      {
+        "t": "24:11",
+        "q": "How do you overcome the inability to pull the trigger on trades?",
+        "asker": ""
+      },
+      {
+        "t": "28:20",
+        "q": "How do you handle missed entries (3/8)?",
+        "asker": ""
+      },
+      {
+        "t": "32:57",
+        "q": "Student trade review (3/7): Micro BB zone.",
+        "asker": ""
+      },
+      {
+        "t": "36:58",
+        "q": "Chart review: What is the difference in terms of context between March 1st and Feb 29th?",
+        "asker": ""
+      },
+      {
+        "t": "40:17",
+        "q": "Student trade review (3/8): Inter-market analysis.",
+        "asker": ""
+      },
+      {
+        "t": "44:57",
+        "q": "Student trade review (3/8).",
+        "asker": ""
+      },
+      {
+        "t": "48:46",
+        "q": "Student trade review (3/9).",
+        "asker": ""
+      },
+      {
+        "t": "53:43",
+        "q": "Student trade review (3/9): Pullback trade to IB high.",
+        "asker": ""
+      },
+      {
+        "t": "55:58",
+        "q": "Student trade review (3/9): Missed target.",
+        "asker": ""
+      },
+      {
+        "t": "58:48",
+        "q": "Student trade review (3/9): Support zone invalidation.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2016-03-02",
+    "date": "March 2, 2016",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "General thoughts on achieving success in trading (trade for expectancy, focus on process).",
+        "asker": ""
+      },
+      {
+        "t": "13:55",
+        "q": "Chart review (3/1): NYSE TICK positive skew vs divergence.",
+        "asker": ""
+      },
+      {
+        "t": "17:23",
+        "q": "Student trade review (2/29).",
+        "asker": ""
+      },
+      {
+        "t": "24:57",
+        "q": "Chart review (3/1): What key reference points were available to read the action on that day?",
+        "asker": ""
+      },
+      {
+        "t": "28:50",
+        "q": "Chart review (3/1): Why was a directional move expected on that day?",
+        "asker": ""
+      },
+      {
+        "t": "40:11",
+        "q": "Chart review (2/29): Shorting an intra-day balance breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "42:50",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-02-24",
+    "date": "February 24, 2016",
+    "questions": [
+      {
+        "t": "00:23",
+        "q": "Do you recommend splitting the entry order into entering on first touch and at the back of the zone?",
+        "asker": ""
+      },
+      {
+        "t": "04:27",
+        "q": "Student trade review (2/19): Trading on Fridays.",
+        "asker": ""
+      },
+      {
+        "t": "09:13",
+        "q": "Student trade review (2/22): Fading a larger timeframe resistance on a low volume day.",
+        "asker": ""
+      },
+      {
+        "t": "14:20",
+        "q": "Chart review (2/24): Reversal off of a larger timeframe support.",
+        "asker": ""
+      },
+      {
+        "t": "26:52",
+        "q": "Chart review (2/17): Analyzing the bigger picture view/context.",
+        "asker": ""
+      },
+      {
+        "t": "36:47",
+        "q": "How do you balance the 70% IB stat vs having a neutral day, and when should you fade the move after the market goes neutral?",
+        "asker": ""
+      },
+      {
+        "t": "43:09",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-02-17",
+    "date": "February 17, 2016",
+    "questions": [
+      {
+        "t": "01:02",
+        "q": "When in a trade from a good trade location and a breakout is expected, do you recommend holding to the target or adding on pullbacks?",
+        "asker": ""
+      },
+      {
+        "t": "06:32",
+        "q": "Is the accumulation of large gaps a concern for day traders?",
+        "asker": ""
+      },
+      {
+        "t": "08:30",
+        "q": "At what position size would you say that you start getting partial fills?",
+        "asker": ""
+      },
+      {
+        "t": "12:08",
+        "q": "Can you still get filled with 50-100 contracts in pre-market?",
+        "asker": ""
+      },
+      {
+        "t": "12:25",
+        "q": "Do you recommend using Delta?",
+        "asker": ""
+      },
+      {
+        "t": "15:01",
+        "q": "Do you track MAE/MFE in your trading journal?",
+        "asker": ""
+      },
+      {
+        "t": "15:51",
+        "q": "When is a support/resistance zone invalidated (2/10)?",
+        "asker": ""
+      },
+      {
+        "t": "19:37",
+        "q": "Chart review (2/11): Range extreme.",
+        "asker": ""
+      },
+      {
+        "t": "22:28",
+        "q": "Chart review (2/16): How do you interpret the larger, intermediate, and smaller time frames?",
+        "asker": ""
+      },
+      {
+        "t": "32:10",
+        "q": "How do you use the 10-day range analysis?",
+        "asker": ""
+      },
+      {
+        "t": "37:27",
+        "q": "Student trade review (2/17): Using the IB high/low.",
+        "asker": ""
+      },
+      {
+        "t": "41:14",
+        "q": "Chart review (2/17): Range extension.",
+        "asker": ""
+      },
+      {
+        "t": "41:56",
+        "q": "When two zones are close to each other and the odds are high for a tradeable reaction, do you place an order in the first zone knowing that the stop loss would be within the next zone or do you place the order at the second zone?",
+        "asker": ""
+      },
+      {
+        "t": "44:13",
+        "q": "When price action has been balancing for a while between an intra-day support and resistance, and bias is clearly bullish, would you go long at a good price (below intra-day VPOC) even if it is not at the zone below, with a larger stop loss, expecting a decent reward?",
+        "asker": ""
+      },
+      {
+        "t": "46:04",
+        "q": "Student trade review (2/17): Interpreting the day's bias.",
+        "asker": ""
+      },
+      {
+        "t": "59:07",
+        "q": "Student trade review (2/17): Shorting a trend day.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-02-10",
+    "date": "February 10, 2016",
+    "questions": [
+      {
+        "t": "00:23",
+        "q": "When in balance, is it possible to predetermine the bias of the majority of market participants?",
+        "asker": ""
+      },
+      {
+        "t": "08:41",
+        "q": "When day trading, should I place more emphasis on the short-term or long-term bias?",
+        "asker": ""
+      },
+      {
+        "t": "12:53",
+        "q": "Student trade review (2/9): Overcoming early exits.",
+        "asker": ""
+      },
+      {
+        "t": "19:45",
+        "q": "How do you decide where to enter within a zone?",
+        "asker": ""
+      },
+      {
+        "t": "25:02",
+        "q": "In a bullish environment with a great R/R potential, do you recommend not waiting for the bottom of the zone?",
+        "asker": ""
+      },
+      {
+        "t": "26:39",
+        "q": "General thoughts on overcoming the fear of missing out.",
+        "asker": ""
+      },
+      {
+        "t": "31:26",
+        "q": "Where do you set stops in a pullback trade taken in-between zone?",
+        "asker": ""
+      },
+      {
+        "t": "35:22",
+        "q": "When do you use Fibonacci retracements to get on board directional moves?",
+        "asker": ""
+      },
+      {
+        "t": "45:03",
+        "q": "Student trade review (2/5).",
+        "asker": ""
+      },
+      {
+        "t": "47:45",
+        "q": "Chart review (2/5): Failed Bull/Bear zone breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "52:58",
+        "q": "Student trade review (2/9): TICK divergence.",
+        "asker": ""
+      },
+      {
+        "t": "55:41",
+        "q": "Student trade review (2/9).",
+        "asker": ""
+      },
+      {
+        "t": "59:50",
+        "q": "General thoughts on reading A/D divergence.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-02-03",
+    "date": "February 3, 2016",
+    "questions": [
+      {
+        "t": "02:08",
+        "q": "How much time (or how many bars) does the NYSE TICK need to print above/below zero to consider it as  sustained high/low momentum?",
+        "asker": ""
+      },
+      {
+        "t": "03:49",
+        "q": "When fading a zone and you don't get filled on the first test, how far does price need to bounce and/or how long does it need to be after the initial push into the zone before you pull your order and avoid fading that zone on a second test?",
+        "asker": ""
+      },
+      {
+        "t": "08:08",
+        "q": "Are the majority of your trades at the zones or do you often read the market in real-time and take trades in-between zones?",
+        "asker": ""
+      },
+      {
+        "t": "11:43",
+        "q": "How strict is the rule against fading a support/resistance zone on a second or later test? Do you make exceptions under certain conditions?",
+        "asker": ""
+      },
+      {
+        "t": "12:27",
+        "q": "When do tails become invalidated?",
+        "asker": ""
+      },
+      {
+        "t": "14:33",
+        "q": "How do you factor in timing in your trade decisions when volatility increases?",
+        "asker": ""
+      },
+      {
+        "t": "20:28",
+        "q": "Does an A/D divergence at the end of a day affect the following overnight session?",
+        "asker": ""
+      },
+      {
+        "t": "23:09",
+        "q": "Chart review (GBPNZD).",
+        "asker": ""
+      },
+      {
+        "t": "29:17",
+        "q": "Student trade review (1/28).",
+        "asker": ""
+      },
+      {
+        "t": "36:55",
+        "q": "Chart review (2/1): Determining short-term and long-term bias.",
+        "asker": ""
+      },
+      {
+        "t": "41:03",
+        "q": "Student trade review (1/29): Fading an intra-day balance breakout and trend day.",
+        "asker": ""
+      },
+      {
+        "t": "43:35",
+        "q": "How do you know when to trade an opening drive as a classic trend day (2/1 vs 2/2)?",
+        "asker": ""
+      },
+      {
+        "t": "51:21",
+        "q": "Chart review (2/3): Weighing zones.",
+        "asker": ""
+      },
+      {
+        "t": "53:24",
+        "q": "Student trade review (2/3): Fading an intra-day balance breakout.",
+        "asker": ""
+      },
+      {
+        "t": "58:14",
+        "q": "Student trade review (2/2).",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-01-27",
+    "date": "January 27, 2016",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "What's the maximum number of contracts one could trade on a normal day, with typical volume?",
+        "asker": ""
+      },
+      {
+        "t": "04:22",
+        "q": "How much weight do you give to the day type we are in and how does it affect your trading?",
+        "asker": ""
+      },
+      {
+        "t": "09:42",
+        "q": "General thoughts on scratching (exiting around breakeven) trades?",
+        "asker": ""
+      },
+      {
+        "t": "18:41",
+        "q": "How do you enter an open drive, using limit or market orders, or do you wait for a pullback?",
+        "asker": ""
+      },
+      {
+        "t": "23:18",
+        "q": "How do you handle missed entries?",
+        "asker": ""
+      },
+      {
+        "t": "28:41",
+        "q": "Chart review (1/25).",
+        "asker": ""
+      },
+      {
+        "t": "33:33",
+        "q": "Student trade review (1/22).",
+        "asker": ""
+      },
+      {
+        "t": "36:19",
+        "q": "Student trade review (1/26): Pullback trade.",
+        "asker": ""
+      },
+      {
+        "t": "38:31",
+        "q": "Student trade review (1/26): Shorting pre-market resistance.",
+        "asker": ""
+      },
+      {
+        "t": "41:08",
+        "q": "Can you expand on the idea of strong momentum or the lack of when developing a trade idea?",
+        "asker": ""
+      },
+      {
+        "t": "43:48",
+        "q": "Student trader review (1:26).",
+        "asker": ""
+      },
+      {
+        "t": "45:15",
+        "q": "When re-entering at the next zone after being stopped out, do you take the trade at the front or the back of the zone?",
+        "asker": ""
+      },
+      {
+        "t": "48:30",
+        "q": "Can you expand on the idea of thinking of who's in a winning or losing position at any given moment, and how will they react in response to price action?",
+        "asker": ""
+      },
+      {
+        "t": "53:08",
+        "q": "Chart review (1/27) : A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "55:41",
+        "q": "What does fading mean?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-01-20",
+    "date": "January 20, 2016",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "Chart review (1/20): Extreme intraday bearishness coming down into strong larger timeframe support.",
+        "asker": ""
+      },
+      {
+        "t": "09:00",
+        "q": "General thoughts on how to overcome over-trading in the afternoon hours.",
+        "asker": ""
+      },
+      {
+        "t": "13:33",
+        "q": "Chart review (1/20): Fading a reversal day.",
+        "asker": ""
+      },
+      {
+        "t": "18:19",
+        "q": "General thoughts on adapting to increased volatility in the market.",
+        "asker": ""
+      },
+      {
+        "t": "24:28",
+        "q": "Why do you use RTH on your 1-min charts?",
+        "asker": ""
+      },
+      {
+        "t": "26:31",
+        "q": "Do you use the mid-point and VWAP of the RTH or 24H charts?",
+        "asker": ""
+      },
+      {
+        "t": "32:06",
+        "q": "What is your opinion on using tick charts?",
+        "asker": ""
+      },
+      {
+        "t": "35:14",
+        "q": "Student trade review (1/14): Fading a reversal off of key support.",
+        "asker": ""
+      },
+      {
+        "t": "44:06",
+        "q": "General thoughts on adjusting stops to account for increased market volatility.",
+        "asker": ""
+      },
+      {
+        "t": "53:58",
+        "q": "Student trade review (1/19): Initiating short trades at support.",
+        "asker": ""
+      },
+      {
+        "t": "57:24",
+        "q": "How can we have an extreme TICK reading off the open and still breakout higher?",
+        "asker": ""
+      },
+      {
+        "t": "59:11",
+        "q": "How do you gauge the potential range of day using ATR and Relative Volume?",
+        "asker": ""
+      }
+    ],
+    "title": "Chart Review"
+  },
+  {
+    "iso": "2016-01-13",
+    "date": "January 13, 2016",
+    "questions": [
+      {
+        "t": "00:08",
+        "q": "What is the difference between the cash close and the futures close, and how do you use one or the other?",
+        "asker": ""
+      },
+      {
+        "t": "03:53",
+        "q": "Student trader review (1/13): A/D disconnect.",
+        "asker": ""
+      },
+      {
+        "t": "08:42",
+        "q": "Do you use a journal to document your market observations and/or psychology?",
+        "asker": ""
+      },
+      {
+        "t": "12:48",
+        "q": "Do you update the KRAs following on a heavy volume overnight session?",
+        "asker": ""
+      },
+      {
+        "t": "18:23",
+        "q": "When do you wait and analyze the reaction of the market at a certain zone before pulling the trigger?",
+        "asker": ""
+      },
+      {
+        "t": "23:35",
+        "q": "Student trade review (1/13): Exhaustion setup.",
+        "asker": ""
+      },
+      {
+        "t": "32:42",
+        "q": "When do you move the stop to break-even?",
+        "asker": ""
+      },
+      {
+        "t": "41:58",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2016-01-06",
+    "date": "January 6, 2016",
+    "questions": [
+      {
+        "t": "01:00",
+        "q": "How do you tweak the composite volume profiles or is the accuracy of the exact first and last bars not crucial since the value area is of more interest?",
+        "asker": ""
+      },
+      {
+        "t": "02:46",
+        "q": "Can you explain how the A/D line can be moving down while the S&P 500 is rising?",
+        "asker": ""
+      },
+      {
+        "t": "08:54",
+        "q": "Is there a way of telling before the trend climax, what the \"true value\" is to anticipate the upcoming reversal zone (Law #7)?",
+        "asker": ""
+      },
+      {
+        "t": "15:19",
+        "q": "Do you recommend using the S&P 500 A/D or the NYSE A/D?",
+        "asker": ""
+      },
+      {
+        "t": "18:34",
+        "q": "How do you build zones in real-time (1/6)?",
+        "asker": ""
+      },
+      {
+        "t": "26:03",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-12-09",
+    "date": "December 9, 2015",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "General thoughts on using standing limit orders for fading KRAs while ensuring that the bias is not strong against them and that we're seeing an exhaustion or divergence setup (Principle #2).",
+        "asker": ""
+      },
+      {
+        "t": "06:52",
+        "q": "What are your thoughts on moving the stop to break-even ahead of major news reports?",
+        "asker": ""
+      },
+      {
+        "t": "11:19",
+        "q": "For a new trader, do you recommend starting out with minimum size and achieving positive expectancy before applying the position sizing rules?",
+        "asker": ""
+      },
+      {
+        "t": "15:40",
+        "q": "Student trade review (12/7): Holding for a bigger target vs taking early profits.",
+        "asker": ""
+      },
+      {
+        "t": "27:28",
+        "q": "Do you trade on Friday afternoons?",
+        "asker": ""
+      },
+      {
+        "t": "29:43",
+        "q": "How do you determine a bull/bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "34:18",
+        "q": "Student trade review (12/7): Determining the bigger picture bias.",
+        "asker": ""
+      },
+      {
+        "t": "38:01",
+        "q": "General thoughts on trading HVNs.",
+        "asker": ""
+      },
+      {
+        "t": "44:19",
+        "q": "General discussion on momentum-based and breakout trades.",
+        "asker": ""
+      },
+      {
+        "t": "47:59",
+        "q": "Chart review (12/9).",
+        "asker": ""
+      },
+      {
+        "t": "49:43",
+        "q": "Student trade review (12/8): Recognizing a failed breakdown in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "56:46",
+        "q": "What do the 1.5X and 2X highs and lows mean?",
+        "asker": ""
+      },
+      {
+        "t": "59:56",
+        "q": "Student trade review (12/8, 12/9): Buying pullbacks.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-12-02",
+    "date": "December 2, 2015",
+    "questions": [
+      {
+        "t": "00:30",
+        "q": "When stopped on the fade of a KRA, what do you have to see to take the trade again at the same KRA?",
+        "asker": ""
+      },
+      {
+        "t": "06:04",
+        "q": "General thoughts on how to overcome the issue of missing trades.",
+        "asker": ""
+      },
+      {
+        "t": "13:52",
+        "q": "How do you determine the right percentage risk per trade?",
+        "asker": ""
+      },
+      {
+        "t": "23:06",
+        "q": "How do you assess expectancy?",
+        "asker": ""
+      },
+      {
+        "t": "26:29",
+        "q": "Are there any market behaviors that you look for during a trade that might cause you to revise your profit target or stop?",
+        "asker": ""
+      },
+      {
+        "t": "30:13",
+        "q": "General thoughts on how to overcome the issue of exiting trades early.",
+        "asker": ""
+      },
+      {
+        "t": "30:49",
+        "q": "Do you trade during the Thanksgiving and Christmas holidays in the US?",
+        "asker": ""
+      },
+      {
+        "t": "32:38",
+        "q": "Student trade review (12/1): NYSE TICK divergence.",
+        "asker": ""
+      },
+      {
+        "t": "36:15",
+        "q": "Student trade review (11/20): Using VWAP on a balanced day.",
+        "asker": ""
+      },
+      {
+        "t": "40:22",
+        "q": "Is there any benefit to looking at the internals of the other markets?",
+        "asker": ""
+      },
+      {
+        "t": "43:33",
+        "q": "Student trade review (12/1): Entering within the Opening Range.",
+        "asker": ""
+      },
+      {
+        "t": "47:19",
+        "q": "How do you enter a breakout trade?",
+        "asker": ""
+      },
+      {
+        "t": "49:09",
+        "q": "Student trade review (12/2): Fading a balance breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "58:49",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-11-18",
+    "date": "November 18, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "Student trade review (11/12): Trigger averse.",
+        "asker": ""
+      },
+      {
+        "t": "09:57",
+        "q": "When stopped out, should I consider reversing and entering a trade in the opposite direction, re-entering the same trade in the same direction, or sitting on the sidelines and waiting for the next KRA?",
+        "asker": ""
+      },
+      {
+        "t": "17:16",
+        "q": "General thoughts on Range of Day and Relative Volume.",
+        "asker": ""
+      },
+      {
+        "t": "24:06",
+        "q": "How does one set reasonable stops on Options when there is a wide bid-ask spread at the open?",
+        "asker": ""
+      },
+      {
+        "t": "25:36",
+        "q": "How much weight is given to references from the Globex session compared to the RTH session?",
+        "asker": ""
+      },
+      {
+        "t": "27:57",
+        "q": "Student trade review (11/12): How do you trade zones when they are fairly close to each other?",
+        "asker": ""
+      },
+      {
+        "t": "34:59",
+        "q": "Chart review (11/13): Where there any signals that could have indicated the possibly of having a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "37:02",
+        "q": "Student trade review (11/17): Interpreting price action from other markets (TF, NQ) in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "44:05",
+        "q": "How to differentiate between exhaustion and momentum?",
+        "asker": ""
+      },
+      {
+        "t": "50:44",
+        "q": "Student trade review (11/13).",
+        "asker": ""
+      },
+      {
+        "t": "53:13",
+        "q": "Student trade review (11/18).",
+        "asker": ""
+      },
+      {
+        "t": "58:48",
+        "q": "Student trade review (11/18): Post-FOMC trade.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-11-11",
+    "date": "November 11, 2015",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "Student trade review (11/10): Overusing the market internals on a balancing day.",
+        "asker": ""
+      },
+      {
+        "t": "12:12",
+        "q": "On average, how long does it take someone to be profitable?",
+        "asker": ""
+      },
+      {
+        "t": "15:24",
+        "q": "For Crude Oil, do you recommend using an oscillator to spot exhaustion and divergence? Which time frame do you use most during the day? Does it make sense to include divergence or exhaustion on longer timeframes in assessing context?",
+        "asker": ""
+      },
+      {
+        "t": "23:00",
+        "q": "What are the good and bad times to trade?",
+        "asker": ""
+      },
+      {
+        "t": "25:48",
+        "q": "Student trade review (11/9).",
+        "asker": ""
+      },
+      {
+        "t": "29:47",
+        "q": "Student trade review (11/9): What is the difference between using 2 resting orders with say 2.5pt stop vs. using 1 resting order with a 5-6pt stop?",
+        "asker": ""
+      },
+      {
+        "t": "31:15",
+        "q": "Student trade review (11/5).",
+        "asker": ""
+      },
+      {
+        "t": "36:29",
+        "q": "What makes you take off or tweak some zones for the next day?",
+        "asker": ""
+      },
+      {
+        "t": "39:08",
+        "q": "Student trade review (11/11): Using the intraday Volume Profile.",
+        "asker": ""
+      },
+      {
+        "t": "42:15",
+        "q": "Student trade review (11/11).",
+        "asker": ""
+      },
+      {
+        "t": "47:17",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-11-04",
+    "date": "November 4, 2015",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "What are the recommended minimum and maximum stop sizes for day trading?",
+        "asker": ""
+      },
+      {
+        "t": "07:58",
+        "q": "What are your thoughts on dropping the 1-min chart and simplifying the process?",
+        "asker": ""
+      },
+      {
+        "t": "11:36",
+        "q": "How do you set targets when market is making new highs?",
+        "asker": ""
+      },
+      {
+        "t": "13:04",
+        "q": "If market opens right at a Key Reference Area, should I be entering at the market open?",
+        "asker": ""
+      },
+      {
+        "t": "17:05",
+        "q": "If there is a significant gap, should I be expecting a reaction towards closing that gap?",
+        "asker": ""
+      },
+      {
+        "t": "18:55",
+        "q": "How often are gaps filled?",
+        "asker": ""
+      },
+      {
+        "t": "20:53",
+        "q": "Student trade review (10/30).",
+        "asker": ""
+      },
+      {
+        "t": "24:14",
+        "q": "General thoughts on long-term bias and intraday divergence between price action and breadth readings.",
+        "asker": ""
+      },
+      {
+        "t": "27:24",
+        "q": "Chart review (11/2): Trend day.",
+        "asker": ""
+      },
+      {
+        "t": "31:14",
+        "q": "Chart review (11/2): Identifying momentum.",
+        "asker": ""
+      },
+      {
+        "t": "35:55",
+        "q": "Chart review (11/3).",
+        "asker": ""
+      },
+      {
+        "t": "40:16",
+        "q": "Student trade review (11/3): Early exits based on warning signs.",
+        "asker": ""
+      },
+      {
+        "t": "44:19",
+        "q": "Student trade review (11/3).",
+        "asker": ""
+      },
+      {
+        "t": "50:08",
+        "q": "Student trade review (11/2).",
+        "asker": ""
+      },
+      {
+        "t": "51:24",
+        "q": "Student trade review (11/3).",
+        "asker": ""
+      },
+      {
+        "t": "51:41",
+        "q": "Student trade review (11/3): Fading momentum and long-term bias.",
+        "asker": ""
+      },
+      {
+        "t": "55:48",
+        "q": "Student trade review (11/4).",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-10-28",
+    "date": "October 28, 2015",
+    "questions": [
+      {
+        "t": "00:32",
+        "q": "General thoughts on listening and trading the news.",
+        "asker": ""
+      },
+      {
+        "t": "05:01",
+        "q": "Is NQ and TF intermarket analysis of enough importance to be included in the execution? If yes, how would you include it conceptually?",
+        "asker": ""
+      },
+      {
+        "t": "10:21",
+        "q": "What do you mean by \"extreme weakness\"?",
+        "asker": ""
+      },
+      {
+        "t": "12:20",
+        "q": "Student trade review (10/27): Negative A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "16:27",
+        "q": "Chart review (10/23).",
+        "asker": ""
+      },
+      {
+        "t": "24:47",
+        "q": "Student trade review (10/22).",
+        "asker": ""
+      },
+      {
+        "t": "30:34",
+        "q": "Chart review (10/27): Real-time contextual read.",
+        "asker": ""
+      },
+      {
+        "t": "40:09",
+        "q": "Is there a higher percentage of TF stocks in the NYSE A/D?",
+        "asker": ""
+      },
+      {
+        "t": "41:37",
+        "q": "Can you trade purely based on price action without relying on the market internals (TICK, A/D)?",
+        "asker": ""
+      },
+      {
+        "t": "44:21",
+        "q": "Why was there a selloff and a reversal on FOMC announcement?",
+        "asker": ""
+      },
+      {
+        "t": "46:54",
+        "q": "Student trade review (10/27).",
+        "asker": ""
+      },
+      {
+        "t": "47:40",
+        "q": "Given the larger timeframe strong bullish bias, does it make sense to be aggressive early in the session, finding location for a long?",
+        "asker": ""
+      },
+      {
+        "t": "49:52",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-10-21",
+    "date": "October 21, 2015",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "How do you know when to shift gears (switching between long/short bias) at a zone?",
+        "asker": ""
+      },
+      {
+        "t": "04:02",
+        "q": "Analogies between trading for expectancy and Poker.",
+        "asker": ""
+      },
+      {
+        "t": "06:55",
+        "q": "Would you consider 2015 as a tough trading year compared to previous years?",
+        "asker": ""
+      },
+      {
+        "t": "13:37",
+        "q": "How do you recommend I approach range bound markets when swing trading?",
+        "asker": ""
+      },
+      {
+        "t": "16:43",
+        "q": "What advice do you have regarding looking for breakout moves just prior to them occurring?",
+        "asker": ""
+      },
+      {
+        "t": "18:52",
+        "q": "Any rule of thumb on where to enter a trade on a pull-back after a breakout move?",
+        "asker": ""
+      },
+      {
+        "t": "23:27",
+        "q": "When does a KRA becomes completely invalidated and when does Support turn into Resistance or vice versa?",
+        "asker": ""
+      },
+      {
+        "t": "25:23",
+        "q": "Chart review (10/20): Reasons behind creating a support zone.",
+        "asker": ""
+      },
+      {
+        "t": "26:45",
+        "q": "Student trade review (10/20).",
+        "asker": ""
+      },
+      {
+        "t": "31:23",
+        "q": "Student trade review (10/21).",
+        "asker": ""
+      },
+      {
+        "t": "38:22",
+        "q": "Chart review (10/16): Inter-market analysis (TF).",
+        "asker": ""
+      },
+      {
+        "t": "43:26",
+        "q": "Student trade review (10/16).",
+        "asker": ""
+      },
+      {
+        "t": "47:39",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-10-14",
+    "date": "October 14, 2015",
+    "questions": [
+      {
+        "t": "00:34",
+        "q": "If a zone is not an automatic fade zone, is waiting for exhaustion or A/D divergence considered as waiting for confirmation?",
+        "asker": ""
+      },
+      {
+        "t": "01:19",
+        "q": "General thoughts on automatic fade zones and short-term exhaustion.",
+        "asker": ""
+      },
+      {
+        "t": "06:35",
+        "q": "If a zone is an automatic fade zone and a trade does not get filled on first test, do you keep your order for a second test or do you move your entry?",
+        "asker": ""
+      },
+      {
+        "t": "09:10",
+        "q": "Student trade review (10/9): A/D divergence, waiting for price confirmation.",
+        "asker": ""
+      },
+      {
+        "t": "19:14",
+        "q": "Student trade review (10/8).",
+        "asker": ""
+      },
+      {
+        "t": "23:22",
+        "q": "Student trade review (10/9): Fading a zone on second test.",
+        "asker": ""
+      },
+      {
+        "t": "28:27",
+        "q": "Student trade review (10/13).",
+        "asker": ""
+      },
+      {
+        "t": "34:11",
+        "q": "Student trade review (10/14): Inter-market relationships (TF).",
+        "asker": ""
+      },
+      {
+        "t": "42:33",
+        "q": "Student trade review (10/14): Reversal in between zones.",
+        "asker": ""
+      },
+      {
+        "t": "46:55",
+        "q": "Student trade review (10/14).",
+        "asker": ""
+      },
+      {
+        "t": "53:44",
+        "q": "Chart review (910/14): Constructing a zone?",
+        "asker": ""
+      },
+      {
+        "t": "56:50",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-10-07",
+    "date": "October 7, 2015",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "NYSE TICK data feed recommendations.",
+        "asker": ""
+      },
+      {
+        "t": "02:33",
+        "q": "General thoughts on trade targets and exits.",
+        "asker": ""
+      },
+      {
+        "t": "07:29",
+        "q": "What are your thoughts on stepping away from the trading desk once the resting orders have been placed to ensure correct trade execution and clear my mind?",
+        "asker": ""
+      },
+      {
+        "t": "10:33",
+        "q": "Do you recommend using limit orders in volatile markets?",
+        "asker": ""
+      },
+      {
+        "t": "11:59",
+        "q": "How do stay in peak form every day psychologically?",
+        "asker": ""
+      },
+      {
+        "t": "15:55",
+        "q": "When trading on the daily timeframe, how many trades on average should I be doing per month?",
+        "asker": ""
+      },
+      {
+        "t": "19:38",
+        "q": "Student trade review (10/01): Scaling out.",
+        "asker": ""
+      },
+      {
+        "t": "23:14",
+        "q": "How does volume affect volatility?",
+        "asker": ""
+      },
+      {
+        "t": "25:18",
+        "q": "Does big buying volume at the beginning of the session followed by big selling volume at the close indicate that large institutions are selling and that the outlook is bearish?",
+        "asker": ""
+      },
+      {
+        "t": "26:41",
+        "q": "Should I take trades off the opening drive if I am expecting a balance day?",
+        "asker": ""
+      },
+      {
+        "t": "29:13",
+        "q": "Can you give some suggestion about drawing a key reference zone around a large tail?",
+        "asker": ""
+      },
+      {
+        "t": "34:24",
+        "q": "Student trade review (10/1): Trading a balanced day.",
+        "asker": ""
+      },
+      {
+        "t": "38:52",
+        "q": "Student trade review (10/1).",
+        "asker": ""
+      },
+      {
+        "t": "42:17",
+        "q": "Student trade review (10/1).",
+        "asker": ""
+      },
+      {
+        "t": "44:38",
+        "q": "Student trade review (10/1): Profit target and exit.",
+        "asker": ""
+      },
+      {
+        "t": "48:30",
+        "q": "Student trade review (10/6): How to know when to be aggressive?",
+        "asker": ""
+      },
+      {
+        "t": "50:08",
+        "q": "What is a continuation trade?",
+        "asker": ""
+      },
+      {
+        "t": "51:21",
+        "q": "How do you know a zone is going to hold or not?",
+        "asker": ""
+      },
+      {
+        "t": "54:23",
+        "q": "Has the intermediate and long-term bias changed to bullish?",
+        "asker": ""
+      },
+      {
+        "t": "54:40",
+        "q": "Which VWAP indicator do you use?",
+        "asker": ""
+      },
+      {
+        "t": "55:10",
+        "q": "What is the Mid-Point?",
+        "asker": ""
+      },
+      {
+        "t": "55:54",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-09-30",
+    "date": "September 30, 2015",
+    "questions": [
+      {
+        "t": "00:03",
+        "q": "Student trade review (9/25): Scaling out.",
+        "asker": ""
+      },
+      {
+        "t": "09:17",
+        "q": "Chart review (9/28): A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "12:16",
+        "q": "Student trade review (9/28): Trailing stop.",
+        "asker": ""
+      },
+      {
+        "t": "15:42",
+        "q": "Do you use tick bars?",
+        "asker": ""
+      },
+      {
+        "t": "16:37",
+        "q": "If you know with conviction that the trade is going to work in your favor, do you chase the trade after it hits the KRA?",
+        "asker": ""
+      },
+      {
+        "t": "20:11",
+        "q": "General thoughts on the NYSE TICK data providers.",
+        "asker": ""
+      },
+      {
+        "t": "27:48",
+        "q": "How to discern the high probability direction of a breakout from a balance?",
+        "asker": ""
+      },
+      {
+        "t": "32:33",
+        "q": "Student trade review (9/29): Failed breakout attempt.",
+        "asker": ""
+      },
+      {
+        "t": "41:56",
+        "q": "Chart review (9/30): TICK and A/D divergence at market open.",
+        "asker": ""
+      },
+      {
+        "t": "45:10",
+        "q": "Student trade review (9/30): Bearish breakout.",
+        "asker": ""
+      },
+      {
+        "t": "48:11",
+        "q": "How do you recommend trading the overnight session without the market internals?",
+        "asker": ""
+      },
+      {
+        "t": "50:01",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-09-23",
+    "date": "September 23, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "How do you gauge the retrace process when it pulls back to a range that is in between two zones? (9/16).",
+        "asker": ""
+      },
+      {
+        "t": "10:44",
+        "q": "When do you buy inside the range?",
+        "asker": ""
+      },
+      {
+        "t": "15:39",
+        "q": "On low volume days, do you recommend front running the KRA by a few ticks for entry?",
+        "asker": ""
+      },
+      {
+        "t": "18:19",
+        "q": "Do you ever change your rule for trade location?",
+        "asker": ""
+      },
+      {
+        "t": "18:53",
+        "q": "Do you draw or use trend lines?",
+        "asker": ""
+      },
+      {
+        "t": "19:52",
+        "q": "Chart review (9/18 - 9/21): Reading Market Context.",
+        "asker": ""
+      },
+      {
+        "t": "21:08",
+        "q": "Do you use the 1-min chart?",
+        "asker": ""
+      },
+      {
+        "t": "32:16",
+        "q": "Since becoming consistently profitable, how often did you experience draw-down periods during which you questioned your ability to care for your family based on trading income?",
+        "asker": ""
+      },
+      {
+        "t": "35:19",
+        "q": "Would you consider being an independent trader as a more stressful \"job\" than doing an average job as an employee?",
+        "asker": ""
+      },
+      {
+        "t": "39:30",
+        "q": "How do you determine the range of the current day in comparison to the ATR?",
+        "asker": ""
+      },
+      {
+        "t": "44:16",
+        "q": "Is the first hour volume a reliable indication of a high or low volume day?",
+        "asker": ""
+      },
+      {
+        "t": "45:20",
+        "q": "Student trade review (9/23).",
+        "asker": ""
+      },
+      {
+        "t": "48:11",
+        "q": "How do you time trade execution based on the TICK?",
+        "asker": ""
+      },
+      {
+        "t": "52:15",
+        "q": "What markets do you recommend for those who live in Australia?",
+        "asker": ""
+      },
+      {
+        "t": "53:13",
+        "q": "Do you recommend using TradeStation?",
+        "asker": ""
+      },
+      {
+        "t": "54:40",
+        "q": "Do you have any experience with Kinetick data feed?",
+        "asker": ""
+      },
+      {
+        "t": "55:24",
+        "q": "Do you recommend we only look to capturing part of the move?",
+        "asker": ""
+      },
+      {
+        "t": "56:44",
+        "q": "Do you have any tutorial videos on how to use Market Profile in TradeStation?",
+        "asker": ""
+      },
+      {
+        "t": "57:06",
+        "q": "Can you show us your TICK chart on TradeStation?",
+        "asker": ""
+      },
+      {
+        "t": "59:02",
+        "q": "What levels do you watch on the TICK for ES and TF?",
+        "asker": ""
+      },
+      {
+        "t": "59:42",
+        "q": "Chart review (9/23).",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-09-16",
+    "date": "September 16, 2015",
+    "questions": [
+      {
+        "t": "00:44",
+        "q": "How to use the RR spreadsheet with a $5k account?",
+        "asker": ""
+      },
+      {
+        "t": "05:07",
+        "q": "Do you have daily, weekly, and monthly profit goals?",
+        "asker": ""
+      },
+      {
+        "t": "09:55",
+        "q": "Student trade review (9/15).",
+        "asker": ""
+      },
+      {
+        "t": "27:57",
+        "q": "Student trade review (9/16).",
+        "asker": ""
+      },
+      {
+        "t": "38:05",
+        "q": "Student trade review (CL): Entering a trade at good location but with immediate confluence of resistance.",
+        "asker": ""
+      },
+      {
+        "t": "45:20",
+        "q": "How do I determine where the VWAP is located?",
+        "asker": ""
+      },
+      {
+        "t": "46:07",
+        "q": "General thoughts on trading FOMC day.",
+        "asker": ""
+      },
+      {
+        "t": "47:30",
+        "q": "In calculating expectancy, do you need to take into account the difference in R per trade?",
+        "asker": ""
+      },
+      {
+        "t": "50:40",
+        "q": "Chart review (9/15 - 9/16): What indications from the previous day's Globex session helped to gauge a directional move?",
+        "asker": ""
+      },
+      {
+        "t": "53:28",
+        "q": "If the Fed raises rates, will this be good or bad for the markets?",
+        "asker": ""
+      },
+      {
+        "t": "55:42",
+        "q": "How does rollover affect relative volume?",
+        "asker": ""
+      },
+      {
+        "t": "56:40",
+        "q": "When placing a trade in an automatic zone, do you have a time limit on keeping the order?",
+        "asker": ""
+      },
+      {
+        "t": "58:06",
+        "q": "How long does it usually take for volume to normalize after rollover?",
+        "asker": ""
+      },
+      {
+        "t": "59:18",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-09-09",
+    "date": "September 9, 2015",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "How many trades do we need to execute to prove that we actually have a trading edge and that it wasn't just luck?",
+        "asker": ""
+      },
+      {
+        "t": "05:02",
+        "q": "General thoughts on volatility contraction and expansion using NR4/NR7.",
+        "asker": ""
+      },
+      {
+        "t": "08:24",
+        "q": "Chart review (9/8): A/D divergence.",
+        "asker": ""
+      },
+      {
+        "t": "11:45",
+        "q": "General advice on fine tuning key support/resistance levels.",
+        "asker": ""
+      },
+      {
+        "t": "17:02",
+        "q": "Can you clarify what you mean by sustained momentum when referring to early trades (within first few minutes of the open)?",
+        "asker": ""
+      },
+      {
+        "t": "22:00",
+        "q": "Chart review (9/8): Market internals on a large gap day.",
+        "asker": ""
+      },
+      {
+        "t": "26:47",
+        "q": "Student trade review (9/4): Re-entering a trade after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "33:46",
+        "q": "Chart review (9/3).",
+        "asker": ""
+      },
+      {
+        "t": "36:51",
+        "q": "Chart review (9/8).",
+        "asker": ""
+      },
+      {
+        "t": "41:23",
+        "q": "Student trader review (9/4): Re-entering a trade after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "44:42",
+        "q": "Do you rely more on limit orders when volatility increases?",
+        "asker": ""
+      },
+      {
+        "t": "45:22",
+        "q": "How do you determine if it's a range or trending day?",
+        "asker": ""
+      },
+      {
+        "t": "54:06",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-09-02",
+    "date": "September 2, 2015",
+    "questions": [
+      {
+        "t": "00:32",
+        "q": "General thoughts on entries and stops.",
+        "asker": ""
+      },
+      {
+        "t": "10:37",
+        "q": "How do you overcome the problem of early exits?",
+        "asker": ""
+      },
+      {
+        "t": "16:05",
+        "q": "How do you use the $TICK divergence to enter a trade?",
+        "asker": ""
+      },
+      {
+        "t": "19:30",
+        "q": "How do you measure exhaustion?",
+        "asker": ""
+      },
+      {
+        "t": "21:32",
+        "q": "How many ticks behind the zone do you normally place the stop?",
+        "asker": ""
+      },
+      {
+        "t": "26:16",
+        "q": "How would you characterize the important features of the most common setups?",
+        "asker": ""
+      },
+      {
+        "t": "28:33",
+        "q": "Chart review (9/2): Fading the edge of balance.",
+        "asker": ""
+      },
+      {
+        "t": "31:14",
+        "q": "Do you use the intraday developing profile, and how?",
+        "asker": ""
+      },
+      {
+        "t": "32:38",
+        "q": "Chart review (8/28).",
+        "asker": ""
+      },
+      {
+        "t": "32:17",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      },
+      {
+        "t": "43:18",
+        "q": "Would you recommend keeping stops at 3 points while VIX is over 20?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-08-26",
+    "date": "August 26, 2015",
+    "questions": [
+      {
+        "t": "01:26",
+        "q": "When you first started, how long did it take you to realize you became consistently profitable?",
+        "asker": ""
+      },
+      {
+        "t": "04:15",
+        "q": "What setups contributed the most to your P&L at the beginning?",
+        "asker": ""
+      },
+      {
+        "t": "07:52",
+        "q": "When would you take trades between or ahead of zones?",
+        "asker": ""
+      },
+      {
+        "t": "14:38",
+        "q": "Chart review: Failed breakdown (8/26).",
+        "asker": ""
+      },
+      {
+        "t": "17:07",
+        "q": "Chart review: Breakout attempt (NQ).",
+        "asker": ""
+      },
+      {
+        "t": "20:42",
+        "q": "Chart review: Internals divergence on a big gap day (8/25).",
+        "asker": ""
+      },
+      {
+        "t": "22:04",
+        "q": "Do you recommend using loss and gain limits?",
+        "asker": ""
+      },
+      {
+        "t": "23:42",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-08-19",
+    "date": "August 19, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "Do you use reward-to-risk as you approach a target for an exit?",
+        "asker": ""
+      },
+      {
+        "t": "09:08",
+        "q": "Since fear is much stronger than greed, is short-selling a more profitable strategy in the long run?",
+        "asker": ""
+      },
+      {
+        "t": "11:36",
+        "q": "Is watching the premarket high and low on stocks of any importance?",
+        "asker": ""
+      },
+      {
+        "t": "12:28",
+        "q": "When entering at the top of a zone, where do you put your stop?",
+        "asker": ""
+      },
+      {
+        "t": "16:12",
+        "q": "Is fading a broken zone a valid strategy?",
+        "asker": ""
+      },
+      {
+        "t": "21:36",
+        "q": "How do you anticipate a reversal day that turns into a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "27:50",
+        "q": "Student trade review (8/18).",
+        "asker": ""
+      },
+      {
+        "t": "33:52",
+        "q": "General thoughts on balance breakouts/breakdowns, how to enter and where to place the stop.",
+        "asker": ""
+      },
+      {
+        "t": "40:19",
+        "q": "What do you look at to determine the volume?",
+        "asker": ""
+      },
+      {
+        "t": "41:01",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-08-12",
+    "date": "August 12, 2015",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "How is the best way to \"watch\" your emotions without feeling them?",
+        "asker": ""
+      },
+      {
+        "t": "05:00",
+        "q": "If the context of the market is bearish, is it a high odds trade to assume that any low-volume breakout of a smaller balance will most likely fail?",
+        "asker": ""
+      },
+      {
+        "t": "06:35",
+        "q": "When is a HVN invalidated?",
+        "asker": ""
+      },
+      {
+        "t": "11:19",
+        "q": "If price breaks through a zone, how do you know if it will continue in the direction of the breakout or reverse and go back through that zone?",
+        "asker": ""
+      },
+      {
+        "t": "14:38",
+        "q": "Student trade review (8/7): Pull-back after breakdown.",
+        "asker": ""
+      },
+      {
+        "t": "18:34",
+        "q": "Student trade review (8/7): Price reversal.",
+        "asker": ""
+      },
+      {
+        "t": "23:34",
+        "q": "Student trade review (8/11): Trade location and confirmation.",
+        "asker": ""
+      },
+      {
+        "t": "32:02",
+        "q": "Student trade review (8/11): Fade trade on first vs second test.",
+        "asker": ""
+      },
+      {
+        "t": "36:58",
+        "q": "Student trade review (8/12).",
+        "asker": ""
+      },
+      {
+        "t": "40:01",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-07-22",
+    "date": "July 22, 2015",
+    "questions": [
+      {
+        "t": "00:14",
+        "q": "When trading small size, would I be better off trading TF than ES?",
+        "asker": ""
+      },
+      {
+        "t": "04:43",
+        "q": "General thoughts on the importance of A/D vs TICK.",
+        "asker": ""
+      },
+      {
+        "t": "08:10",
+        "q": "How many trades do you take fading automatically a zone vs. waiting for an exhaustion or signal?",
+        "asker": ""
+      },
+      {
+        "t": "10:02",
+        "q": "When looking at TICK divergence do you look at divergence as price is approaching the KRA or once it has entered the KRA?",
+        "asker": ""
+      },
+      {
+        "t": "12:17",
+        "q": "Do you plan on providing a daily trade plan and zones for the TF on EMiniPlayer.net?",
+        "asker": ""
+      },
+      {
+        "t": "15:05",
+        "q": "What time do you plot your zones for the day?",
+        "asker": ""
+      },
+      {
+        "t": "17:46",
+        "q": "Can you explain the exchange data feeds for the different future products?",
+        "asker": ""
+      },
+      {
+        "t": "19:54",
+        "q": "What time do you post the recap video on EMiniPlayer?",
+        "asker": ""
+      },
+      {
+        "t": "20:45",
+        "q": "Can you explain the differences in the TICK from the different data feed providers?",
+        "asker": ""
+      },
+      {
+        "t": "22:34",
+        "q": "Do you rely on reward-to-risk to exit a trade as it approaches its target?",
+        "asker": ""
+      },
+      {
+        "t": "27:02",
+        "q": "Do you prefer TradeStation over MarketDelta or SierraChart?",
+        "asker": ""
+      },
+      {
+        "t": "30:56",
+        "q": "General thoughts on trading the current low volume market environment.",
+        "asker": ""
+      },
+      {
+        "t": "37:43",
+        "q": "What do you think of NinjaTrader?",
+        "asker": ""
+      },
+      {
+        "t": "42:54",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-07-15",
+    "date": "July 15, 2015",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "Is the overnight volume a criteria that can be used to assess the potential for a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "02:57",
+        "q": "What does it mean when price slightly breaks a zone and then balances?",
+        "asker": ""
+      },
+      {
+        "t": "04:51",
+        "q": "When exiting a position at a defined target, does it make sense to reverse the trade and enter in the opposite direction?",
+        "asker": ""
+      },
+      {
+        "t": "07:15",
+        "q": "Where do you enter a trade in a wide zone?",
+        "asker": ""
+      },
+      {
+        "t": "08:24",
+        "q": "In low volume environments is it better to trade fade setups?",
+        "asker": ""
+      },
+      {
+        "t": "10:52",
+        "q": "General thoughts on RTH vs Globex sessions.",
+        "asker": ""
+      },
+      {
+        "t": "15:23",
+        "q": "When is the Fibonacci retracement best used?",
+        "asker": ""
+      },
+      {
+        "t": "17:26",
+        "q": "Student trade review (7/10).",
+        "asker": ""
+      },
+      {
+        "t": "26:15",
+        "q": "Should I skip fade setups when price balances ahead of the zone?",
+        "asker": ""
+      },
+      {
+        "t": "26:41",
+        "q": "Do you use the 24-hour or RTH VWAP?",
+        "asker": ""
+      },
+      {
+        "t": "26:55",
+        "q": "How do you use the relative volume?",
+        "asker": ""
+      },
+      {
+        "t": "30:06",
+        "q": "When do you use volatility stops?",
+        "asker": ""
+      },
+      {
+        "t": "31:29",
+        "q": "Student trade review (7/15).",
+        "asker": ""
+      },
+      {
+        "t": "32:00",
+        "q": "Student trade review (7/14).",
+        "asker": ""
+      },
+      {
+        "t": "33:54",
+        "q": "What is the significance of the 50% and 100% range extension of the initial balance or first hour range?",
+        "asker": ""
+      },
+      {
+        "t": "34:35",
+        "q": "Student trade review (7/9).",
+        "asker": ""
+      },
+      {
+        "t": "37:17",
+        "q": "Student trade review (7/15).",
+        "asker": ""
+      },
+      {
+        "t": "39:44",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-07-08",
+    "date": "July 8, 2015",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "What is the difference between confirmation and signal?",
+        "asker": ""
+      },
+      {
+        "t": "03:15",
+        "q": "What are the advantages and disadvantages of trading spot FOREX versus trading futures on  EUR/USD?",
+        "asker": ""
+      },
+      {
+        "t": "04:48",
+        "q": "Which levels in the market internals can be considered as weak, strong, or neutral?",
+        "asker": ""
+      },
+      {
+        "t": "07:55",
+        "q": "General thoughts on targets vs trailing stops.",
+        "asker": ""
+      },
+      {
+        "t": "14:24",
+        "q": "Should we stop using the TICK if the NYSE is experiencing any technical issues?",
+        "asker": ""
+      },
+      {
+        "t": "16:34",
+        "q": "How do you know if a given day is running on above or below average volume?",
+        "asker": ""
+      },
+      {
+        "t": "19:51",
+        "q": "Student trade review (7/6).",
+        "asker": ""
+      },
+      {
+        "t": "23:32",
+        "q": "How do you interpret the market internals on large gap days?",
+        "asker": ""
+      },
+      {
+        "t": "25:36",
+        "q": "Student trade review (7/7).",
+        "asker": ""
+      },
+      {
+        "t": "32:39",
+        "q": "How do you know when a market is exhausted?",
+        "asker": ""
+      },
+      {
+        "t": "35:16",
+        "q": "Where do I find the morning trade plan video?",
+        "asker": ""
+      },
+      {
+        "t": "36:41",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-07-01",
+    "date": "July 1, 2015",
+    "questions": [
+      {
+        "t": "00:29",
+        "q": "How can I determine the bias in the morning after the market opens?",
+        "asker": ""
+      },
+      {
+        "t": "07:18",
+        "q": "For a breakout/retest trade idea will you wait for the 5-min or 1-min bar to close before entering?",
+        "asker": ""
+      },
+      {
+        "t": "11:03",
+        "q": "Would you consider taking trades in the last hour before the close?",
+        "asker": ""
+      },
+      {
+        "t": "13:41",
+        "q": "How do you handle new intra-day developing key reference areas?",
+        "asker": ""
+      },
+      {
+        "t": "17:52",
+        "q": "How do you enter an intra-day breakout and where do you generally place your stop?",
+        "asker": ""
+      },
+      {
+        "t": "22:14",
+        "q": "Student trade review (6/25).",
+        "asker": ""
+      },
+      {
+        "t": "25:14",
+        "q": "General thoughts on day types.",
+        "asker": ""
+      },
+      {
+        "t": "30:05",
+        "q": "In case of a failed breakout or breakdown at a key reference area, do we need to update the zone or does it remain intact?",
+        "asker": ""
+      },
+      {
+        "t": "30:34",
+        "q": "If a launching point coincides with a HVN, where do I enter on the pull-back retest, and where should I place my stop?",
+        "asker": ""
+      },
+      {
+        "t": "31:58",
+        "q": "If a support/resistance zone has been broken during the weekend, does it turn into resistance/support?",
+        "asker": ""
+      },
+      {
+        "t": "32:45",
+        "q": "Do market levels work even if the market didn't trade at those prices for years?",
+        "asker": ""
+      },
+      {
+        "t": "35:00",
+        "q": "Student trade review (6/25).",
+        "asker": ""
+      },
+      {
+        "t": "36:20",
+        "q": "How to recognize false breakouts and breakdowns?",
+        "asker": ""
+      },
+      {
+        "t": "41:31",
+        "q": "Student trade review (6/29): Fading a zone on first test vs waiting for failure and entering on the re-test.",
+        "asker": ""
+      },
+      {
+        "t": "47:27",
+        "q": "Student trade review (6/29).",
+        "asker": ""
+      },
+      {
+        "t": "49:51",
+        "q": "Chart review (6/30).",
+        "asker": ""
+      },
+      {
+        "t": "54:59",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-06-24",
+    "date": "June 24, 2015",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "How can I determine the point of no return where if price returned to the entry point it would invalidate the trade?",
+        "asker": ""
+      },
+      {
+        "t": "04:00",
+        "q": "In a bigger balance, can I determine which side is in control by comparing the current day to the HVN?",
+        "asker": ""
+      },
+      {
+        "t": "07:36",
+        "q": "Should I use the HVN from the Globex session?",
+        "asker": ""
+      },
+      {
+        "t": "09:05",
+        "q": "General thoughts on breakout pullbacks.",
+        "asker": ""
+      },
+      {
+        "t": "13:59",
+        "q": "Do you recommend limiting the number of setups until one becomes consistently profitable?",
+        "asker": ""
+      },
+      {
+        "t": "15:25",
+        "q": "Pro Training (The Exit Techniques In Action - Part I): Do you only use the high/low from the previous day or do you also consider intra-day highs/lows?",
+        "asker": ""
+      },
+      {
+        "t": "19:24",
+        "q": "When do you get into a trade in pre-market? When should the first trade of the day be?",
+        "asker": ""
+      },
+      {
+        "t": "22:53",
+        "q": "Interpreting inter-market relationships.",
+        "asker": ""
+      },
+      {
+        "t": "31:05",
+        "q": "Student trade review (6/24).",
+        "asker": ""
+      },
+      {
+        "t": "34:29",
+        "q": "Chart review (6/24).",
+        "asker": ""
+      },
+      {
+        "t": "37:34",
+        "q": "When looking at inter-market relationships, would it make sense to watch the other markets on a larger timeframe, such as a 15min chart.",
+        "asker": ""
+      },
+      {
+        "t": "38:22",
+        "q": "Do you trade off a 1min or 5min chart?",
+        "asker": ""
+      },
+      {
+        "t": "41:08",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-06-17",
+    "date": "June 17, 2015",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "Should I be targeting an exit zone from the same timeframe as the entry zone?",
+        "asker": ""
+      },
+      {
+        "t": "03:44",
+        "q": "How do you interpret balancing at a zone during the Globex session?",
+        "asker": ""
+      },
+      {
+        "t": "05:28",
+        "q": "When is a support or resistance level invalidated?",
+        "asker": ""
+      },
+      {
+        "t": "09:30",
+        "q": "How many pages should a typical Trade Plan consist of?",
+        "asker": ""
+      },
+      {
+        "t": "14:16",
+        "q": "I'm noticing that as soon as I enter a trade and it goes against me, a lot of times I will get stopped out. Should I revise these types of trades?",
+        "asker": ""
+      },
+      {
+        "t": "19:43",
+        "q": "General thoughts on when to risk more vs risk less.",
+        "asker": ""
+      },
+      {
+        "t": "24:59",
+        "q": "Are buying and selling tails considered as candlestick patterns?",
+        "asker": ""
+      },
+      {
+        "t": "27:10",
+        "q": "How many trades do you need to calculate your Expectancy?",
+        "asker": ""
+      },
+      {
+        "t": "28:08",
+        "q": "Do you recommend studying historical charts and making live executions to gain more confidence?",
+        "asker": ""
+      },
+      {
+        "t": "30:41",
+        "q": "Introducing the new OpenTrader Ultimate Trader Programming program.",
+        "asker": ""
+      },
+      {
+        "t": "38:10",
+        "q": "General thoughts on gaps and gap fills.",
+        "asker": ""
+      },
+      {
+        "t": "45:11",
+        "q": "Student trade review (6/15).",
+        "asker": ""
+      },
+      {
+        "t": "49:57",
+        "q": "What is the order of importance as far as weighing the market structure, the other markets, the TICK, and the A/D.",
+        "asker": ""
+      },
+      {
+        "t": "51:41",
+        "q": "Student trade review (6/15).",
+        "asker": ""
+      },
+      {
+        "t": "52:26",
+        "q": "Student trade review (6/16).",
+        "asker": ""
+      },
+      {
+        "t": "53:47",
+        "q": "Student trade review (6/16): When to enter ahead of a zone and when to leave the order within the zone.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-06-10",
+    "date": "June 10, 2015",
+    "questions": [
+      {
+        "t": "00:45",
+        "q": "If a KRA is not an automatic fade zone but the trend is not outright against that KRA, do you take the trade based on reward-to-risk ratio without waiting for exhaustion or divergence?",
+        "asker": ""
+      },
+      {
+        "t": "08:39",
+        "q": "Could a momentum shift be considered a possible trade set-up in and of itself?",
+        "asker": ""
+      },
+      {
+        "t": "18:07",
+        "q": "Student trade review (6/4): Scaling out.",
+        "asker": ""
+      },
+      {
+        "t": "27:18",
+        "q": "Student trade review (6/5)",
+        "asker": ""
+      },
+      {
+        "t": "29:48",
+        "q": "Student trade review (6/9): Entering a reversal setup.",
+        "asker": ""
+      },
+      {
+        "t": "32:05",
+        "q": "Student trade review (6/10): Waiting for a pullback vs looking for an intraday balance to get on board a trend day.",
+        "asker": ""
+      },
+      {
+        "t": "37:44",
+        "q": "Is it better to look at the TICK and A/D on the 1-min or 5-min timeframe?",
+        "asker": ""
+      },
+      {
+        "t": "39:39",
+        "q": "What sort of weight do you give to the IB range, the mid-point, and the 1.5x/2x extension levels, and when do you use them?",
+        "asker": ""
+      },
+      {
+        "t": "43:36",
+        "q": "Student trade review (6/10): Exiting on an intraday spike.",
+        "asker": ""
+      },
+      {
+        "t": "46:30",
+        "q": "Chart review (6/10): Micro Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "47:35",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-06-03",
+    "date": "June 3, 2015",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "What is Edge?",
+        "asker": ""
+      },
+      {
+        "t": "01:21",
+        "q": "What is generally your Expectancy and what would be a good Expectancy?",
+        "asker": ""
+      },
+      {
+        "t": "05:48",
+        "q": "What are your thoughts on using the \"Kelly Criterion\" for position sizing?",
+        "asker": ""
+      },
+      {
+        "t": "10:12",
+        "q": "Do you fade a zone based solely on price exhaustion?",
+        "asker": ""
+      },
+      {
+        "t": "15:48",
+        "q": "Are LVN equally as important as HVN?",
+        "asker": ""
+      },
+      {
+        "t": "17:16",
+        "q": "Explaining the difference between balancing at a zone vs balancing ahead of a zone.",
+        "asker": ""
+      },
+      {
+        "t": "19:58",
+        "q": "What dominant positive feelings do you actually experience during your trading day?",
+        "asker": ""
+      },
+      {
+        "t": "24:27",
+        "q": "General advice on attaining clarity during trading hours that I normally experience while reviewing the trading day outside of the market.",
+        "asker": ""
+      },
+      {
+        "t": "27:45",
+        "q": "What are the maximum time and R drawdowns that one should expect?",
+        "asker": ""
+      },
+      {
+        "t": "31:44",
+        "q": "Student chart review: General guidelines on how to distinguish between 1st and 2nd tests.",
+        "asker": ""
+      },
+      {
+        "t": "34:20",
+        "q": "How do you handle key reference areas that are very close to the opening price?",
+        "asker": ""
+      },
+      {
+        "t": "37:48",
+        "q": "Student trade review (6/3).",
+        "asker": ""
+      },
+      {
+        "t": "42:10",
+        "q": "Student trade review (6/3): Using the mid-point and vwap.",
+        "asker": ""
+      },
+      {
+        "t": "45:02",
+        "q": "Why is there a discrepancy in the NYSE AD line in SierraChart?",
+        "asker": ""
+      },
+      {
+        "t": "45:32",
+        "q": "Do you look at the Beige Book outcome?",
+        "asker": ""
+      },
+      {
+        "t": "46:11",
+        "q": "Is a double bottom enough of a reason to take a trade?",
+        "asker": ""
+      },
+      {
+        "t": "46:40",
+        "q": "Do you use any moving averages?",
+        "asker": ""
+      },
+      {
+        "t": "47:16",
+        "q": "Which indicator do you place most weight on to determine if a trend is still in play or a balance period has started?",
+        "asker": ""
+      },
+      {
+        "t": "47:58",
+        "q": "Do you recommend trading while not feeling too well?",
+        "asker": ""
+      },
+      {
+        "t": "49:35",
+        "q": "Do you use tick charts?",
+        "asker": ""
+      },
+      {
+        "t": "50:35",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-05-27",
+    "date": "May 27, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "When swing trading on a longer timeframe, how often should I review my trades?",
+        "asker": ""
+      },
+      {
+        "t": "03:33",
+        "q": "Does an HVN act as S/R even when price is still within the same balance?",
+        "asker": ""
+      },
+      {
+        "t": "05:39",
+        "q": "Is TF considered easier to trade if trading small size?",
+        "asker": ""
+      },
+      {
+        "t": "07:49",
+        "q": "Would Awais consider offering zones and a daily plan for TF like he does for ES?",
+        "asker": ""
+      },
+      {
+        "t": "08:28",
+        "q": "Is it possible to find an edge trading without the market internals, focusing only on market context?",
+        "asker": ""
+      },
+      {
+        "t": "10:57",
+        "q": "Student trade review (5/21): Breakout trade.",
+        "asker": ""
+      },
+      {
+        "t": "14:33",
+        "q": "Do you recommended that I spend some time looking at Order Flow charts?",
+        "asker": ""
+      },
+      {
+        "t": "18:18",
+        "q": "Student trade review (5/21): Fade setup on second test.",
+        "asker": ""
+      },
+      {
+        "t": "22:24",
+        "q": "Student trade review (5/22): Reversing a trade.",
+        "asker": ""
+      },
+      {
+        "t": "25:30",
+        "q": "Chart review (5/26).",
+        "asker": ""
+      },
+      {
+        "t": "41:30",
+        "q": "Student trade review (5/26): Shorting breakdown of intra-day balance or on a high tick extreme.",
+        "asker": ""
+      },
+      {
+        "t": "43:38",
+        "q": "Chart review (5/26): How much penetration into a previous balance area is acceptable before the short term trend can be considered shifting from bull to bear or vice versa?",
+        "asker": ""
+      },
+      {
+        "t": "45:48",
+        "q": "General thoughts on VWAP and VWAP time period.",
+        "asker": ""
+      },
+      {
+        "t": "47:38",
+        "q": "Student trade review (5/27).",
+        "asker": ""
+      },
+      {
+        "t": "51:26",
+        "q": "Student trade review (5/26).",
+        "asker": ""
+      },
+      {
+        "t": "58:55",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-05-20",
+    "date": "May 20, 2015",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "Are balancing areas defined by a particular price range?",
+        "asker": ""
+      },
+      {
+        "t": "04:35",
+        "q": "What pre-market factors could have anticipated the seven point move down at the open today (5/20)?",
+        "asker": ""
+      },
+      {
+        "t": "07:26",
+        "q": "General thoughts on automatic and non-automatic fade zones.",
+        "asker": ""
+      },
+      {
+        "t": "11:18",
+        "q": "Any rule of thumb as to when you should re-enter at a KRA after your first trade got stopped out?",
+        "asker": ""
+      },
+      {
+        "t": "15:38",
+        "q": "How much importance do you give to your first read of a trade opportunity?",
+        "asker": ""
+      },
+      {
+        "t": "17:43",
+        "q": "Does an HVN acting as support become resistance once broken?",
+        "asker": ""
+      },
+      {
+        "t": "20:35",
+        "q": "Do you use moving averages and MA crossovers to determine the larger timeframe market direction?",
+        "asker": ""
+      },
+      {
+        "t": "25:38",
+        "q": "Do you ever take trades for a 1R potential return even if that trade has a high probability of success?",
+        "asker": ""
+      },
+      {
+        "t": "26:56",
+        "q": "General advice on holding for targets and overcoming early exits.",
+        "asker": ""
+      },
+      {
+        "t": "34:13",
+        "q": "Student trade review (5/20): FOMC",
+        "asker": ""
+      },
+      {
+        "t": "37:52",
+        "q": "Do you use intra-day market structure to enter trades outside the zones and the trade plan?",
+        "asker": ""
+      },
+      {
+        "t": "43:07",
+        "q": "What's the correct way to enter a failed breakout or breakdown?",
+        "asker": ""
+      },
+      {
+        "t": "46:36",
+        "q": "Student trade review (5/19).",
+        "asker": ""
+      },
+      {
+        "t": "54:59",
+        "q": "Student trade review (5/20): Buying a breakout re-test.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-05-13",
+    "date": "May 13, 2015",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "Student trade review (TF 5/11): Analyzing the importance of a zone/level.",
+        "asker": ""
+      },
+      {
+        "t": "06:59",
+        "q": "What percent of your overall trades are zone fades vs momentum based trades?",
+        "asker": ""
+      },
+      {
+        "t": "09:38",
+        "q": "Do you find that more of your money is made by shorting the market or by going long?",
+        "asker": ""
+      },
+      {
+        "t": "11:09",
+        "q": "Under which circumstances would you automatically fade an important zone vs wait for a setup at the zone?",
+        "asker": ""
+      },
+      {
+        "t": "13:57",
+        "q": "Do you risk a larger percent of your account on trend days?",
+        "asker": ""
+      },
+      {
+        "t": "15:29",
+        "q": "How to correctly size additional trades around a core position.",
+        "asker": ""
+      },
+      {
+        "t": "19:10",
+        "q": "General thoughts on balancing the bigger picture view with the intraday context.",
+        "asker": ""
+      },
+      {
+        "t": "24:16",
+        "q": "General thoughts on determining the difference between exhaustion and directional conviction.",
+        "asker": ""
+      },
+      {
+        "t": "27:44",
+        "q": "Student trade review (5/11).",
+        "asker": ""
+      },
+      {
+        "t": "32:22",
+        "q": "Student trade review (5/12).",
+        "asker": ""
+      },
+      {
+        "t": "35:49",
+        "q": "Student trade review (5/13): Risking 2R at a key zone by taking two trades with tighter stops vs one trade with a wide stop.",
+        "asker": ""
+      },
+      {
+        "t": "40:09",
+        "q": "Is moving the stop a proper trade management approach?",
+        "asker": ""
+      },
+      {
+        "t": "46:06",
+        "q": "Definition of a Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "46:34",
+        "q": "Example on how to identify a Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "50:05",
+        "q": "Student trade review (5/13): Initiating trades in the middle of a balanced day.",
+        "asker": ""
+      },
+      {
+        "t": "51:52",
+        "q": "General thought on having resting orders for first tests.",
+        "asker": ""
+      },
+      {
+        "t": "55:58",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-05-06",
+    "date": "May 6, 2015",
+    "questions": [
+      {
+        "t": "00:26",
+        "q": "Student trade review: False Open Drive (5/4).",
+        "asker": ""
+      },
+      {
+        "t": "08:39",
+        "q": "Student performance review.",
+        "asker": ""
+      },
+      {
+        "t": "17:26",
+        "q": "Reading Intraday Market Action in Context.",
+        "asker": ""
+      },
+      {
+        "t": "20:21",
+        "q": "Interpreting price action at a KRA vs gauging what is likely to happen based on your read of market context.",
+        "asker": ""
+      },
+      {
+        "t": "20:39",
+        "q": "Anticipating potential scenarios for a given trading day.",
+        "asker": ""
+      },
+      {
+        "t": "29:10",
+        "q": "General thoughts on identifying Key Reference Areas (KRAs) while taking context into account.",
+        "asker": ""
+      },
+      {
+        "t": "36:12",
+        "q": "Student trade review: Understanding the context vs waiting for confirmation (5/4).",
+        "asker": ""
+      },
+      {
+        "t": "41:09",
+        "q": "Student trade review: Identifying a trend day (5/5).",
+        "asker": ""
+      },
+      {
+        "t": "47:52",
+        "q": "Student trade review (5/6).",
+        "asker": ""
+      },
+      {
+        "t": "52:34",
+        "q": "How do I know which zones to fade?",
+        "asker": ""
+      },
+      {
+        "t": "56:05",
+        "q": "How to manage a trade through intraday chop to hold for bigger targets maximize reward potential.",
+        "asker": ""
+      },
+      {
+        "t": "59:53",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-04-29",
+    "date": "April 29, 2015",
+    "questions": [
+      {
+        "t": "00:48",
+        "q": "For the open drive on a trend day; do I jump in after seeing one or two powerful candles on the 5 minute chart or should I use the 1 minute chart?",
+        "asker": ""
+      },
+      {
+        "t": "02:22",
+        "q": "In the case of an open drive towards a balance extreme, should I fade the extreme or expect a continuation of the trend?",
+        "asker": ""
+      },
+      {
+        "t": "05:56",
+        "q": "Do you use RTH or 24H charts to identify the higher odds support/resistance zones?",
+        "asker": ""
+      },
+      {
+        "t": "09:41",
+        "q": "General thoughts on Spoofing.",
+        "asker": ""
+      },
+      {
+        "t": "13:05",
+        "q": "Do you recommend using trailing stops?",
+        "asker": ""
+      },
+      {
+        "t": "17:59",
+        "q": "What information from the overnight session is relevant for trading RTH?",
+        "asker": ""
+      },
+      {
+        "t": "20:11",
+        "q": "Student trade review (4/27).",
+        "asker": ""
+      },
+      {
+        "t": "25:59",
+        "q": "General thoughts on adjusting intra-day bias in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "32:51",
+        "q": "General thoughts on missing entries.",
+        "asker": ""
+      },
+      {
+        "t": "43:21",
+        "q": "General thoughts on trusting your own analysis and how to benefit from EMiniPlayer's trade plan to improve your process.",
+        "asker": ""
+      },
+      {
+        "t": "49:31",
+        "q": "Student trade review (4/28).",
+        "asker": ""
+      },
+      {
+        "t": "51:44",
+        "q": "What is the norm in terms of R targets?",
+        "asker": ""
+      },
+      {
+        "t": "55:04",
+        "q": "Do you give the same weight to single-level zones as opposed to standard zones?",
+        "asker": ""
+      },
+      {
+        "t": "57:25",
+        "q": "Chart review (4/29).",
+        "asker": ""
+      },
+      {
+        "t": "58:49",
+        "q": "If stopped out from a trade, do you re-take the trade at the same zone?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-04-22",
+    "date": "April 22, 2015",
+    "questions": [
+      {
+        "t": "00:21",
+        "q": "Student trade review (4/20).",
+        "asker": ""
+      },
+      {
+        "t": "02:49",
+        "q": "When price breaks above a HVN, would a retracement back into the node be a good long targeting the initial resistance zone?",
+        "asker": ""
+      },
+      {
+        "t": "04:55",
+        "q": "Other suggestions to help with the mental/emotional part of trading.",
+        "asker": ""
+      },
+      {
+        "t": "07:33",
+        "q": "Student trade review (4/21).",
+        "asker": ""
+      },
+      {
+        "t": "11:14",
+        "q": "How to use the Bull/Bear zone intra-day.",
+        "asker": ""
+      },
+      {
+        "t": "18:13",
+        "q": "Which do you focus most your attention on intra-day, the 5mn chart or the 1mn?",
+        "asker": ""
+      },
+      {
+        "t": "20:35",
+        "q": "Student trade review (4/22).",
+        "asker": ""
+      },
+      {
+        "t": "22:22",
+        "q": "Student trade review (4/22).",
+        "asker": ""
+      },
+      {
+        "t": "23:22",
+        "q": "Student trade review (4/22).",
+        "asker": ""
+      },
+      {
+        "t": "24:06",
+        "q": "Managing exits and R/R.",
+        "asker": ""
+      },
+      {
+        "t": "40:25",
+        "q": "Adapting a method to your own style.",
+        "asker": ""
+      },
+      {
+        "t": "44:16",
+        "q": "Discussion on number of screens needed to trade.",
+        "asker": ""
+      },
+      {
+        "t": "48:04",
+        "q": "How do you calculate the width of the zones?",
+        "asker": ""
+      },
+      {
+        "t": "51:09",
+        "q": "What do you think about trading Oil (CL)?",
+        "asker": ""
+      },
+      {
+        "t": "52:44",
+        "q": "How do you calculate the width of the zones?",
+        "asker": ""
+      },
+      {
+        "t": "53:58",
+        "q": "Do you recommend to continue to trade while going through the OpenTrader training program?",
+        "asker": ""
+      },
+      {
+        "t": "55:24",
+        "q": "In a bigger picture balance and an overall bullish environment, are long fade setups at key zones on the shorter term timeframe still tradable?",
+        "asker": ""
+      },
+      {
+        "t": "57:11",
+        "q": "What was your learning curve?",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-04-15",
+    "date": "April 15, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "How to overcome the issue of exiting early and failing to hold for planned targets.",
+        "asker": ""
+      },
+      {
+        "t": "07:24",
+        "q": "In Forex, is the RSI a substitute for the TICK and the Advance/Decline line? What indicator would you recommend for Forex?",
+        "asker": ""
+      },
+      {
+        "t": "12:12",
+        "q": "When to anticipate a break out of balance and have an early entry.",
+        "asker": ""
+      },
+      {
+        "t": "15:15",
+        "q": "How to handle missed entries. When to be aggressive and when to be more patient and defensive.",
+        "asker": ""
+      },
+      {
+        "t": "20:51",
+        "q": "How to improve the process of identifying S/R zones.",
+        "asker": ""
+      },
+      {
+        "t": "25:49",
+        "q": "Student trade review (4/14).",
+        "asker": ""
+      },
+      {
+        "t": "28:32",
+        "q": "How to identify a momentum shift.",
+        "asker": ""
+      },
+      {
+        "t": "35:00",
+        "q": "What is an acceptable level of precision for Key Reference Areas?",
+        "asker": ""
+      },
+      {
+        "t": "38:39",
+        "q": "Student trade review (4/14).",
+        "asker": ""
+      },
+      {
+        "t": "40:40",
+        "q": "How much emphasis should I place on the Open level?",
+        "asker": ""
+      },
+      {
+        "t": "43:18",
+        "q": "Thoughts on moving the stop loss to break-even.",
+        "asker": ""
+      },
+      {
+        "t": "47:49",
+        "q": "Evaluating trade potential in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "52:17",
+        "q": "What is your opinion on setting up pre-market orders at KRAs?",
+        "asker": ""
+      },
+      {
+        "t": "55:21",
+        "q": "When does it make sense to trade the same zone multiple times?",
+        "asker": ""
+      },
+      {
+        "t": "58:08",
+        "q": "When starting out, do you recommend to focus only on the S&P?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-04-08",
+    "date": "April 8, 2015",
+    "questions": [
+      {
+        "t": "00:27",
+        "q": "What's the difference between a TPO profile and a volume profile?",
+        "asker": ""
+      },
+      {
+        "t": "02:19",
+        "q": "What would cause you to cancel a resting order that you have set to fade the market at an automatic fade zone?",
+        "asker": ""
+      },
+      {
+        "t": "05:08",
+        "q": "How many stop outs should I take before I recognize that it is a trend that should not be faded?",
+        "asker": ""
+      },
+      {
+        "t": "07:58",
+        "q": "If price breaks back below a launching point Key Reference Area (KRA), does it invalidate that KRA? does that KRA turn into resistance?",
+        "asker": ""
+      },
+      {
+        "t": "10:39",
+        "q": "Student trade review (CL 4/7).",
+        "asker": ""
+      },
+      {
+        "t": "15:34",
+        "q": "Is there a way to gauge how strong an HVN from the Globex session will be?",
+        "asker": ""
+      },
+      {
+        "t": "16:22",
+        "q": "Is the developing intra-day volume profile a useful tool?",
+        "asker": ""
+      },
+      {
+        "t": "17:07",
+        "q": "Are inside/outside days based on RTH or the Globex session?",
+        "asker": ""
+      },
+      {
+        "t": "17:30",
+        "q": "Student trade review (4/2).",
+        "asker": ""
+      },
+      {
+        "t": "19:08",
+        "q": "How many trades do you range per day?",
+        "asker": ""
+      },
+      {
+        "t": "20:15",
+        "q": "Should I put a limit of 3 losing trades a day or a total of a 2R loss after which I stop trading for the day?",
+        "asker": ""
+      },
+      {
+        "t": "27:11",
+        "q": "When is it a good idea to go back to the simulator?",
+        "asker": ""
+      },
+      {
+        "t": "28:56",
+        "q": "When to fade and not to fade in the afternoon?",
+        "asker": ""
+      },
+      {
+        "t": "30:53",
+        "q": "Student trade review (4/8).",
+        "asker": ""
+      },
+      {
+        "t": "36:24",
+        "q": "Student trade review (4/6).",
+        "asker": ""
+      },
+      {
+        "t": "43:17",
+        "q": "Student trade review (4/6).",
+        "asker": ""
+      },
+      {
+        "t": "47:37",
+        "q": "How to get on board directional/trending moves.",
+        "asker": ""
+      },
+      {
+        "t": "51:28",
+        "q": "Student trade review (4/7).",
+        "asker": ""
+      },
+      {
+        "t": "54:21",
+        "q": "What defines a Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "57:27",
+        "q": "With regard to inter-market relationships, why do you give more weight to TF? Why does TF have less volume? General thoughts on profit targets. Does price action play any role in determining how strong a KRA is?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-04-01",
+    "date": "April 1, 2015",
+    "questions": [
+      {
+        "t": "01:31",
+        "q": "Frequency of an inside day following strong up-days vs down-days.",
+        "asker": ""
+      },
+      {
+        "t": "04:35",
+        "q": "How and where to enter within a zone, and when should I cancel my resting orders?",
+        "asker": ""
+      },
+      {
+        "t": "08:34",
+        "q": "Should I use limit orders for intra-day entries outside the zones?",
+        "asker": ""
+      },
+      {
+        "t": "10:42",
+        "q": "Discussion on overnight vs regular session (RTH) Key Reference areas (KRA): When to use an overnight KRA to enter? Are RTH KRAs more important? Are tests of the KRAs in the overnight sessions treated as initial tests before the RTH session? Should I ignore violations of a KRA in the overnight session? Should I include the balance of the overnight session in the daily analysis.",
+        "asker": ""
+      },
+      {
+        "t": "16:32",
+        "q": "When is the latest to put on a trade during the day?",
+        "asker": ""
+      },
+      {
+        "t": "18:50",
+        "q": "Discussion on how to interpret volume in balance areas - Should I discount the liquidation volume from the initial balance volume after a breakdown or breakout from that balance?",
+        "asker": ""
+      },
+      {
+        "t": "25:00",
+        "q": "Student trade review (3/27).",
+        "asker": ""
+      },
+      {
+        "t": "28:44",
+        "q": "Student trader review (3/31).",
+        "asker": ""
+      },
+      {
+        "t": "32:58",
+        "q": "General thoughts on over-analyzing inter-market relations vs focusing on the main ES market.",
+        "asker": ""
+      },
+      {
+        "t": "37:08",
+        "q": "Student trade review (3/30).",
+        "asker": ""
+      },
+      {
+        "t": "40:37",
+        "q": "How to handle big conflicting signs between price action and market internals.",
+        "asker": ""
+      },
+      {
+        "t": "43:01",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-03-25",
+    "date": "March 25, 2015",
+    "questions": [
+      {
+        "t": "01:38",
+        "q": "How to trade a false breakdown below a Bull/Bear zone: ES tested the 2092 area and popped back up. At the same time, NQ and TF were testing support and the internals were holding up. Is it a good long to take after a false breakdown below the Bull/Bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "03:57",
+        "q": "Short setups when price is above the Bull/Bear zone (Intraday Bias vs Big Picture Bias).",
+        "asker": ""
+      },
+      {
+        "t": "12:42",
+        "q": "Is the NYSE AD correlated/biased by the Russell stocks?",
+        "asker": ""
+      },
+      {
+        "t": "15:20",
+        "q": "I don’t use S&P AD, might it be a better view?",
+        "asker": ""
+      },
+      {
+        "t": "18:43",
+        "q": "How to recognize exhaustion moves vs pullbacks on the open drive.",
+        "asker": ""
+      },
+      {
+        "t": "22:47",
+        "q": "Trade location in a directional move: Should I wait for pullback with clearly negative TICK or enter on the first shallow pullback?",
+        "asker": ""
+      },
+      {
+        "t": "28:14",
+        "q": "General thoughts regarding tight stops.",
+        "asker": ""
+      },
+      {
+        "t": "31:50",
+        "q": "How to handle a series of losers.",
+        "asker": ""
+      },
+      {
+        "t": "38:34",
+        "q": "Explaining the Bull/Bear zone.",
+        "asker": ""
+      },
+      {
+        "t": "40:15",
+        "q": "Student trade review (March 24th): Buying support on second test with AD divergence.",
+        "asker": ""
+      },
+      {
+        "t": "48:40",
+        "q": "Student trade review (March 24th): Buying false breakdown below support. Interpreting AD disconnect after the open.",
+        "asker": ""
+      },
+      {
+        "t": "53:07",
+        "q": "Student trade review (March 25th): Breakdown from an intraday balance on strong momentum.",
+        "asker": ""
+      },
+      {
+        "t": "58:21",
+        "q": "Data feed for the TF Russel emini futures. Can I follow the Russell index and the IWM (Russell ETF) instead?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-03-18",
+    "date": "March 18, 2015",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "If you look at the 1hr chart, prices are approaching a massive 1 month balance that was built during January.  If you put up a volume profile on a big picture wide balance like this it gives you extremely wide zones (relative to a 1 or 5m chart.)  How should I be looking at the HVN of this large higher time frame balance in relation to intra-day trading where I'm using 2-3 point stops?",
+        "asker": ""
+      },
+      {
+        "t": "04:02",
+        "q": "What should I use on SierraChart for contract rollover?",
+        "asker": ""
+      },
+      {
+        "t": "04:35",
+        "q": "You mentioned 3 things that are important when interpreting the NYSE AD. One of those things was a big divergence. What defines big divergence in the AD, because on Monday there was divergence between price and the AD while price pushed higher?",
+        "asker": ""
+      },
+      {
+        "t": "13:04",
+        "q": "What consideration should one give to key reference areas early in a new strong trend move?",
+        "asker": ""
+      },
+      {
+        "t": "16:30",
+        "q": "In his book “Golf is not a game of perfect”, Rotella insists on having a pre-shot physical and mental routine. What would you recommend as an equivalent for a pre-trade routine?",
+        "asker": ""
+      },
+      {
+        "t": "20:51",
+        "q": "In your TraderFeed article on Feb 24, 2015 you mention momentum with TICK reading as a criteria. There is no mention of ADD as a criteria. Is there a specific reason why?",
+        "asker": ""
+      },
+      {
+        "t": "24:02",
+        "q": "While Yellen was speaking today $ADD went from +500 to over +2000 (at about 2:05 PM EST). With 2 hours to go should we get on board like a \"trend day\" (on a pullback)?",
+        "asker": ""
+      },
+      {
+        "t": "26:50",
+        "q": "On Thursday, March 12, what makes the open drive trade-able? Can you talk about how you develop the idea of expecting directional conviction in the trade plans?",
+        "asker": ""
+      },
+      {
+        "t": "33:00",
+        "q": "Student trade idea from Monday, March 16 -- \"I felt price should go up from there but I didn't take the trade because I wasn't sure if it was high odds or not.\"",
+        "asker": ""
+      },
+      {
+        "t": "44:19",
+        "q": "If you could explain Rollover day a bit.",
+        "asker": ""
+      },
+      {
+        "t": "47:05",
+        "q": "Just curious what evidence made you so confident that price would break out above the 59 area on March 16.",
+        "asker": ""
+      },
+      {
+        "t": "51:02",
+        "q": "Student trade idea review from March 18 (zone fade).",
+        "asker": ""
+      },
+      {
+        "t": "54:54",
+        "q": "What is the correct way of entering a trade on an open drive?",
+        "asker": ""
+      },
+      {
+        "t": "58:34",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-03-11",
+    "date": "March 11, 2015",
+    "questions": [
+      {
+        "t": "00:23",
+        "q": "Can you explain more about Algos? What is it, who's running them, and how do they impact the market?",
+        "asker": ""
+      },
+      {
+        "t": "04:10",
+        "q": "Is the E-mini S&P 500 really the most difficult the market to trade?",
+        "asker": ""
+      },
+      {
+        "t": "09:57",
+        "q": "If there is a large zone that is part of a higher time frame key reference area that should be automatically faded because it has strong contextual alignment with the bigger picture bias, how do you determine where to enter when you want to use a small/precise stop designed for an intra-day trade?",
+        "asker": ""
+      },
+      {
+        "t": "14:31",
+        "q": "Student trade review - Faded support zone on March 11th.",
+        "asker": ""
+      },
+      {
+        "t": "20:56",
+        "q": "Student trade review - Feedback on exiting a Long setup on Monday March 9th.",
+        "asker": ""
+      },
+      {
+        "t": "25:13",
+        "q": "Questions regarding trade ideas/setups from Monday March 9th.",
+        "asker": ""
+      },
+      {
+        "t": "30:36",
+        "q": "A discussion on exits - when to exit on the first key resistance area approaching, and when to wait for further resistance areas.",
+        "asker": ""
+      },
+      {
+        "t": "38:23",
+        "q": "How to deal with the problem of missing a trade at the Key Zone when the market is directional and trending? Problem of \"waiting for confirmation\".",
+        "asker": ""
+      },
+      {
+        "t": "43:36",
+        "q": "Missing trades due to the fear of taking a loss.",
+        "asker": ""
+      },
+      {
+        "t": "50:08",
+        "q": "How to recognize a trend day like last Friday (March 6th).",
+        "asker": ""
+      },
+      {
+        "t": "55:04",
+        "q": "With the March rollover coming up for ES, I am wondering how you treat recent price levels from the prior contract.",
+        "asker": ""
+      },
+      {
+        "t": "58:30",
+        "q": "Why is a LVN (Low Volume Node) important and what mechanics in the market are causing it?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-03-04",
+    "date": "March 4, 2015",
+    "questions": [
+      {
+        "t": "00:26",
+        "q": "Student market read review (Tuesday March 3rd) -- when did control shift to Sellers?",
+        "asker": ""
+      },
+      {
+        "t": "04:51",
+        "q": "Do advance/decline divergences work from 1 day to the next or just on the day time-frame (intraday)?",
+        "asker": ""
+      },
+      {
+        "t": "07:05",
+        "q": "When automatically fading a zone, if price does not react sharply off that zone after entry and balances/chops around it, is it best to hold on to these trades or get out early?",
+        "asker": ""
+      },
+      {
+        "t": "12:23",
+        "q": "Can you provide a rough estimate as to the percentage of fade trades that should be automatic vs. waiting for confirmation from the internals?",
+        "asker": ""
+      },
+      {
+        "t": "17:43",
+        "q": "Say there are two key reference areas relatively close to each other, and the further one from price is clearly more significant. What is the best way to handle this kind of situation?",
+        "asker": ""
+      },
+      {
+        "t": "21:30",
+        "q": "How much weight should I put on the first bar of the NYSE Adv/Dec line?",
+        "asker": ""
+      },
+      {
+        "t": "23:51",
+        "q": "Student trade review - Short 2112.75 on Monday, March 2nd.",
+        "asker": ""
+      },
+      {
+        "t": "27:22",
+        "q": "Can you expand on failed break-downs?",
+        "asker": ""
+      },
+      {
+        "t": "30:51",
+        "q": "Student market read review for Tuesday, March 3rd.",
+        "asker": ""
+      },
+      {
+        "t": "35:53",
+        "q": "Does the Micro Bull/Bear Zone act like any other S/R Zone?",
+        "asker": ""
+      },
+      {
+        "t": "40:25",
+        "q": "Brief discussion about Bull/Bear Zone.",
+        "asker": ""
+      },
+      {
+        "t": "48:17",
+        "q": "Is there a linear relationship between price action and the NYSE Advance/Decline?",
+        "asker": ""
+      },
+      {
+        "t": "49:23",
+        "q": "Student trade review (Feb 26).",
+        "asker": ""
+      },
+      {
+        "t": "51:17",
+        "q": "Student success story - reached goal of replacing weekly income with trading.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-02-25",
+    "date": "February 25, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "Student trade review (Feb 19, concerned about holding into 9AM Philly Fed report).",
+        "asker": ""
+      },
+      {
+        "t": "07:57",
+        "q": "Student trade review (early morning Short on Feb 20).",
+        "asker": ""
+      },
+      {
+        "t": "15:05",
+        "q": "To what extent is it good to use one key reference area multiple times in the same direction (Feb 23).",
+        "asker": ""
+      },
+      {
+        "t": "20:21",
+        "q": "Do you guys trade while Janet Yellen is speaking?",
+        "asker": ""
+      },
+      {
+        "t": "22:01",
+        "q": "What mechanism or market principle is the cause of the VPOC and Close of the day being quite often at a similar or exact price?",
+        "asker": ""
+      },
+      {
+        "t": "25:17",
+        "q": "On Friday we had some great trade opportunities, but I noticed that none of the entries were fades at the reference areas. Would you show us how to take those pullbacks and where to put our stops?",
+        "asker": ""
+      },
+      {
+        "t": "34:03",
+        "q": "I am currently only trading setups that offer 3 to 1 or more. Is this a good idea or should I be going for 2 to 1 as well?",
+        "asker": ""
+      },
+      {
+        "t": "37:19",
+        "q": "How far back do you look on your composite volume profile chart?",
+        "asker": ""
+      },
+      {
+        "t": "40:10",
+        "q": "I’d like your opinion on Time Based Charts compared with Tick Based Charts. Pros and cons?",
+        "asker": ""
+      },
+      {
+        "t": "42:31",
+        "q": "Discussion on how to handle scenarios where you get stopped and need to re-enter at the next zone. Stop placement. Size of stop in relation to the zone being faded. Is it worth reading into the DOM/market depth?",
+        "asker": ""
+      },
+      {
+        "t": "54:19",
+        "q": "When are appropriate times to utilize the VWAP and the midpoint?",
+        "asker": ""
+      },
+      {
+        "t": "59:07",
+        "q": "How to enter a trade after the market has already put in a reaction at a Key Reference Area.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2015-02-18",
+    "date": "February 18, 2015",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "Correctly interpreting the nuances of market internals/breadth (NYSE Advance/Decline and NYSE TICK).",
+        "asker": ""
+      },
+      {
+        "t": "14:17",
+        "q": "What's a reliable tool to get relative volume data?",
+        "asker": ""
+      },
+      {
+        "t": "17:00",
+        "q": "Thoughts on Dalton's view on value vs price.",
+        "asker": ""
+      },
+      {
+        "t": "20:11",
+        "q": "Thoughts on being more patient in a range-bound market and focusing on correct trading process instead of the outcome of any given trade.",
+        "asker": ""
+      },
+      {
+        "t": "25:25",
+        "q": "It seems that automatic fade zones are always accompanied with high exhausting volume. Is this a true perception?",
+        "asker": ""
+      },
+      {
+        "t": "28:27",
+        "q": "Student trade review (Feb 18th).",
+        "asker": ""
+      },
+      {
+        "t": "38:26",
+        "q": "What went into creating the 2079-2081.50 Support Zone?",
+        "asker": ""
+      },
+      {
+        "t": "39:09",
+        "q": "When trading break-outs, is it better to get on-board quickly or wait for a pullback?",
+        "asker": ""
+      },
+      {
+        "t": "42:11",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-02-11",
+    "date": "February 11, 2015",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "What are, in your opinion, the most simple high-odds setups and contexts for beginning traders to focus on?",
+        "asker": ""
+      },
+      {
+        "t": "07:23",
+        "q": "I am profitable at the end of the week and the end of the month on both sim and backtest.  Starting out on a Live account, what can I do better as emotions can be erratic and based on what I have told you am I even ready to go live?",
+        "asker": ""
+      },
+      {
+        "t": "18:24",
+        "q": "How much do I need in my account to start trading futures?",
+        "asker": ""
+      },
+      {
+        "t": "20:13",
+        "q": "I'm curious about the use of volume profile, specifically using 24 hour data or RTH data. Do you use both or rely on RTH to get a true read where the market may have a reaction up or down?",
+        "asker": ""
+      },
+      {
+        "t": "21:36",
+        "q": "When you set a bull/bear zone, would you say that above that zone you would look to systematically buy on retracements and sell selectively, or would you exclusively be looking to buy and avoid shorts?",
+        "asker": ""
+      },
+      {
+        "t": "23:37",
+        "q": "When the A/D line moves down, but price does not follow, does it mean price is likely to go up (market absorption of shorts) or does it mean that price is more likely to follow the A/D line (only a few large cap stocks were holding the price)?",
+        "asker": ""
+      },
+      {
+        "t": "35:56",
+        "q": "Student trade review (Friday, Feb 6).",
+        "asker": ""
+      },
+      {
+        "t": "38:48",
+        "q": "To what extent would it be ok to use the advance/decline's absolute level in relation to the absolute value of the market movement.",
+        "asker": ""
+      },
+      {
+        "t": "43:23",
+        "q": "I’m interested to know how you place your trades, the majority of the time. Do you mainly set resting orders during pre-market or intraday? Or are the majority of your trades ‘buy market’?",
+        "asker": ""
+      },
+      {
+        "t": "45:13",
+        "q": "Student market read and trade review (Wed, Feb 11).",
+        "asker": ""
+      },
+      {
+        "t": "48:48",
+        "q": "Student trade review (Tuesday, Feb 10) - Entering the next trade setup right after getting stopped out.",
+        "asker": ""
+      },
+      {
+        "t": "57:10",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-01-28",
+    "date": "January 28, 2015",
+    "questions": [
+      {
+        "t": "00:28",
+        "q": "If during the Globex session price trades on both sides of a reference area, does it invalidate this reference area for the RTH session?",
+        "asker": ""
+      },
+      {
+        "t": "03:25",
+        "q": "If on first test of a support area price reaches the lower limit of the support area, without touching our stop. On a retest of that support area, should we place our stop 2-3 points under the low of the previous test/price action, or keep it just under the reference area as in the first place?",
+        "asker": ""
+      },
+      {
+        "t": "05:59",
+        "q": "If a pre-market support/resistance is not retested during RTH, do you keep it as a support/resistance going forward the following days? Or does its importance fade away on the day it was formed?",
+        "asker": ""
+      },
+      {
+        "t": "08:26",
+        "q": "Student trade review from Jan 27 (incorrectly interpreting context and trend potential).",
+        "asker": ""
+      },
+      {
+        "t": "17:24",
+        "q": "Student trade review (incorrectly interpreting open drive).",
+        "asker": ""
+      },
+      {
+        "t": "25:54",
+        "q": "How do you deal with trading range day vs trend day?",
+        "asker": ""
+      },
+      {
+        "t": "31:03",
+        "q": "Why is there a difference in the E-mini futures and the S&P 500 cash index?",
+        "asker": ""
+      },
+      {
+        "t": "32:09",
+        "q": "Question on getting Adv/Decl and Volume Profile in NinjaTrader.",
+        "asker": ""
+      },
+      {
+        "t": "34:56",
+        "q": "What are the most important charts you focus on during the day?",
+        "asker": ""
+      },
+      {
+        "t": "36:32",
+        "q": "Student trade review from Jan 22 (core issue of waiting for confirmation and fading zones on 2nd or 3rd test).",
+        "asker": ""
+      },
+      {
+        "t": "41:06",
+        "q": "Question regarding a fade setup at Support when the Adv/Decl is at -1000.",
+        "asker": ""
+      },
+      {
+        "t": "44:43",
+        "q": "Question regarding the price action and internals on Tuesday, Jan 28.",
+        "asker": ""
+      },
+      {
+        "t": "49:09",
+        "q": "Scaling out of your position vs. holding full position to target.",
+        "asker": ""
+      },
+      {
+        "t": "53:57",
+        "q": "Do you move your stop-loss to break-even once the trade starts working?",
+        "asker": ""
+      },
+      {
+        "t": "58:14",
+        "q": "Question regarding Long setup from Thursday and Friday (Jan 22-23) and properly setting and holding to target.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-01-21",
+    "date": "January 21, 2015",
+    "questions": [
+      {
+        "t": "00:30",
+        "q": "Is there a good rule of thumb for stop size in relation to the ATR, i.e. volatility?",
+        "asker": ""
+      },
+      {
+        "t": "06:02",
+        "q": "I day trade trending top-gainer stocks, which often have opening drives that require just hitting “buy” fast. I size the trade based on a preset 4–5% stop that can be tightened after entry (not loosened) after selecting a logical key reference area to place the stop. This approach locks the trade sizing in on the small side based on the 4–5% preset stop, even if the stop can be legitimately tightened after entry. Is there another approach to this problem, or is this the correct way to handle it?",
+        "asker": ""
+      },
+      {
+        "t": "11:38",
+        "q": "Can you elaborate on your thought process during the day and the kind of questions you ask yourself about the market action in real-time?",
+        "asker": ""
+      },
+      {
+        "t": "19:32",
+        "q": "While reading the market at a key reference area would you say the current day’s high and low is more significant than the previous day’s high and low?",
+        "asker": ""
+      },
+      {
+        "t": "23:29",
+        "q": "Can you compare Jan 15th vs Jan 12th bounces off the bottom in terms of selling the Mid (50% Retracement)/24Hr VWAP first time back up, and why those two setups were different?",
+        "asker": ""
+      },
+      {
+        "t": "29:47",
+        "q": "How to identify and differentiate between a valid break-out and a failed break-out?",
+        "asker": ""
+      },
+      {
+        "t": "37:29",
+        "q": "Student trade / market analysis review for Wednesday, Jan 21.",
+        "asker": ""
+      },
+      {
+        "t": "48:08",
+        "q": "Thoughts on resting orders on either side of the Bull/Bear Zone when the market is set to open right at or very near a Bull/Bear Zone.",
+        "asker": ""
+      },
+      {
+        "t": "54:46",
+        "q": "How to correctly draw a Fibonacci Retracement.",
+        "asker": ""
+      },
+      {
+        "t": "58:07",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-01-14",
+    "date": "January 14, 2015",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "Example of how to read the Advance/Decline when market is opening on a gap up.",
+        "asker": ""
+      },
+      {
+        "t": "04:25",
+        "q": "Is there any way to judge whether the break-out from the first hour range is a false break-out or not?",
+        "asker": ""
+      },
+      {
+        "t": "07:45",
+        "q": "Question about the Foot-print chart and why the swing lows usually show zero contracts traded at the offer.",
+        "asker": ""
+      },
+      {
+        "t": "12:06",
+        "q": "Question regarding the price action from Wednesday, Jan 15 and how to avoid getting chopped.",
+        "asker": ""
+      },
+      {
+        "t": "16:44",
+        "q": "Question regarding the price action on Friday, Jan 9.",
+        "asker": ""
+      },
+      {
+        "t": "19:32",
+        "q": "Question regarding Monday, Jan 13, when ES gapped up but the A/D was flat to negative and NYSE TICK was negative off the open. Also, how to get on-board for a continuation trade once the market has made a big directional move.",
+        "asker": ""
+      },
+      {
+        "t": "30:35",
+        "q": "How to define the balance areas from Jan 8 and Jan 9.",
+        "asker": ""
+      },
+      {
+        "t": "36:05",
+        "q": "Was the opening type for Monday Jan 12 and Tuesday Jan 13 an Open Drive?",
+        "asker": ""
+      },
+      {
+        "t": "37:50",
+        "q": "Is the price action from Tuesday, Jan 14 unusual and are there any tells that can provide us a heads-up?",
+        "asker": ""
+      },
+      {
+        "t": "44:50",
+        "q": "For Tuesday, the EMiniPlayer.net analysis defined 2027-2029 as the Bull/Bear Zone. Why did you expect Buyers to be in control above that Zone?",
+        "asker": ""
+      },
+      {
+        "t": "50:39",
+        "q": "Student trade review (Short at 2045 with stop at 2048 on Tuesday, Jan 14).",
+        "asker": ""
+      },
+      {
+        "t": "53:51",
+        "q": "Student trade review (Short at 2036 with stop at 2038.25 on Tuesday, Jan 14) -- question on how to stay in the trade for a bigger move.",
+        "asker": ""
+      },
+      {
+        "t": "58:36",
+        "q": "Question on the big reversal off the 82-85 Support Zone on Wednesday, Jan 15.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2015-01-07",
+    "date": "January 7, 2015",
+    "questions": [
+      {
+        "t": "00:19",
+        "q": "What factors should one be looking at to determine if the intraday move is likely to continue or to reverse (intraday analysis)?",
+        "asker": ""
+      },
+      {
+        "t": "08:23",
+        "q": "What goes into your appraisal of market conditions that results in oversold or overbought being included in your daily trade plan?",
+        "asker": ""
+      },
+      {
+        "t": "08:03",
+        "q": "How to use Relative volume during the trading day.",
+        "asker": ""
+      },
+      {
+        "t": "11:29",
+        "q": "Does it make sense to look at other markets like Crude Oil, Euro, US Dollar, etc. to trade the S&P?",
+        "asker": ""
+      },
+      {
+        "t": "15:23",
+        "q": "When a breakout is not accompanied by high volume, does this warrant a fade trade?",
+        "asker": ""
+      },
+      {
+        "t": "18:11",
+        "q": "How do you distinguish between aggressive and conservative (ideal) trade location?",
+        "asker": ""
+      },
+      {
+        "t": "21:10",
+        "q": "Is there a typical period of time before and after a FOMC announcement (and/or minutes release) where the volatility is such we should be out of the market at the time?",
+        "asker": ""
+      },
+      {
+        "t": "23:00",
+        "q": "Student chart review (Wheat market).",
+        "asker": ""
+      },
+      {
+        "t": "27:17",
+        "q": "Student trade review from Tuesday, Jan 6th (failed break-out followed by liquidation).",
+        "asker": ""
+      },
+      {
+        "t": "34:20",
+        "q": "Student analysis review from Monday, Jan 5th.",
+        "asker": ""
+      },
+      {
+        "t": "39:39",
+        "q": "Question regarding the price action on Dec 30 and Dec 31st. On Dec 31st trading, why did the market go down to such extremes when the internals were not that negative.  It seems that watching the internals can be misleading at times. How can we overcome this? Is there another variable that should have received greater weight?",
+        "asker": ""
+      },
+      {
+        "t": "46:19",
+        "q": "Question regarding the balance break-out on Dec 18.",
+        "asker": ""
+      },
+      {
+        "t": "48:44",
+        "q": "Thoughts on purchasing a good trading PC/computer.",
+        "asker": ""
+      },
+      {
+        "t": "52:01",
+        "q": "How to enter a false break-out trade setup?",
+        "asker": ""
+      },
+      {
+        "t": "55:08",
+        "q": "Student trade review from Wed. Jan 7th (Short ES at 2015).",
+        "asker": ""
+      },
+      {
+        "t": "57:09",
+        "q": "Regarding Tuesday, Jan 6th, was there any clues as to the direction of the day or did the open give the direction after 10 as to where the market wanted to go?",
+        "asker": ""
+      },
+      {
+        "t": "55:08",
+        "q": "Student trade review from Wed. Jan 7th (Short ES at 2015).",
+        "asker": ""
+      },
+      {
+        "t": "58:52",
+        "q": "Why were you expecting a directional move on Tuesday, Jan 6th?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-12-17",
+    "date": "December 17, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-12-10",
+    "date": "December 10, 2014",
+    "questions": [
+      {
+        "t": "00:35",
+        "q": "Do Divergence and Exhaustion setups work for swing trading Forex?",
+        "asker": ""
+      },
+      {
+        "t": "08:26",
+        "q": "Question on the last drill of the last lesson in the Your Market Framework section.",
+        "asker": ""
+      },
+      {
+        "t": "11:19",
+        "q": "Is it OK to take trades in the Globex session? Do the Key Reference Areas work just as well?",
+        "asker": ""
+      },
+      {
+        "t": "15:40",
+        "q": "Tuesday, December 9th, the market opened on a large gap lower. Did the lack of an open drive nullify the potential for a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "23:17",
+        "q": "Several questions regarding the price action from Monday, December 8th (balance break-down).",
+        "asker": ""
+      },
+      {
+        "t": "40:40",
+        "q": "Why is it better to trade the edges of the Zones or enter at more conservative location on certain days?",
+        "asker": ""
+      },
+      {
+        "t": "47:48",
+        "q": "Importance of wide range candles/bars and how to use them.",
+        "asker": ""
+      },
+      {
+        "t": "50:49",
+        "q": "Student trade review for trades from Wednesday Dec 10th.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-12-03",
+    "date": "December 3, 2014",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "What real-time news feed do you use?",
+        "asker": ""
+      },
+      {
+        "t": "06:08",
+        "q": "Can you recall a time when ES jumped your stop in RTH session?",
+        "asker": ""
+      },
+      {
+        "t": "08:03",
+        "q": "How to use Relative volume during the trading day.",
+        "asker": ""
+      },
+      {
+        "t": "13:08",
+        "q": "Student trade review (Dec 1st).",
+        "asker": ""
+      },
+      {
+        "t": "18:18",
+        "q": "Thoughts on drawing the support/resistance zones.",
+        "asker": ""
+      },
+      {
+        "t": "27:22",
+        "q": "Student trade review (Dec 1st).",
+        "asker": ""
+      },
+      {
+        "t": "31:34",
+        "q": "How to properly weigh the overnight volume profile vs the RTH/day session volume profile.",
+        "asker": ""
+      },
+      {
+        "t": "34:34",
+        "q": "How to spot divergences between ES, NQ and TF.",
+        "asker": ""
+      },
+      {
+        "t": "39:10",
+        "q": "Reasoning behind the 2045-2047.50 Support Zone in ES from Monday, Dec 1st and thoughts on why that Zone was adjusted down to 2043-2045.50 for Wednesday Dec 3rd.",
+        "asker": ""
+      },
+      {
+        "t": "47:12",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-11-26",
+    "date": "November 26, 2014",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "When trading the ES, how long before an economic release is it OK to still take the trade?",
+        "asker": ""
+      },
+      {
+        "t": "04:50",
+        "q": "When you're in a larger balance area and a smaller balance area is developing within it, how to you go about determining the importance of each balance area?",
+        "asker": ""
+      },
+      {
+        "t": "08:43",
+        "q": "Over the last few days, have you weighed the overnight session more since the day session volume was so light?",
+        "asker": ""
+      },
+      {
+        "t": "09:55",
+        "q": "Thoughts on looking at the daily chart and then zooming into the smaller times-frames like 60-min, 30-min and 5-min.",
+        "asker": ""
+      },
+      {
+        "t": "13:41",
+        "q": "Is there a rule of thumb on when the stop-loss should be moved to break-even?",
+        "asker": ""
+      },
+      {
+        "t": "17:09",
+        "q": "Is using a trailing stop efficient?",
+        "asker": ""
+      },
+      {
+        "t": "21:00",
+        "q": "Trading the edges of balance or range extremes when the market is stuck in a balance.",
+        "asker": ""
+      },
+      {
+        "t": "24:56",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-11-19",
+    "date": "November 19, 2014",
+    "questions": [
+      {
+        "t": "00:23",
+        "q": "Is there a specific reason for the recent low volume?",
+        "asker": ""
+      },
+      {
+        "t": "02:09",
+        "q": "Student trade review (Friday Nov 14). Setting targets and calculating \"R\".",
+        "asker": ""
+      },
+      {
+        "t": "07:44",
+        "q": "Example trade setup (balance break-out from Nov 18).",
+        "asker": ""
+      },
+      {
+        "t": "10:39",
+        "q": "Question on how to trade the EMiniPlayer.net Support/Resistance Zones.",
+        "asker": ""
+      },
+      {
+        "t": "18:05",
+        "q": "Thoughts on stalking a trade setup and execution.",
+        "asker": ""
+      },
+      {
+        "t": "22:50",
+        "q": "How important is the opening range high/low?",
+        "asker": ""
+      },
+      {
+        "t": "25:03",
+        "q": "Do you use or find value in pit audio commentary?",
+        "asker": ""
+      },
+      {
+        "t": "26:57",
+        "q": "Would the 5-min bar right on the FOMC Minutes release be considered an exhaustion bar?",
+        "asker": ""
+      },
+      {
+        "t": "28:34",
+        "q": "How much significance should be given to the overnight session?",
+        "asker": ""
+      },
+      {
+        "t": "32:54",
+        "q": "Trading ES in the overnight session.",
+        "asker": ""
+      },
+      {
+        "t": "36:31",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-11-12",
+    "date": "November 12, 2014",
+    "questions": [
+      {
+        "t": "00:22",
+        "q": "Do you look at the ATR (Average True Range) to help determine overbought/oversold conditions in a non-trending market?",
+        "asker": ""
+      },
+      {
+        "t": "08:56",
+        "q": "How do you fade/short the market on non-trending days when it's making new highs on a daily basis?",
+        "asker": ""
+      },
+      {
+        "t": "13:32",
+        "q": "When the market is setting up for a trend day, do you include the range from the overnight session as part of the recent balance that it could break-out from?",
+        "asker": ""
+      },
+      {
+        "t": "14:49",
+        "q": "Some thoughts on reading the NYSE TICK.",
+        "asker": ""
+      },
+      {
+        "t": "25:18",
+        "q": "Student trade review from Tuesday, Nov 11th.",
+        "asker": ""
+      },
+      {
+        "t": "30:08",
+        "q": "How effective are the overnight highs and lows as key reference areas?",
+        "asker": ""
+      },
+      {
+        "t": "32:36",
+        "q": "Thoughts on simplifying exits and just exiting at the next key zone / key reference area.",
+        "asker": ""
+      },
+      {
+        "t": "35:17",
+        "q": "Could you clarify the opening types?",
+        "asker": ""
+      },
+      {
+        "t": "38:52",
+        "q": "Student trade review from Wednesday, Nov 12th.",
+        "asker": ""
+      },
+      {
+        "t": "49:23",
+        "q": "Definition of Bull/Bear Zone.",
+        "asker": ""
+      },
+      {
+        "t": "53:04",
+        "q": "Review of one ideal trade from today (Nov 12th).",
+        "asker": ""
+      },
+      {
+        "t": "56:04",
+        "q": "Thoughts on entering Long on pullback to the mid-point on a bullish day (Nov 12).",
+        "asker": ""
+      },
+      {
+        "t": "58:30",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-11-05",
+    "date": "November 5, 2014",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "Within the context of day trading, what makes up the Long-term, Intermediate-term and Short-term trend/bias?",
+        "asker": ""
+      },
+      {
+        "t": "03:36",
+        "q": "Anticipating the high-odds reaction at a key reference area based on the larger time-frame trend/bias.",
+        "asker": ""
+      },
+      {
+        "t": "06:09",
+        "q": "Student trade review (from Friday Oct 31).",
+        "asker": ""
+      },
+      {
+        "t": "12:30",
+        "q": "Thoughts on VPOC shifts throughout the day.",
+        "asker": ""
+      },
+      {
+        "t": "15:24",
+        "q": "How does Market Delta pick up and automatically plot the HVNs and LVNs? How can they be spotted if the charting software does not automatically plot them?",
+        "asker": ""
+      },
+      {
+        "t": "20:12",
+        "q": "Brief explanation of the charts shown during the coaching webinar.",
+        "asker": ""
+      },
+      {
+        "t": "25:11",
+        "q": "Nuances of failed break-outs and break-downs.",
+        "asker": ""
+      },
+      {
+        "t": "37:28",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-10-29",
+    "date": "October 29, 2014",
+    "questions": [
+      {
+        "t": "00:22",
+        "q": "Question regarding drawing the volume profile around a balance area / trading range.",
+        "asker": ""
+      },
+      {
+        "t": "07:00",
+        "q": "When the market is trading within a high volume node, does current trend determine the likelihood and direction of the next trend?",
+        "asker": ""
+      },
+      {
+        "t": "08:51",
+        "q": "Is there a guide on how to use and setup the charting software?",
+        "asker": ""
+      },
+      {
+        "t": "10:43",
+        "q": "Student trade review (from Monday Oct 27) and how to calculate R when scaling out of a trade.",
+        "asker": ""
+      },
+      {
+        "t": "15:15",
+        "q": "Could you explain the rationale behind the Bull/Bear Zone and Micro Bull/Bear Zone from Tuesday's Trade Plan?",
+        "asker": ""
+      },
+      {
+        "t": "17:06",
+        "q": "Do you use volume profile during the trading day?",
+        "asker": ""
+      },
+      {
+        "t": "19:33",
+        "q": "How do you know when to be more aggressive with your trade entry and when to be more conservative?",
+        "asker": ""
+      },
+      {
+        "t": "24:23",
+        "q": "If the market is approaching your target quickly, how do you know when to hold for more and when to just exit?",
+        "asker": ""
+      },
+      {
+        "t": "27:45",
+        "q": "Some trade ideas/setups from today (Oct 29 - FOMC day).",
+        "asker": ""
+      },
+      {
+        "t": "33:24",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-10-22",
+    "date": "October 22, 2014",
+    "questions": [
+      {
+        "t": "00:21",
+        "q": "Questions on how the markets work and why it behaves a certain way (volatility expansion, market participants, etc).",
+        "asker": ""
+      },
+      {
+        "t": "15:13",
+        "q": "When studying historical charts and using the EMiniPlayer Zones, should they be plotted on the continuous contract or the contract that was trading at that time?",
+        "asker": ""
+      },
+      {
+        "t": "18:52",
+        "q": "Do you place trades in the first 10-15 minutes after the open or wait for the market to sort itself out?",
+        "asker": ""
+      },
+      {
+        "t": "20:22",
+        "q": "How to deal with trading losses, and fear of entering the next trade after taking a loss.",
+        "asker": ""
+      },
+      {
+        "t": "34:36",
+        "q": "Thoughts on taking extra risk on a high conviction trend day.",
+        "asker": ""
+      },
+      {
+        "t": "40:45",
+        "q": "Trouble shifting bias intraday.",
+        "asker": ""
+      },
+      {
+        "t": "43:57",
+        "q": "How to handle spike in overall relative volume.",
+        "asker": ""
+      },
+      {
+        "t": "47:44",
+        "q": "How far back should the composite volume profile chart go?",
+        "asker": ""
+      },
+      {
+        "t": "50:45",
+        "q": "Trade setups from Wednesday (Oct 22).",
+        "asker": ""
+      },
+      {
+        "t": "57:26",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-10-15",
+    "date": "October 15, 2014",
+    "questions": [
+      {
+        "t": "00:22",
+        "q": "Student trade review (stop placement).",
+        "asker": ""
+      },
+      {
+        "t": "05:18",
+        "q": "At what point did you decide whether the market was likely extend the range below the 1st hour low vs. above the 1st hour high this morning (Oct 15)?",
+        "asker": ""
+      },
+      {
+        "t": "09:17",
+        "q": "Questions on entry location within a Zone, the types of setups to focus on, intraday price action vs larger time-frame analysis, and stop placement.",
+        "asker": ""
+      },
+      {
+        "t": "28:23",
+        "q": "How to handle emotional frustration (taking losses and then trying to recover to get to break-even on the day).",
+        "asker": ""
+      },
+      {
+        "t": "34:38",
+        "q": "Trouble reading the market after a two week break from trading.",
+        "asker": ""
+      },
+      {
+        "t": "40:00",
+        "q": "Question on NYSE TICK Divergence.",
+        "asker": ""
+      },
+      {
+        "t": "48:59",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2014-10-08",
+    "date": "October 8, 2014",
+    "questions": [
+      {
+        "t": "00:20",
+        "q": "How to deal with the issue of entering trades early and exiting trades early.",
+        "asker": ""
+      },
+      {
+        "t": "08:24",
+        "q": "When the NYSE TICK makes a new high/low on the day, is the volume on the 1-min bar important to determine if it's a true momentum shift?",
+        "asker": ""
+      },
+      {
+        "t": "14:22",
+        "q": "Proper use of statistics, such as probability of inside day and probability of outside day.",
+        "asker": ""
+      },
+      {
+        "t": "21:40",
+        "q": "What do you make of today's strong reversal off the balance lows?",
+        "asker": ""
+      },
+      {
+        "t": "23:02",
+        "q": "Thoughts on how to trade the strong afternoon rally (Oct 08).",
+        "asker": ""
+      },
+      {
+        "t": "33:31",
+        "q": "Interpretation of the advance/decline when the market was making a sharp move higher and the NYSE A/D was just breaking above Zero.",
+        "asker": ""
+      },
+      {
+        "t": "37:11",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-10-01",
+    "date": "October 1, 2014",
+    "questions": [
+      {
+        "t": "00:26",
+        "q": "Is there a concept of \"point of no return\" in the S&P 500 where if it moves a certain number of points in one direction, it's very unlikely that it will reverse?",
+        "asker": ""
+      },
+      {
+        "t": "05:32",
+        "q": "Importance of candle stick shape and the open and close in the Forex market.",
+        "asker": ""
+      },
+      {
+        "t": "12:12",
+        "q": "Have you noticed more profit on any given day of the week?",
+        "asker": ""
+      },
+      {
+        "t": "14:51",
+        "q": "After a trend-up followed by balance, is the market more likely to continue or reverse?",
+        "asker": ""
+      },
+      {
+        "t": "18:26",
+        "q": "Student trade review.",
+        "asker": ""
+      },
+      {
+        "t": "29:58",
+        "q": "How do you define a normal Support/Resistance Zone and the Bull/Bear Zone? What's the difference?",
+        "asker": ""
+      },
+      {
+        "t": "35:53",
+        "q": "What can help us determine if ES has over-extended in one direction on any given day?",
+        "asker": ""
+      },
+      {
+        "t": "38:58",
+        "q": "How do you identify where to take the trade witin a S/R Zone? Should we strive to calculate narrower S/R Zones?",
+        "asker": ""
+      },
+      {
+        "t": "44:03",
+        "q": "Based on the first hour of trading, how can you determine if the day is going to develop into a normal variation upside day or a trend down day?",
+        "asker": ""
+      },
+      {
+        "t": "47:47",
+        "q": "Student trade review.",
+        "asker": ""
+      },
+      {
+        "t": "56:09",
+        "q": "Intraday, how do you determine developing Support/Resistance in real-time?",
+        "asker": ""
+      },
+      {
+        "t": "58:10",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-09-24",
+    "date": "September 24, 2014",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "How do you handle the scenario when there's an open drive but it's heading into a larger time-frame resistance zone?",
+        "asker": ""
+      },
+      {
+        "t": "04:18",
+        "q": "Since there was a 20 point move off the balance lows today, do you typically expect balance and a tighter range the following day?",
+        "asker": ""
+      },
+      {
+        "t": "07:28",
+        "q": "In your analysis, do you take the end of month or end of quarter into account?",
+        "asker": ""
+      },
+      {
+        "t": "09:10",
+        "q": "When deciding where to enter a trade, is it better to first set the stop-loss and then figure out where the entry should be?",
+        "asker": ""
+      },
+      {
+        "t": "11:51",
+        "q": "How would you predict today's rally (09/24)?",
+        "asker": ""
+      },
+      {
+        "t": "21:34",
+        "q": "Since the market is so extended to the upside, does it make sense to now short the market?",
+        "asker": ""
+      },
+      {
+        "t": "28:43",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-09-17",
+    "date": "September 17, 2014",
+    "questions": [
+      {
+        "t": "00:33",
+        "q": "Handling rollover in Market Delta charts.",
+        "asker": ""
+      },
+      {
+        "t": "01:39",
+        "q": "When to be selective and wait for ideal trade location and when to be a little more aggressive in trade entry and be willing to enter the market ahead of the conservative trade location / price.",
+        "asker": ""
+      },
+      {
+        "t": "07:59",
+        "q": "How to use VWAP as Support/Resistance. When should one pay attention to VWAP and when should it be ignored?",
+        "asker": ""
+      },
+      {
+        "t": "11:44",
+        "q": "Student trade review: when a Resistance Zone is broken, can one enter Long on a pullback looking for a move to the next Resistance Zone?",
+        "asker": ""
+      },
+      {
+        "t": "17:24",
+        "q": "Review of two trade setups from Wednesday, Sept 17 (FOMC day).",
+        "asker": ""
+      },
+      {
+        "t": "24:50",
+        "q": "Review of two support zones and the reasons they were identified support.",
+        "asker": ""
+      },
+      {
+        "t": "26:52",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-09-10",
+    "date": "September 10, 2014",
+    "questions": [
+      {
+        "t": "00:34",
+        "q": "How to interpret the NYSE TICK and know the difference between a continuation pattern and short-term exhaustion? Identifying momentum shifts using the NYSE TICK.",
+        "asker": ""
+      },
+      {
+        "t": "08:42",
+        "q": "How do you determine probable range extremes for other markets?",
+        "asker": ""
+      },
+      {
+        "t": "10:44",
+        "q": "Do you use the previous day's value area for anything other than additional reference points?",
+        "asker": ""
+      },
+      {
+        "t": "13:08",
+        "q": "Trade idea review (idea of larger time-frame buyers active at support today).",
+        "asker": ""
+      },
+      {
+        "t": "15:46",
+        "q": "Should a e-mini S&P trader who is not yet consistently profitable stay away from watching the other markets (NQ and TF) to keep things simple?",
+        "asker": ""
+      },
+      {
+        "t": "22:57",
+        "q": "Mental process and questions to ask When evaluating day type.",
+        "asker": ""
+      },
+      {
+        "t": "27:34",
+        "q": "What's your opinion on entering a trade in pre-market, right at or before the open?",
+        "asker": ""
+      },
+      {
+        "t": "32:38",
+        "q": "Student trade idea review (automatic Buy on first test of the 1980 Low Volume Node). What makes a setup an automatic Buy/Sell?",
+        "asker": ""
+      },
+      {
+        "t": "37:40",
+        "q": "Trade idea review (Short at 95.75 and how the NYSE TICK extreme of +1200 affected that trade).",
+        "asker": ""
+      },
+      {
+        "t": "46:41",
+        "q": "When are you rolling over to the December futures contract?",
+        "asker": ""
+      },
+      {
+        "t": "49:47",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-09-03",
+    "date": "September 3, 2014",
+    "questions": [
+      {
+        "t": "00:13",
+        "q": "Student trade review (Long at Previous VPOC, Long on double-bottom with positive Advance/Decline divergence)",
+        "asker": ""
+      },
+      {
+        "t": "04:00",
+        "q": "The reason for high volume in the last few minutes of the session near the Close at 4:00 PM EST.",
+        "asker": ""
+      },
+      {
+        "t": "05:18",
+        "q": "How to identify a potential short squeeze or bounce in a falling market (e.g. AUD/USD).",
+        "asker": ""
+      },
+      {
+        "t": "07:58",
+        "q": "Student trade review (Long idea from Friday, August 29)",
+        "asker": ""
+      },
+      {
+        "t": "13:04",
+        "q": "Typically, how many trades do you take on a balanced / range-bound day?",
+        "asker": ""
+      },
+      {
+        "t": "16:00",
+        "q": "Applying the overall context to individual stocks.",
+        "asker": ""
+      },
+      {
+        "t": "17:38",
+        "q": "How to track the day's volume.",
+        "asker": ""
+      },
+      {
+        "t": "21:49",
+        "q": "How to utilize the 1st hour range and the idea that majority of days will extend beyond the 1st hour range.",
+        "asker": ""
+      },
+      {
+        "t": "23:54",
+        "q": "Is it important to have a real-time data feed if you're not day trading?",
+        "asker": ""
+      },
+      {
+        "t": "28:03",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2014-08-27",
+    "date": "August 27, 2014",
+    "questions": [
+      {
+        "t": "00:12",
+        "q": "Use of multiple time-frames and how to balance the larger time-frame with the short-term intraday time-frame for day trades.",
+        "asker": ""
+      },
+      {
+        "t": "07:53",
+        "q": "Trade idea review (could the reversal from 1993.50 been planned for ahead of time?)",
+        "asker": ""
+      },
+      {
+        "t": "12:57",
+        "q": "Thoughts on moving the stop-loss after taking partial profit on a trade.",
+        "asker": ""
+      },
+      {
+        "t": "20:41",
+        "q": "Opinion on adjusting the % risk based on the type of setup, or the level of conviction for a given setup and lowering the % risk during a drawdown.",
+        "asker": ""
+      },
+      {
+        "t": "28:08",
+        "q": "When the market travels above and below a Support/Resistance Area , does it become invalidated? How could that area then become valid Support/Resistance again in the future?",
+        "asker": ""
+      },
+      {
+        "t": "32:07",
+        "q": "How far back do you look when identifying major Support/Resistance Zones?",
+        "asker": ""
+      },
+      {
+        "t": "35:21",
+        "q": "Student trade review (short ES at 1999 targeting 1994).",
+        "asker": ""
+      },
+      {
+        "t": "38:13",
+        "q": "Do you follow any economists that predict the long-term direction of the market?",
+        "asker": ""
+      },
+      {
+        "t": "39:37",
+        "q": "Are there tools similar to the TICK and Advance/Decline for currency futures?",
+        "asker": ""
+      },
+      {
+        "t": "40:39",
+        "q": "Low Volume Nodes and how to treat them.",
+        "asker": ""
+      },
+      {
+        "t": "45:39",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-08-20",
+    "date": "August 20, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-08-13",
+    "date": "August 13, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-08-08",
+    "date": "August 8, 2014",
+    "questions": [
+      {
+        "t": "00:20",
+        "q": "How to identify an intraday reversal on a balanced session?",
+        "asker": ""
+      },
+      {
+        "t": "09:30",
+        "q": "I keep getting stopped out and then the market goes in my favor. How to adjust stop size and trade entry to handle the recent increase in market volatilty.",
+        "asker": ""
+      },
+      {
+        "t": "15:23",
+        "q": "Student trade review (using wide range 1-min bar on high volume to spot short-term reversal).",
+        "asker": ""
+      },
+      {
+        "t": "25:09",
+        "q": "Student trade review (pre-market short setup on Tuesday, 08/05/2014).",
+        "asker": ""
+      },
+      {
+        "t": "41:08",
+        "q": "Student trade review continued (do you use Fibonacci levels/retracements?)",
+        "asker": ""
+      },
+      {
+        "t": "44:22",
+        "q": "When deciding whether a Zone has been tested, do you consider Globex session or regular trading hours only?",
+        "asker": ""
+      },
+      {
+        "t": "45:02",
+        "q": "Was today (08/06/2014) an Open Drive? How to determine today's opening type?",
+        "asker": ""
+      },
+      {
+        "t": "53:12",
+        "q": "What are the horizontal dotted lines? (EMiniPlayer.net Support/Resistance Zones)",
+        "asker": ""
+      },
+      {
+        "t": "54:27",
+        "q": "Can you clarify the contextual difference between when you enter a trade on first test vs. second test of a Support/Resistance Zone?",
+        "asker": ""
+      },
+      {
+        "t": "59:21",
+        "q": "Charting platform of choice.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-07-30",
+    "date": "July 30, 2014",
+    "questions": [
+      {
+        "t": "00:19",
+        "q": "If the Bull/Bear Zone breaks, how to handle the S/R Zones above/below?",
+        "asker": ""
+      },
+      {
+        "t": "04:04",
+        "q": "What percent of the time does the market fill the gap?",
+        "asker": ""
+      },
+      {
+        "t": "06:52",
+        "q": "How the market was shaping up heading into today's open.",
+        "asker": ""
+      },
+      {
+        "t": "08:45",
+        "q": "Use of the 2500 Volume Chart and the Opening Range.",
+        "asker": ""
+      },
+      {
+        "t": "15:08",
+        "q": "Review potential opportunities from the current day and Long setup off the bottom of short-term balance area.",
+        "asker": ""
+      },
+      {
+        "t": "25:19",
+        "q": "What do the vertical volume bars for today tell you (if anything)?",
+        "asker": ""
+      },
+      {
+        "t": "28:40",
+        "q": "Element of speed and timing when making trading decisions on the day time-frame.",
+        "asker": ""
+      },
+      {
+        "t": "30:23",
+        "q": "Do you trade FOMC days?",
+        "asker": ""
+      },
+      {
+        "t": "32:43",
+        "q": "When does the previous swing high/low become invalidated?",
+        "asker": ""
+      },
+      {
+        "t": "35:20",
+        "q": "When is a support/resistance zone or price level no longer valid?",
+        "asker": ""
+      },
+      {
+        "t": "43:08",
+        "q": "Was the first bounce to the short-term balance area HVN (1971.75) a valid short setup?",
+        "asker": ""
+      },
+      {
+        "t": "49:59",
+        "q": "When you have multiple -1000 NYSE TICK readings, how do you determine when the market is exhausted?",
+        "asker": ""
+      },
+      {
+        "t": "53:11",
+        "q": "Can Market Delta use TradeStation's data feed?",
+        "asker": ""
+      },
+      {
+        "t": "54:16",
+        "q": "How do you feel about using market orders?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-07-23",
+    "date": "July 23, 2014",
+    "questions": [
+      {
+        "t": "00:16",
+        "q": "Risk of ruin when trading a leveraged futures market that can be impacted by a major unexpected event.",
+        "asker": ""
+      },
+      {
+        "t": "10:35",
+        "q": "How to avoid chop on a very balanced day",
+        "asker": ""
+      },
+      {
+        "t": "13:40",
+        "q": "Where should the stop-loss be placed when there's an open gap right below a support zone?",
+        "asker": ""
+      },
+      {
+        "t": "16:02",
+        "q": "Taking trades early in the morning",
+        "asker": ""
+      },
+      {
+        "t": "17:56",
+        "q": "Earnings calendar and how to filter for notable or market-moving earnings announcements",
+        "asker": ""
+      },
+      {
+        "t": "20:44",
+        "q": "How to stick to your trading rules when you see something different happening in the markets which can make you think you should change your rules?",
+        "asker": ""
+      },
+      {
+        "t": "25:48",
+        "q": "Thoughts on today's P-shaped profile in ES with TF lagging",
+        "asker": ""
+      },
+      {
+        "t": "28:41",
+        "q": "Similarity between today's movement in ES compared to yesterday",
+        "asker": ""
+      },
+      {
+        "t": "30:39",
+        "q": "Student trade review",
+        "asker": ""
+      },
+      {
+        "t": "32:44",
+        "q": "Price/volume characteristics of the 1975-1976.50 Support Zone",
+        "asker": ""
+      },
+      {
+        "t": "37:13",
+        "q": "Question regarding sharing some of our actual trades",
+        "asker": ""
+      },
+      {
+        "t": "40:56",
+        "q": "The impact of your goals & objectives on the trade setups you take",
+        "asker": ""
+      },
+      {
+        "t": "45:15",
+        "q": "Market analysis and outlook",
+        "asker": ""
+      },
+      {
+        "t": "51:50",
+        "q": "Impact of the events happening in the middle east and Russia",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-07-16",
+    "date": "July 16, 2014",
+    "questions": [
+      {
+        "t": "00:17",
+        "q": "OpenTrader Community Project",
+        "asker": ""
+      },
+      {
+        "t": "06:46",
+        "q": "Leaving resting orders at key areas in the overnight session",
+        "asker": ""
+      },
+      {
+        "t": "13:02",
+        "q": "How to interpret wide-range bars heading into Key Reference Areas, i.e. when to take a fade setup at the zone without waiting for confirmation, even when the chart looks scary in real-time and when to be cautious and skip fading the zone.",
+        "asker": ""
+      },
+      {
+        "t": "21:44",
+        "q": "Are the HVNs and LVNs plotted automatically on the volume profile charts?",
+        "asker": ""
+      },
+      {
+        "t": "22:58",
+        "q": "Do you find any value in watching TRIN? Importance of being critical of the information you watch on your charts.",
+        "asker": ""
+      },
+      {
+        "t": "26:05",
+        "q": "The difference between Market Profile and Volume Profile.",
+        "asker": ""
+      },
+      {
+        "t": "28:25",
+        "q": "Today, the NYSE TICK opened at +1000. Based on just that, would you immediately enter Short irrespective of any other indication?",
+        "asker": ""
+      },
+      {
+        "t": "30:00",
+        "q": "Where to find the link to download chart templates.",
+        "asker": ""
+      },
+      {
+        "t": "30:31",
+        "q": "How to trade break-outs, i.e. when to wait to get better trade location and when to enter immediately right as the break-out is starting.",
+        "asker": ""
+      },
+      {
+        "t": "38:28",
+        "q": "What makes a specific Key Reference Area a Bull/Bear Zone?",
+        "asker": ""
+      },
+      {
+        "t": "42:04",
+        "q": "Is volume profile useful for trading stocks?",
+        "asker": ""
+      },
+      {
+        "t": "42:56",
+        "q": "Student trade review",
+        "asker": ""
+      },
+      {
+        "t": "46:11",
+        "q": "Market analysis & outlook",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-07-09",
+    "date": "July 9, 2014",
+    "questions": [
+      {
+        "t": "00:13",
+        "q": "How do you gauge relative volume?",
+        "asker": ""
+      },
+      {
+        "t": "04:30",
+        "q": "Intermediate term trend vs. longer term trend (principles).",
+        "asker": ""
+      },
+      {
+        "t": "07:55",
+        "q": "Explanation of the chart used in the webinars.",
+        "asker": ""
+      },
+      {
+        "t": "11:26",
+        "q": "How would you interpret the VPOC shift higher later in the session today?",
+        "asker": ""
+      },
+      {
+        "t": "17:23",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-07-02",
+    "date": "July 2, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-06-25",
+    "date": "June 25, 2014",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "Student Trade Review: Is there something I could have seen earlier to exit the trade?",
+        "asker": ""
+      },
+      {
+        "t": "06:25",
+        "q": "Since I feel my biggest trouble is timing my exits, I am considering making all my exits a 2R or maybe 3R exit, unless we are in a very clear trend.",
+        "asker": ""
+      },
+      {
+        "t": "13:22",
+        "q": "Do you have any suggestions on how to structure the learning application process?",
+        "asker": ""
+      },
+      {
+        "t": "19:45",
+        "q": "What thoughts do you have that you can share in increasing the patience I have, going forward?",
+        "asker": ""
+      },
+      {
+        "t": "26:13",
+        "q": "Do you chart TF and NQ and any other markets exactly the same as ES?",
+        "asker": ""
+      },
+      {
+        "t": "27:45",
+        "q": "What are the differences between calculating the regular support zones and the Bull/Bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "31:00",
+        "q": "Question about setting up my charts.",
+        "asker": ""
+      },
+      {
+        "t": "32:00",
+        "q": "Regarding the Midpoint, using it on an RTH session as well as the 24 hour session.",
+        "asker": ""
+      },
+      {
+        "t": "35:30",
+        "q": "Does TradeStation have a volume profile indicator?",
+        "asker": ""
+      },
+      {
+        "t": "39:50",
+        "q": "Market Overview & Analysis.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2014-06-18",
+    "date": "June 18, 2014",
+    "questions": [
+      {
+        "t": "00:36",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "03:04",
+        "q": "Uncertainty that surrounds every trade.",
+        "asker": ""
+      },
+      {
+        "t": "06:00",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "12:18",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "22:16",
+        "q": "Clarification of trading strategy, differentiation between trending and non-trending days.",
+        "asker": ""
+      },
+      {
+        "t": "30:56",
+        "q": "Should I be mostly trading the days when both, daily and intraday time-frames are lined-up?",
+        "asker": ""
+      },
+      {
+        "t": "35:17",
+        "q": "Can you give a comment about the importance of backtesting?",
+        "asker": ""
+      },
+      {
+        "t": "38:46",
+        "q": "Did you ever traded Elliott Waves Theory, what do you think about it?",
+        "asker": ""
+      },
+      {
+        "t": "41:27",
+        "q": "Can you comment trading FOMC days?",
+        "asker": ""
+      },
+      {
+        "t": "43:31",
+        "q": "Description and usage of relative volume chart.",
+        "asker": ""
+      },
+      {
+        "t": "56:49",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2014-06-11",
+    "date": "June 11, 2014",
+    "questions": [
+      {
+        "t": "00:00",
+        "q": "Student question about trade in Amazon. Break out of 60 minute range and looking at the ATR.",
+        "asker": ""
+      },
+      {
+        "t": "10:30",
+        "q": "Student question about daily routine. How can I recognize when my trade is going to be wrong?",
+        "asker": ""
+      },
+      {
+        "t": "20:26",
+        "q": "Student question regarding 6/4/14. With poor internals, can you explain where the strength in the market came from?",
+        "asker": ""
+      },
+      {
+        "t": "28:38",
+        "q": "What does it mean when VWAP turns green and red?",
+        "asker": ""
+      },
+      {
+        "t": "29:00",
+        "q": "Student question regarding 6/11/14. Can you explain why price would not go down with negative internals?",
+        "asker": ""
+      },
+      {
+        "t": "33:40",
+        "q": "Student question regarding where the TF support came from for 6/10/14 and why that area was important?",
+        "asker": ""
+      },
+      {
+        "t": "39:00",
+        "q": "How do you gauge tick extremes in trending market and tick extremes against trend? How do you gauge the correct extreme to buy or sell in a key reference area? Can you fade tick extremes in trend days?",
+        "asker": ""
+      },
+      {
+        "t": "47:50",
+        "q": "Student question, did you have a resting order or did you buy it after you thought it bottomed out for 6/11/14?",
+        "asker": ""
+      },
+      {
+        "t": "53:00",
+        "q": "I have shifted to more symbols and a higher timeframe, I find that there is more edge. Does this seem like this is a good route before I get back into day trading? Do you think day trading is the most difficult form of trading?",
+        "asker": ""
+      },
+      {
+        "t": "59:50",
+        "q": "I lost my mojo and I am having real trouble trading effectively, are others having the same issue in the group?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-06-04",
+    "date": "June 4, 2014",
+    "questions": [
+      {
+        "t": "00:00",
+        "q": "Student trade question for 6/4/14 above B/B Zone momentum trade.",
+        "asker": ""
+      },
+      {
+        "t": "08:00",
+        "q": "Student trade question, long at IB breakout.",
+        "asker": ""
+      },
+      {
+        "t": "11:00",
+        "q": "Student trade for 6/3/14, understanding the context of the day and relative volume.",
+        "asker": ""
+      },
+      {
+        "t": "18:00",
+        "q": "If a stock breakout from its 60min range, do I use a 25% pullback as a stop loss?",
+        "asker": ""
+      },
+      {
+        "t": "23:00",
+        "q": "Can you discuss your daily routine? What do you do before the open, during the day and after the close?",
+        "asker": ""
+      },
+      {
+        "t": "36:00",
+        "q": "Can you look at other markets if your market is slow?",
+        "asker": ""
+      },
+      {
+        "t": "36:00",
+        "q": "Sunk cost bias, what should I do? How can I change my weakness into strength? Understanding how to stick with the correct process.",
+        "asker": ""
+      },
+      {
+        "t": "44:00",
+        "q": "Student trade question from training portal, trade from a launching point.",
+        "asker": ""
+      },
+      {
+        "t": "47:00",
+        "q": "How does the length of the balance area influence the move?",
+        "asker": ""
+      },
+      {
+        "t": "50:00",
+        "q": "Student is not profitable because of revenge trading, big losses. Have you ever had a student that was not profitable after being with you for over 1 year? Fear of not being profitable because of impulsive tendencies.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-05-28",
+    "date": "May 28, 2014",
+    "questions": [
+      {
+        "t": "00:00",
+        "q": "Student question pertaining to FX book squaring.",
+        "asker": ""
+      },
+      {
+        "t": "05:00",
+        "q": "What is the best practice to trade your methodology at a world class level? Having a trade plan and review it with OT’s trade plan. Take note of mistakes.",
+        "asker": ""
+      },
+      {
+        "t": "08:00",
+        "q": "Are Steidlmayer's old books and videos still applicable? Time Variable in software.",
+        "asker": ""
+      },
+      {
+        "t": "17:00",
+        "q": "How do you know where to take profit if at all-time highs? How to estimate a day’s range?",
+        "asker": ""
+      },
+      {
+        "t": "22:00",
+        "q": "Hang Seng Index data student question.",
+        "asker": ""
+      },
+      {
+        "t": "23:00",
+        "q": "How many contracts can you trade in ES, Gold, Silver and Crude Oil without slippage?",
+        "asker": ""
+      },
+      {
+        "t": "30:00",
+        "q": "What do you think about trading Harmonic Fibonacci, Gartley Butterfly patterns and do they have any merit?",
+        "asker": ""
+      },
+      {
+        "t": "33:00",
+        "q": "Can you trade only 2 hours a day if you’re still working?",
+        "asker": ""
+      },
+      {
+        "t": "35:00",
+        "q": "Does the S&P index lead stocks or do stocks lead the index?",
+        "asker": ""
+      },
+      {
+        "t": "38:00",
+        "q": "Student trade question.",
+        "asker": ""
+      },
+      {
+        "t": "40:00",
+        "q": "Is the size on the DOM real orders?",
+        "asker": ""
+      },
+      {
+        "t": "42:00",
+        "q": "Student trade question.",
+        "asker": ""
+      },
+      {
+        "t": "45:00",
+        "q": "How many minutes do you look at on the open before determining if you are in a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "47:00",
+        "q": "Do you look at VPOC on much longer timeframe charts?",
+        "asker": ""
+      },
+      {
+        "t": "51:00",
+        "q": "Do you have a trade room?",
+        "asker": ""
+      },
+      {
+        "t": "54:00",
+        "q": "NYS Tick in Siera vs ESignal?",
+        "asker": ""
+      },
+      {
+        "t": "57:00",
+        "q": "Can you provide a trade plan for NQ?",
+        "asker": ""
+      },
+      {
+        "t": "58:00",
+        "q": "Do you have trouble finding setups during the day when they look so clear when you look back?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-05-21",
+    "date": "May 21, 2014",
+    "questions": [
+      {
+        "t": "00:20",
+        "q": "Measuring OB/OS in forex to measure over extended moves since FX does not have internals.",
+        "asker": ""
+      },
+      {
+        "t": "04:59",
+        "q": "Can you use ADD/DEC for foreign indices to measure internals?",
+        "asker": ""
+      },
+      {
+        "t": "06:54",
+        "q": "Why do you use settlement price vs 4:15 close for gaps?",
+        "asker": ""
+      },
+      {
+        "t": "10:00",
+        "q": "Why do you focus on day trading vs swing trading? Effective use of capital without overnight risk.",
+        "asker": ""
+      },
+      {
+        "t": "14:20",
+        "q": "How do be precise in location and be selective in trade setups? Monitoring continuation and relative volume. Focus on R:R.",
+        "asker": ""
+      },
+      {
+        "t": "22:00",
+        "q": "Stop order that skipped my stop entry in overnight session.",
+        "asker": ""
+      },
+      {
+        "t": "23:00",
+        "q": "Student trade question. Open above rep-market resistance to get on board. Focus on R;R before entering.",
+        "asker": ""
+      },
+      {
+        "t": "27:00",
+        "q": "Were you in the market during the flash crash?",
+        "asker": ""
+      },
+      {
+        "t": "28:00",
+        "q": "Can you discuss volume profile for currencies or stocks without an ADD/DEC or TICK. Do you need ADD/DEC to trade?",
+        "asker": ""
+      },
+      {
+        "t": "31:00",
+        "q": "Is your open order a resting order in the book and do you monitor your trade setup type and P&L?",
+        "asker": ""
+      },
+      {
+        "t": "35:00",
+        "q": "Student trade question pertaining to trade date 5/21/14, change of bias.",
+        "asker": ""
+      },
+      {
+        "t": "36:00",
+        "q": "Student trade question off Open Drive and in front of FOMC.",
+        "asker": ""
+      },
+      {
+        "t": "39:00",
+        "q": "Do you use time and sales to measure buying and selling pressure? Why we use footprint chart with an example.",
+        "asker": ""
+      },
+      {
+        "t": "46:00",
+        "q": "Student trade question in TF.",
+        "asker": ""
+      },
+      {
+        "t": "49:00",
+        "q": "Do you watch bids and offers to see if orders are being cancelled?",
+        "asker": ""
+      },
+      {
+        "t": "54:00",
+        "q": "Do you track R multiplies in the spread sheet?",
+        "asker": ""
+      },
+      {
+        "t": "55:00",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-05-14",
+    "date": "May 14, 2014",
+    "questions": [
+      {
+        "t": "00:24",
+        "q": "What is the best FXCM market profile indicator? Does Ninja Trader have a good market profile?",
+        "asker": ""
+      },
+      {
+        "t": "01:38",
+        "q": "Can you trade the ES during the Asian and Europe session?",
+        "asker": ""
+      },
+      {
+        "t": "03:07",
+        "q": "Can you trade the S&P 500 in the CFD, contract for difference, format through a FX broker instead of trading the futures contract?",
+        "asker": ""
+      },
+      {
+        "t": "04:38",
+        "q": "How long do spend on prep-work to create key s/r and come with ideas for the day?",
+        "asker": ""
+      },
+      {
+        "t": "05:25",
+        "q": "Can't find Relative Volume indicator in Market Profile?",
+        "asker": ""
+      },
+      {
+        "t": "05:55",
+        "q": "Can I trade the SPY instead of futures?",
+        "asker": ""
+      },
+      {
+        "t": "06:47",
+        "q": "Is there a Relative Volume indicator in Ninja?",
+        "asker": ""
+      },
+      {
+        "t": "07:28",
+        "q": "Do you analyze after the close and how to develop your own training session.",
+        "asker": ""
+      },
+      {
+        "t": "13:00",
+        "q": "HVN & LVN terminology on the charts?",
+        "asker": ""
+      },
+      {
+        "t": "13:36",
+        "q": "What's the significance between the 24 hr VWAP vs the RTH and the mid-point for each?",
+        "asker": ""
+      },
+      {
+        "t": "14:55",
+        "q": "Issue of hesitation at entry and dealing with the fear of a loss and thinking in probabilities.",
+        "asker": ""
+      },
+      {
+        "t": "20:31",
+        "q": "Dealing with stop and reverse at a zone or inflection point.",
+        "asker": ""
+      },
+      {
+        "t": "26:30",
+        "q": "What do you think about volume bars vs. time bars?",
+        "asker": ""
+      },
+      {
+        "t": "27:55",
+        "q": "Does Think or Swim have Relative Volume indicator?",
+        "asker": ""
+      },
+      {
+        "t": "28:27",
+        "q": "Student Trade Review. RE: scaling out.",
+        "asker": ""
+      },
+      {
+        "t": "31:09",
+        "q": "Are there benefits to using volume bars?",
+        "asker": ""
+      },
+      {
+        "t": "32:00",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-05-07",
+    "date": "May 7, 2014",
+    "questions": [
+      {
+        "t": "00:30",
+        "q": "Question about \"context to the upside\" of an example in the training portal where you (Ziad) said this was a great short. (Fade against contextual alignment, confluence, gap into resistance)",
+        "asker": ""
+      },
+      {
+        "t": "06:46",
+        "q": "I have a hard time trading the first hour when we open out of range.",
+        "asker": ""
+      },
+      {
+        "t": "12:29",
+        "q": "How to calculate the VWAP and the Mid-line? 24 hours or day session?",
+        "asker": ""
+      },
+      {
+        "t": "13:22",
+        "q": "How did you know the S & P today at 1855.5 was a turning point; a place in the middle of nowhere?",
+        "asker": ""
+      },
+      {
+        "t": "17:28",
+        "q": "Question about knowing or predicting the target for risk/reward; how do I know what is the best target the market is likely to go?",
+        "asker": ""
+      },
+      {
+        "t": "26:20",
+        "q": "Question about today's trading: with the lack of real negative downside reading on the A/D (advance decline line) lowest of 780; is this a red flag for the idea that we would continue selling below 54.5?",
+        "asker": ""
+      },
+      {
+        "t": "29:19",
+        "q": "Can we take a look at NQ where it compared to ES 54.5?",
+        "asker": ""
+      },
+      {
+        "t": "31:17",
+        "q": "With the resilience of the ES do you think the NQ and TF will catch up or will the ES break down?",
+        "asker": ""
+      },
+      {
+        "t": "36:45",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-04-30",
+    "date": "April 30, 2014",
+    "questions": [
+      {
+        "t": "00:15",
+        "q": "Please elaborate on the mid-line and the VWAP (Volume weighted average price) and describe how they are constructed.",
+        "asker": ""
+      },
+      {
+        "t": "05:09",
+        "q": "Do you have any plans to add these support and resistance zones to Sierra Chart? (E-Mini Player site zones), Market Delta, Investor RT.",
+        "asker": ""
+      },
+      {
+        "t": "06:50",
+        "q": "Question (including chart); trade idea for a short at the previous balance area HVN (high volume node) plus holding for more of a move.",
+        "asker": ""
+      },
+      {
+        "t": "09:10",
+        "q": "What is the usual time it may take the NASDAQ (NQ) and the Russell (TF) move into alignment with ES? Divergence.",
+        "asker": ""
+      },
+      {
+        "t": "10:10",
+        "q": "Correction on the question asked @ 6:50; (different day).",
+        "asker": ""
+      },
+      {
+        "t": "17:30",
+        "q": "Question about Mondays 44-46 zone that was tagged and how it was derived?",
+        "asker": ""
+      },
+      {
+        "t": "18:55",
+        "q": "When did you realize today was a trend day?",
+        "asker": ""
+      },
+      {
+        "t": "22:05",
+        "q": "Why is the resistance today shifted from yesterday by only a point?",
+        "asker": ""
+      },
+      {
+        "t": "26:40",
+        "q": "Fridays price action; is it common for traders to front run a support zone?",
+        "asker": ""
+      },
+      {
+        "t": "27:40",
+        "q": "Pre-Market support zone trade decision?",
+        "asker": ""
+      },
+      {
+        "t": "28:20",
+        "q": "The divergences of TF and NQ where TF is negative, NQ is positive and ES is strong, does it not put caution on the uptrend?",
+        "asker": ""
+      },
+      {
+        "t": "31:58",
+        "q": "Now that buyers are in control and continue to take control in the overnight session, would you be open to shorting resistance zones tomorrow or focus on buying pullbacks?",
+        "asker": ""
+      },
+      {
+        "t": "34:20",
+        "q": "What levels in ES need to break to consider a change in trend?",
+        "asker": ""
+      },
+      {
+        "t": "36:07",
+        "q": "Student Trade Review; Question on a short trade idea and have trouble on when to fade or when to step aside.",
+        "asker": ""
+      },
+      {
+        "t": "39:44",
+        "q": "How did you decide the levels for a trend change in ES; (question asked @ 34:20).",
+        "asker": ""
+      },
+      {
+        "t": "44:34",
+        "q": "Question about overnight gaps.",
+        "asker": ""
+      },
+      {
+        "t": "49:40",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-04-23",
+    "date": "April 23, 2014",
+    "questions": [
+      {
+        "t": "00:17",
+        "q": "I placed order for short at resistance zone and after price rotated twice at the zone cancelled the order. How far does ES normally rotate?",
+        "asker": ""
+      },
+      {
+        "t": "04:40",
+        "q": "Describe how today's support zones were defined.",
+        "asker": ""
+      },
+      {
+        "t": "09:33",
+        "q": "Question about Advance/Decline market internals with your trading platform.",
+        "asker": ""
+      },
+      {
+        "t": "11:19",
+        "q": "Please define intermediate term as in the contextual market reading abilities lesson?",
+        "asker": ""
+      },
+      {
+        "t": "14:40",
+        "q": "Question about the feasibility of trading and having a full time job early in the morning, living on west coast.",
+        "asker": ""
+      },
+      {
+        "t": "19:50",
+        "q": "What do you think of trading the Russell (TF)? I have heard it is a good trading vehicle and more volatile than the S & P?",
+        "asker": ""
+      },
+      {
+        "t": "24:07",
+        "q": "S & P futures (ES) is supposed to reflect the composite stocks of the S & P 500 (SPX), however it seems to be its' own animal; what's your spin on this?",
+        "asker": ""
+      },
+      {
+        "t": "26:17",
+        "q": "What is the theory behind the bull/bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "29:50",
+        "q": "What is the longest time frame you look at High and Low volume nodes?",
+        "asker": ""
+      },
+      {
+        "t": "31:17",
+        "q": "What is the sensitivity setting for Market Delta charts price levels?",
+        "asker": ""
+      },
+      {
+        "t": "31:37",
+        "q": "Do you use tick or minute data on your volume profile?",
+        "asker": ""
+      },
+      {
+        "t": "31:52",
+        "q": "Other than volume profile do you use trend lines? As with Fibonacci levels a lot of other traders use these?",
+        "asker": ""
+      },
+      {
+        "t": "35:08",
+        "q": "Do you have a reference for the \"day-types\"?",
+        "asker": ""
+      },
+      {
+        "t": "36:29",
+        "q": "Do you trade in the context of news events?",
+        "asker": ""
+      },
+      {
+        "t": "41:15",
+        "q": "Question about a trade today; Long at 67.75 and holding into earnings.",
+        "asker": ""
+      },
+      {
+        "t": "45:25",
+        "q": "Do you recommend just watching the videos, doing the exercises for each session or do you also recommend executing trades based on each lesson to get hands on experience?",
+        "asker": ""
+      },
+      {
+        "t": "47:35",
+        "q": "Do you have a live trading session each day?",
+        "asker": ""
+      },
+      {
+        "t": "50:13",
+        "q": "Is there a way to add market/volume profile to Trade-Station?",
+        "asker": ""
+      },
+      {
+        "t": "51:35",
+        "q": "Does Think or Swim have a good market/volume profile capability?",
+        "asker": ""
+      },
+      {
+        "t": "54:30",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-04-16",
+    "date": "April 16, 2014",
+    "questions": [
+      {
+        "t": "00:56",
+        "q": "What do you think about using Infinity Futures as a broker?",
+        "asker": ""
+      },
+      {
+        "t": "02:50",
+        "q": "How long did it take you to learn to trade the market?",
+        "asker": ""
+      },
+      {
+        "t": "07:08",
+        "q": "Forex; use market profile for Forex.",
+        "asker": ""
+      },
+      {
+        "t": "08:22",
+        "q": "What are \"Foot Print\" charts?",
+        "asker": ""
+      },
+      {
+        "t": "09:16",
+        "q": "You have a two different time frames on your chart, long term on right and short term on the left. How do you weigh the HVNs and LVNs against each other?",
+        "asker": ""
+      },
+      {
+        "t": "17:38",
+        "q": "Are you using Investor RT as your platform? Market Delta and Investor RT virtually the same. We have chart definitions for both.",
+        "asker": ""
+      },
+      {
+        "t": "19:00",
+        "q": "Any advice for reading the market in real time?",
+        "asker": ""
+      },
+      {
+        "t": "25:05",
+        "q": "Trade decision at low tick of the day while interpreting market internals and nearby zones.",
+        "asker": ""
+      },
+      {
+        "t": "37:30",
+        "q": "Think or Swim does not have the ability to draw custom volume profiles.",
+        "asker": ""
+      },
+      {
+        "t": "38:39",
+        "q": "Question about levels referenced in the trading room day before. Volume Profile HVNs , Swing Hi/Lo, Fibonacci.",
+        "asker": ""
+      },
+      {
+        "t": "44:55",
+        "q": "If I am risking 2%, how much can I expect to make on a weekly or monthly basis? How can I apply leverage to improve it?",
+        "asker": ""
+      },
+      {
+        "t": "49:25",
+        "q": "Trade decision long at confluence of support vs risk reward and trade location; Edge vs Trade Frequency.",
+        "asker": ""
+      },
+      {
+        "t": "53:51",
+        "q": "What color coding system do you use for support and resistance?",
+        "asker": ""
+      },
+      {
+        "t": "54:20",
+        "q": "How do you draw your support and resistance lines; do you use a 2% stop?",
+        "asker": ""
+      },
+      {
+        "t": "56:17",
+        "q": "Where do you place your resting orders? Front, middle, back of support zones?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-04-09",
+    "date": "April 9, 2014",
+    "questions": [
+      {
+        "t": "00:20",
+        "q": "Charting Platform options, volume profile support; Market Delta, Investor RT, Sierra Charts, Think or Swim, Ninja Trader, Trade Station.",
+        "asker": ""
+      },
+      {
+        "t": "07:15",
+        "q": "Trade Exits; timing, interpret when to hold for larger profit or knowing when the trade is not going to make the your target, i.e. 5R trade vs 2R trade.",
+        "asker": ""
+      },
+      {
+        "t": "18:22",
+        "q": "Student Trade Review - trade selection day after a trend-day down expecting balance.",
+        "asker": ""
+      },
+      {
+        "t": "25:50",
+        "q": "Student Trade Review - Interpreting price action pre-FMOC minutes expecting balance.",
+        "asker": ""
+      },
+      {
+        "t": "32:00",
+        "q": "Does yesterdays market internals affect how today's price action will play out? Interpreting Market Internals on day to day basis.",
+        "asker": ""
+      },
+      {
+        "t": "33:17",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-04-02",
+    "date": "April 2, 2014",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "How does the CME calculate the rollover differential for ES?",
+        "asker": ""
+      },
+      {
+        "t": "04:40",
+        "q": "Why do we not fade a breakout from balance when accompanied by a tick extreme?",
+        "asker": ""
+      },
+      {
+        "t": "09:39",
+        "q": "How to recognize a downside fake-out breakdown",
+        "asker": ""
+      },
+      {
+        "t": "17:56",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "24:12",
+        "q": "For a stock trader, would it be more productive/profitable to focus on a few core stocks or to identify daily stocks in play as intra-day targets?",
+        "asker": ""
+      },
+      {
+        "t": "26:39",
+        "q": "Why has this particular zone retained relevance?",
+        "asker": ""
+      },
+      {
+        "t": "29:37",
+        "q": "How do you determine where the BBZs will be located?",
+        "asker": ""
+      },
+      {
+        "t": "33:47",
+        "q": "The market has been gapping up for the past several days without testing prior VPOCs or filling gaps; should bulls stay long?",
+        "asker": ""
+      },
+      {
+        "t": "35:46",
+        "q": "Please discuss this morning's open drive; it tricked me.",
+        "asker": ""
+      },
+      {
+        "t": "38:58",
+        "q": "Please comment on journaling.",
+        "asker": ""
+      },
+      {
+        "t": "43:01",
+        "q": "Did you see any trades today?",
+        "asker": ""
+      },
+      {
+        "t": "44:25",
+        "q": "Do you suggest having max win or lose amounts on the day?",
+        "asker": ""
+      },
+      {
+        "t": "46:41",
+        "q": "What causes the BBZ to change to a new price level?",
+        "asker": ""
+      },
+      {
+        "t": "50:38",
+        "q": "Are you suspicious when the ES is leading as opposed to one of the other indices?",
+        "asker": ""
+      },
+      {
+        "t": "52:18",
+        "q": "How much screen-time should I have before live trading?",
+        "asker": ""
+      },
+      {
+        "t": "53:40",
+        "q": "Market analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-03-26",
+    "date": "March 26, 2014",
+    "questions": [
+      {
+        "t": "02:06",
+        "q": "During today's open, based on the internals, was there enough information to justify a trade?",
+        "asker": ""
+      },
+      {
+        "t": "10:00",
+        "q": "Where was your entry on the trade you just described?",
+        "asker": ""
+      },
+      {
+        "t": "12:13",
+        "q": "How long do you wait until jumping in on an open drive?",
+        "asker": ""
+      },
+      {
+        "t": "17:58",
+        "q": "How do your determine the difference between a trend morning as opposed to a full trend day?",
+        "asker": ""
+      },
+      {
+        "t": "20:52",
+        "q": "How do you know whether a zone will hold or not?",
+        "asker": ""
+      },
+      {
+        "t": "24:29",
+        "q": "At what point do you change your bias?",
+        "asker": ""
+      },
+      {
+        "t": "30:40",
+        "q": "Please comment on the universal rule of market profile that you're only to initiate positions outside of value",
+        "asker": ""
+      },
+      {
+        "t": "35:01",
+        "q": "Student Trade Review: Do you think the market context supported continuing to hold short; and did quad witching effect it?",
+        "asker": ""
+      },
+      {
+        "t": "43:50",
+        "q": "Need tips for where to place stop losses.",
+        "asker": ""
+      },
+      {
+        "t": "47:28",
+        "q": "How can I learn to stop trading against the trend?",
+        "asker": ""
+      },
+      {
+        "t": "50:07",
+        "q": "What do you consider the bottom of the current balance?",
+        "asker": ""
+      },
+      {
+        "t": "50:50",
+        "q": "Do you consider bearish convergences between markets?",
+        "asker": ""
+      },
+      {
+        "t": "53:04",
+        "q": "Where is the best place to draw market profiles?",
+        "asker": ""
+      },
+      {
+        "t": "56:22",
+        "q": "Blindsided - Thought it was going up, but it went down; were there clues?",
+        "asker": ""
+      },
+      {
+        "t": "59:27",
+        "q": "How do you overcome the resistance to flip a trade as opposed to just using a stop to get out?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-03-19",
+    "date": "March 19, 2014",
+    "questions": [
+      {
+        "t": "00:35",
+        "q": "Why did you build a certain zone?",
+        "asker": ""
+      },
+      {
+        "t": "08:56",
+        "q": "Request for help with Sierra Charts.",
+        "asker": ""
+      },
+      {
+        "t": "11:00",
+        "q": "Post-FOMC, what caused you to enter short and what provided your conviction on the trade?",
+        "asker": ""
+      },
+      {
+        "t": "20:50",
+        "q": "How should I have handled the trading on Monday and Tuesday?",
+        "asker": ""
+      },
+      {
+        "t": "26:08",
+        "q": "Are there any advantages to using my other indicators along with the zones or are there pitfalls to this thought-process?",
+        "asker": ""
+      },
+      {
+        "t": "31:15",
+        "q": "What does \"break and hold\" mean in terms of support and resistance?",
+        "asker": ""
+      },
+      {
+        "t": "34:50",
+        "q": "How much times does it take to be considered a \"break and hold\"?",
+        "asker": ""
+      },
+      {
+        "t": "39:20",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-03-12",
+    "date": "March 12, 2014",
+    "questions": [
+      {
+        "t": "00:46",
+        "q": "Should you have a dollar loss-limit for the day and if so how much?",
+        "asker": ""
+      },
+      {
+        "t": "06:22",
+        "q": "Student Trade Review: I need help reading the AD line and did the tick matter much that day",
+        "asker": ""
+      },
+      {
+        "t": "13:50",
+        "q": "Student Trade Review: Was it a mistake taking this trade?",
+        "asker": ""
+      },
+      {
+        "t": "20:23",
+        "q": "What constitutes an appropriate/valid retest?",
+        "asker": ""
+      },
+      {
+        "t": "22:09",
+        "q": "Was the market move up expected?",
+        "asker": ""
+      },
+      {
+        "t": "26:37",
+        "q": "What makes one zone a better trade location than another, and what determines a market being overdone?",
+        "asker": ""
+      },
+      {
+        "t": "29:52",
+        "q": "Why did you use a particular breakout to determine your entry today?",
+        "asker": ""
+      },
+      {
+        "t": "30:52",
+        "q": "Student Trade Review: Was I too aggressive?",
+        "asker": ""
+      },
+      {
+        "t": "32:20",
+        "q": "Any tips on when a short-term breakdown will have strength?",
+        "asker": ""
+      },
+      {
+        "t": "36:00",
+        "q": "Please review the trades you (Awais) took today.",
+        "asker": ""
+      },
+      {
+        "t": "38:10",
+        "q": "What determines the time period for which you will draw a market profile?",
+        "asker": ""
+      },
+      {
+        "t": "40:45",
+        "q": "How does pre-market price action effect RTH?",
+        "asker": ""
+      },
+      {
+        "t": "43:51",
+        "q": "Do you see value in using volume or tick-based charts instead of time-based charts?",
+        "asker": ""
+      },
+      {
+        "t": "46:13",
+        "q": "How much should I spend on a data-feed?",
+        "asker": ""
+      },
+      {
+        "t": "47:00",
+        "q": "Do you think the market will hit 1900 soon or will we pull back first?",
+        "asker": ""
+      },
+      {
+        "t": "49:18",
+        "q": "How do you calculate the volatility stop you mention in the videos?",
+        "asker": ""
+      },
+      {
+        "t": "54:17",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-03-05",
+    "date": "March 5, 2014",
+    "questions": [
+      {
+        "t": "00:43",
+        "q": "How did you establish the significance of one of the areas on your chart?",
+        "asker": ""
+      },
+      {
+        "t": "02:57",
+        "q": "Tuesday was tough; how could I have traded it?",
+        "asker": ""
+      },
+      {
+        "t": "06:23",
+        "q": "Is today's pause in ES significant?",
+        "asker": ""
+      },
+      {
+        "t": "08:27",
+        "q": "How did you trade 3/4/14?",
+        "asker": ""
+      },
+      {
+        "t": "13:16",
+        "q": "Student Trade Review: I took two similar trades - one worked, one didn't; why?",
+        "asker": ""
+      },
+      {
+        "t": "18:38",
+        "q": "Did you go long on Friday and if so, what rationale did you use to justify the trade?",
+        "asker": ""
+      },
+      {
+        "t": "23:06",
+        "q": "Student Trade Review: Things didn't work; did I do something wrong?",
+        "asker": ""
+      },
+      {
+        "t": "30:19",
+        "q": "Please explain relative volume.",
+        "asker": ""
+      },
+      {
+        "t": "32:20",
+        "q": "How do you determine when price movement is exhausted?",
+        "asker": ""
+      },
+      {
+        "t": "34:15",
+        "q": "Will the relative volume definition work on Sierra?",
+        "asker": ""
+      },
+      {
+        "t": "34:48",
+        "q": "How do you tell the difference between volume/price exhaustion vs increased volume with more selling/buying conviction?",
+        "asker": ""
+      },
+      {
+        "t": "39:06",
+        "q": "Is there a relative volume indicator for TradeStation?",
+        "asker": ""
+      },
+      {
+        "t": "39:31",
+        "q": "Without the news would price have reversed so quickly at the recent low?",
+        "asker": ""
+      },
+      {
+        "t": "40:42",
+        "q": "What's your outlook for Friday after NFP?",
+        "asker": ""
+      },
+      {
+        "t": "43:30",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-02-26",
+    "date": "February 26, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-02-19",
+    "date": "February 19, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-02-12",
+    "date": "February 12, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-02-05",
+    "date": "February 5, 2014",
+    "questions": [],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-01-22",
+    "date": "January 22, 2014",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "General thoughts on market behavior and unexpected spikes in price.",
+        "asker": ""
+      },
+      {
+        "t": "05:34",
+        "q": "How do you handle sharp moves at Key Reference Areas (KRAs)?",
+        "asker": ""
+      },
+      {
+        "t": "16:52",
+        "q": "General thoughts on scaling out.",
+        "asker": ""
+      },
+      {
+        "t": "20:30",
+        "q": "SierraChart data feed.",
+        "asker": ""
+      },
+      {
+        "t": "22:28",
+        "q": "Student trade review (1/21).",
+        "asker": ""
+      },
+      {
+        "t": "25:42",
+        "q": "Student trade review - Weekly volume profile(1/21).",
+        "asker": ""
+      },
+      {
+        "t": "30:31",
+        "q": "Supply/Demand zones.",
+        "asker": ""
+      },
+      {
+        "t": "31:33",
+        "q": "When in a trade, when do you expect it to workout quickly and when do you sit through chop.",
+        "asker": ""
+      },
+      {
+        "t": "40:16",
+        "q": "Does the way price breaks through a zone affect the odds of it acting as broken support becoming resistance?",
+        "asker": ""
+      },
+      {
+        "t": "41:32",
+        "q": "Student trade review - Pullback to VWAP (1/21)",
+        "asker": ""
+      },
+      {
+        "t": "42:40",
+        "q": "High/Low readings in Advance/Decline in the case of a gap up/down.",
+        "asker": ""
+      },
+      {
+        "t": "45:10",
+        "q": "Chart review (1/22).",
+        "asker": ""
+      },
+      {
+        "t": "49:42",
+        "q": "For volume confirmation, do you look at the standard vertical volume on the 5-min chart or the footprint chart?",
+        "asker": ""
+      },
+      {
+        "t": "50:14",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      },
+      {
+        "t": "56:53",
+        "q": "How far back does your volume profile go back on the bigger picture chart?",
+        "asker": ""
+      },
+      {
+        "t": "58:31",
+        "q": "Chart review - Shorting ahead of a balance breakdown (1/22).",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-01-15",
+    "date": "January 15, 2014",
+    "questions": [
+      {
+        "t": "00:25",
+        "q": "Announcement on Sierra Chart data feed package (Cost savings).",
+        "asker": ""
+      },
+      {
+        "t": "02:40",
+        "q": "Advice to a trader struggling to deal with a slow market (ES) over the last few months.",
+        "asker": ""
+      },
+      {
+        "t": "12:50",
+        "q": "Trading one market vs. multiple markets.",
+        "asker": ""
+      },
+      {
+        "t": "19:57",
+        "q": "Advice for a trader struggling to grasp auction market theory.",
+        "asker": ""
+      },
+      {
+        "t": "32:56",
+        "q": "Could you explain the Bull/Bear zone?",
+        "asker": ""
+      },
+      {
+        "t": "44:14",
+        "q": "Positioning for a higher timeframe move based on NQ and TF upside breakout.",
+        "asker": ""
+      },
+      {
+        "t": "48:25",
+        "q": "How do you calculate 50% and 100% IB range extensions?",
+        "asker": ""
+      },
+      {
+        "t": "51:17",
+        "q": "What is the right technique for setting stops?",
+        "asker": ""
+      },
+      {
+        "t": "59:18",
+        "q": "Market Analysis and outlook. Question on gap fills.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2014-01-08",
+    "date": "January 8, 2014",
+    "questions": [
+      {
+        "t": "00:37",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "13:34",
+        "q": "Can you clarify how a zone is invalidated?",
+        "asker": ""
+      },
+      {
+        "t": "20:01",
+        "q": "Is the NYSE tick a lagging or leading indicator?",
+        "asker": ""
+      },
+      {
+        "t": "25:32",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "29:37",
+        "q": "Tick extremes; distinguishing between exhaustion and the start of a big move.",
+        "asker": ""
+      },
+      {
+        "t": "35:26",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "39:50",
+        "q": "Market analysis and outlook.",
+        "asker": ""
+      },
+      {
+        "t": "49:30",
+        "q": "What trades did you take today?",
+        "asker": ""
+      }
+    ],
+    "title": "Student Trade Review"
+  },
+  {
+    "iso": "2013-12-18",
+    "date": "December 18, 2013",
+    "questions": [
+      {
+        "t": "04:00",
+        "q": "Can you explain the difference between responsive and initiative buying/selling?",
+        "asker": ""
+      },
+      {
+        "t": "06:55",
+        "q": "How valuable is it to listen to the S&P pit audio?",
+        "asker": ""
+      },
+      {
+        "t": "08:04",
+        "q": "How many days do you average for the relative volume indicator?",
+        "asker": ""
+      },
+      {
+        "t": "12:47",
+        "q": "Can you explain the idea behind a recent \"strong support\"?",
+        "asker": ""
+      },
+      {
+        "t": "20:29",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "28:52",
+        "q": "Intermarket Analysis: When NQ is on the highs and TF on the lows.",
+        "asker": ""
+      },
+      {
+        "t": "33:43",
+        "q": "Open Types.",
+        "asker": ""
+      },
+      {
+        "t": "38:22",
+        "q": "Student Trade Review: How can I avoid shorting the pullback too early?",
+        "asker": ""
+      },
+      {
+        "t": "51:14",
+        "q": "Do you follow the position size spreadsheet in your own trading?",
+        "asker": ""
+      },
+      {
+        "t": "52:52",
+        "q": "Market analysis and outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-12-11",
+    "date": "December 11, 2013",
+    "questions": [
+      {
+        "t": "00:12",
+        "q": "Resource for trader tax guidance.",
+        "asker": ""
+      },
+      {
+        "t": "01:26",
+        "q": "What is a reasonable stop for gold futures and what would be a general rule?",
+        "asker": ""
+      },
+      {
+        "t": "07:17",
+        "q": "How to adjust for rollover using Sierra charts.",
+        "asker": ""
+      },
+      {
+        "t": "08:32",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "14:24",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "23:32",
+        "q": "An example of an automatic buy location.",
+        "asker": ""
+      },
+      {
+        "t": "26:52",
+        "q": "Where did you take re-entries on the short side? Trend down day principles discussed.",
+        "asker": ""
+      },
+      {
+        "t": "37:05",
+        "q": "How do you use the VWAP indicator?",
+        "asker": ""
+      },
+      {
+        "t": "40:42",
+        "q": "Market analysis and outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-12-04",
+    "date": "December 4, 2013",
+    "questions": [
+      {
+        "t": "01:05",
+        "q": "I'm having trouble placing stops, especially when 2 zones are close together. Advice?",
+        "asker": ""
+      },
+      {
+        "t": "03:18",
+        "q": "Why did ES sell off on Monday?",
+        "asker": ""
+      },
+      {
+        "t": "07:13",
+        "q": "Is there any way to prepare for a day like today (big up, big down, big up)? Ziad shares his trade for the day.",
+        "asker": ""
+      },
+      {
+        "t": "18:48",
+        "q": "How do you identify when market conditions are favorable for your method?",
+        "asker": ""
+      },
+      {
+        "t": "25:42",
+        "q": "If price goes to the back of the zone, can we enter with a stop that is still 1 point behind the zone?",
+        "asker": ""
+      },
+      {
+        "t": "27:08",
+        "q": "Limit vs market orders to get into trades.",
+        "asker": ""
+      },
+      {
+        "t": "30:11",
+        "q": "Is the distance between Initial Resistance and Initial Support (on the EMiniPlayer site) a function of volatility?",
+        "asker": ""
+      },
+      {
+        "t": "30:56",
+        "q": "Are there circumstances where you don't pay attention to tick divergences?",
+        "asker": ""
+      },
+      {
+        "t": "33:42",
+        "q": "Student Trade Review",
+        "asker": ""
+      },
+      {
+        "t": "37:24",
+        "q": "Student Trade Review",
+        "asker": ""
+      },
+      {
+        "t": "49:40",
+        "q": "Student Trade Review",
+        "asker": ""
+      },
+      {
+        "t": "54:58",
+        "q": "Are old support and resistance levels still relevant?",
+        "asker": ""
+      },
+      {
+        "t": "59:55",
+        "q": "Trading TF as an alternative to ES.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-11-27",
+    "date": "November 27, 2013",
+    "questions": [
+      {
+        "t": "00:40",
+        "q": "Is a balance area more important than a single selling tail?",
+        "asker": ""
+      },
+      {
+        "t": "01:36",
+        "q": "Student Trade Review on NQ. What to do when Support/Resistance Zones are close together.",
+        "asker": ""
+      },
+      {
+        "t": "07:17",
+        "q": "Is there a way to see a few trades where it didn’t go your way and you scratched the position? It would be helpful to see your thought process in real-time.",
+        "asker": ""
+      },
+      {
+        "t": "08:34",
+        "q": "What is the best way to deal with reversals?",
+        "asker": ""
+      },
+      {
+        "t": "11:35",
+        "q": "How do you trade pullbacks into areas of consolidation when price is in between Support/Resistance Zones?",
+        "asker": ""
+      },
+      {
+        "t": "15:55",
+        "q": "Stop Loss placement relative to Support/Resistance levels.",
+        "asker": ""
+      },
+      {
+        "t": "20:14",
+        "q": "Student stock symbols review.",
+        "asker": ""
+      },
+      {
+        "t": "24:09",
+        "q": "Reading divergences in market internals when there is a strong conviction move and one side is firmly in control.",
+        "asker": ""
+      },
+      {
+        "t": "25:08",
+        "q": "How do you handle a trade when your logical target is not 2x the risk?",
+        "asker": ""
+      },
+      {
+        "t": "26:39",
+        "q": "Student Trade Review. Recognizing good entry points.",
+        "asker": ""
+      },
+      {
+        "t": "27:17",
+        "q": "Student Trade Review. Over-analyzing price action and volume on small time frames.",
+        "asker": ""
+      },
+      {
+        "t": "30:24",
+        "q": "If price balances above or below a level in pre-market, would you still fade that level if it agreed with your view?",
+        "asker": ""
+      },
+      {
+        "t": "31:09",
+        "q": "Student what-if scenarios on ES. .",
+        "asker": ""
+      },
+      {
+        "t": "33:01",
+        "q": "Student Trade Review on NQ.",
+        "asker": ""
+      },
+      {
+        "t": "33:57",
+        "q": "Market Analysis & Outlook.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-11-20",
+    "date": "November 20, 2013",
+    "questions": [
+      {
+        "t": "00:44",
+        "q": "While learning to trade, how much time did you spend reading historical charts?",
+        "asker": ""
+      },
+      {
+        "t": "08:19",
+        "q": "Do you notice any problems with High Frequency Trading?",
+        "asker": ""
+      },
+      {
+        "t": "10:20",
+        "q": "How do you define a trend?",
+        "asker": ""
+      },
+      {
+        "t": "11:33",
+        "q": "How do you define a balance area?",
+        "asker": ""
+      },
+      {
+        "t": "13:37",
+        "q": "Are there any equivalent indicators for the TICK and A/D for currencies?",
+        "asker": ""
+      },
+      {
+        "t": "14:40",
+        "q": "How should I delineate an Open and Close for trading currencies?",
+        "asker": ""
+      },
+      {
+        "t": "16:37",
+        "q": "Do you have any suggestions for remembering all the information from the training?",
+        "asker": ""
+      },
+      {
+        "t": "19:02",
+        "q": "Do you have a favorite level for entering trades on balance days, and a favorite level for entering trades on trend days?",
+        "asker": ""
+      },
+      {
+        "t": "21:25",
+        "q": "How long into the RTH session do you consider the importance/validity of the Globex Support/Resistance levels?",
+        "asker": ""
+      },
+      {
+        "t": "23:46",
+        "q": "How do you recognize who is in control, the bulls or the bears?",
+        "asker": ""
+      },
+      {
+        "t": "26:40",
+        "q": "How do you use the HVN (High Volume Node) and LVNs (Low Volume Nodes) from the Market Profile to enter/exit your trades?",
+        "asker": ""
+      },
+      {
+        "t": "32:36",
+        "q": "How do I gauge the size of the reaction as price approaches a Support/Resistance Zone?",
+        "asker": ""
+      },
+      {
+        "t": "36:00",
+        "q": "Since most days aren’t trend days, is it a good idea to fade the market in both directions against key reference areas?",
+        "asker": ""
+      },
+      {
+        "t": "39:04",
+        "q": "Eminiplayer.net Trade Review where there was no key reference area on the entry.",
+        "asker": ""
+      },
+      {
+        "t": "43:47",
+        "q": "Spreadsheet for tracking HLC, Globex High/Low.",
+        "asker": ""
+      },
+      {
+        "t": "44:28",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "47:22",
+        "q": "How are the Support/Resistance Zones on the eminiplayer.net site defined?",
+        "asker": ""
+      },
+      {
+        "t": "49:57",
+        "q": "What timeframes do you use on your charts when you are trading?",
+        "asker": ""
+      },
+      {
+        "t": "50:55",
+        "q": "Awais ES Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "59:11",
+        "q": "How do you identify Support/Resistance Zones versus precise price lines for key reference areas?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-11-13",
+    "date": "November 13, 2013",
+    "questions": [
+      {
+        "t": "00:37",
+        "q": "When price repeatedly trades through Support/Resistance Zones.",
+        "asker": ""
+      },
+      {
+        "t": "03:09",
+        "q": "Using moving averages and other indicators.",
+        "asker": ""
+      },
+      {
+        "t": "05:33",
+        "q": "Using Support/Resistance Zones to place trades - where in the Zone?",
+        "asker": ""
+      },
+      {
+        "t": "09:11",
+        "q": "Is computerized algo trading causing recent big market moves up and down?",
+        "asker": ""
+      },
+      {
+        "t": "14:05",
+        "q": "If you could only trade 2 hours a day, when would you trade? Four hours/day?",
+        "asker": ""
+      },
+      {
+        "t": "15:30",
+        "q": "Which days of the week and seasonal periods are the most productive?",
+        "asker": ""
+      },
+      {
+        "t": "16:50",
+        "q": "Is there any 80/20 dynamic, sweet spot or times of the year that are most productive for your trading?",
+        "asker": ""
+      },
+      {
+        "t": "18:40",
+        "q": "How many monitors do you need? What other data points/indicators or news are important to use besides price action?",
+        "asker": ""
+      },
+      {
+        "t": "19:51",
+        "q": "Risk management and overcoming fear after taking a big loss.",
+        "asker": ""
+      },
+      {
+        "t": "23:33",
+        "q": "Taking trades on first test of Support/Resistance Zone versus 2nd and 3rd tests.",
+        "asker": ""
+      },
+      {
+        "t": "27:42",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "31:48",
+        "q": "Trade Review on ES. Flipping your pre-market bias based on what is happening in real time.",
+        "asker": ""
+      },
+      {
+        "t": "36:49",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "39:36",
+        "q": "Tracking daily range for RTH and Globex sessions.",
+        "asker": ""
+      },
+      {
+        "t": "41:16",
+        "q": "What is RTH?",
+        "asker": ""
+      },
+      {
+        "t": "42:10",
+        "q": "Being prepared with a daily trade plan.",
+        "asker": ""
+      },
+      {
+        "t": "45:14",
+        "q": "Identifying trend days early in real time.",
+        "asker": ""
+      },
+      {
+        "t": "51:03",
+        "q": "What to look for in the intraday Volume Profile.",
+        "asker": ""
+      },
+      {
+        "t": "53:22",
+        "q": "Do you enter orders premarket based on Support/Resistance, or do you wait to see how the market trades?",
+        "asker": ""
+      },
+      {
+        "t": "55:19",
+        "q": "Are there any trades at the end of the day on a Friday that could work to one’s advantage?",
+        "asker": ""
+      },
+      {
+        "t": "56:44",
+        "q": "Do you use any automation to manage your positions?",
+        "asker": ""
+      },
+      {
+        "t": "57:57",
+        "q": "Do you initiate trades off of the current day’s VPOC?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-11-06",
+    "date": "November 6, 2013",
+    "questions": [
+      {
+        "t": "00:31",
+        "q": "Can I place a trade one tick away from the zone with half of my position, and then a trade in the middle of the Zone with the other half?",
+        "asker": ""
+      },
+      {
+        "t": "05:07",
+        "q": "Can we take time in a coaching session to have you draw the ES Zones for a recent day, and explain your rationale?",
+        "asker": ""
+      },
+      {
+        "t": "12:35",
+        "q": "Can you address TF negatively divergent from ES and NQ, and the implications?",
+        "asker": ""
+      },
+      {
+        "t": "16:50",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "28:25",
+        "q": "Using the Advance/Decline, 24’ VWAP & MidPoint indicators.",
+        "asker": ""
+      },
+      {
+        "t": "32:15",
+        "q": "Support/Resistance Zones versus exact price levels.",
+        "asker": ""
+      },
+      {
+        "t": "36:45",
+        "q": "How to trade a choppy day or choppy price range.",
+        "asker": ""
+      },
+      {
+        "t": "41:42",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "43:16",
+        "q": "Overnight session volume versus RTH volume.",
+        "asker": ""
+      },
+      {
+        "t": "44:15",
+        "q": "Width of Support/Resistance Zones.",
+        "asker": ""
+      },
+      {
+        "t": "46:45",
+        "q": "Buying/Selling Tails & Support/Resistance Zones.",
+        "asker": ""
+      },
+      {
+        "t": "49:12",
+        "q": "Getting filled on trades & expectancy; when to flip your mindset for trade entry.",
+        "asker": ""
+      },
+      {
+        "t": "56:13",
+        "q": "Student Trade Review.",
+        "asker": ""
+      },
+      {
+        "t": "59:25",
+        "q": "Globex Profile, RTH Profile, and RTH VPOC.",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-10-30",
+    "date": "October 30, 2013",
+    "questions": [
+      {
+        "t": "00:10",
+        "q": "Discussion of November 2013 Traders’ Expo in Las Vegas.",
+        "asker": ""
+      },
+      {
+        "t": "02:03",
+        "q": "How do you maintain your focus throughout the long trading day? Do you take breaks, walk away from the charts? Maintaining a Peak Performance mindset.",
+        "asker": ""
+      },
+      {
+        "t": "04:55",
+        "q": "Do you use alerts to allow you to walk away from the screens?",
+        "asker": ""
+      },
+      {
+        "t": "07:07",
+        "q": "Adapting what is taught in the OpenTrader portal to match your personality & style of trading.",
+        "asker": ""
+      },
+      {
+        "t": "11:45",
+        "q": "How to decide when to enter a trade manually and when to place an open order ahead of time at a certain price level.",
+        "asker": ""
+      },
+      {
+        "t": "13:45",
+        "q": "When to trade based on how the session unfolds in real time, versus trading based on a fixed pre-set plan.",
+        "asker": ""
+      },
+      {
+        "t": "16:16",
+        "q": "How much analysis to do on NQ (Nasdaq) and TF (Russell) premarket, and during the trading day when primarily trading ES.",
+        "asker": ""
+      },
+      {
+        "t": "20:09",
+        "q": "How to decide when to enter a trend trade after a counter-trend retracement; how big a reversal should there be, before deciding to enter the trade? Is it based on a TICK extreme or a percent retracement?",
+        "asker": ""
+      },
+      {
+        "t": "25:41",
+        "q": "Using the Volume Profile VPOC, Value Area High/Low, shape of the Profile.",
+        "asker": ""
+      },
+      {
+        "t": "28:42",
+        "q": "Are the charts in the Coaching calls the same type of charts as in the OpenTrader course? Advantages of Awais’s trade plan at EminiPlayer.net.",
+        "asker": ""
+      },
+      {
+        "t": "30:48",
+        "q": "Twitter feeds from Awais during the trading day.",
+        "asker": ""
+      },
+      {
+        "t": "31:42",
+        "q": "Where in the OpenTrader course is there a summary that ties it all together? A checklist to prepare you for the trading day.",
+        "asker": ""
+      },
+      {
+        "t": "33:25",
+        "q": "Can you share your chart definitions for MarketDelta?",
+        "asker": ""
+      },
+      {
+        "t": "34:07",
+        "q": "Why do some Support/Resistance Zone levels (on your ES charts) change by a tick or two when price has not traded through them?",
+        "asker": ""
+      },
+      {
+        "t": "35:26",
+        "q": "How do you come up with Resistance levels when the underlying is at all-time highs?",
+        "asker": ""
+      },
+      {
+        "t": "36:02",
+        "q": "In what ways does Sierra Chart differ from MarketDelta?",
+        "asker": ""
+      },
+      {
+        "t": "38:04",
+        "q": "How to determine market bias before the day starts.",
+        "asker": ""
+      },
+      {
+        "t": "38:44",
+        "q": "Recap of today’s trading day and logic behind their ES trades.",
+        "asker": ""
+      },
+      {
+        "t": "42:41",
+        "q": "Volume Profile on TradeStation.",
+        "asker": ""
+      },
+      {
+        "t": "43:26",
+        "q": "Trading bounces.",
+        "asker": ""
+      },
+      {
+        "t": "43:51",
+        "q": "Benefit of having the Volume Profile on each session (overnight & RTH).",
+        "asker": ""
+      },
+      {
+        "t": "45:15",
+        "q": "Do you buy bounces using a 5 minute chart?",
+        "asker": ""
+      },
+      {
+        "t": "46:22",
+        "q": "The yellow bars on the Volume Profile.",
+        "asker": ""
+      },
+      {
+        "t": "47:51",
+        "q": "Market Analysis and Outlook.",
+        "asker": ""
+      },
+      {
+        "t": "54:07",
+        "q": "What zone ranges do you use on NQ, TF and YM?",
+        "asker": ""
+      }
+    ],
+    "title": "Coaching Session"
+  },
+  {
+    "iso": "2013-10-23",
+    "date": "October 23, 2013",
+    "questions": [],
     "title": "Coaching Session"
   }
 ];
