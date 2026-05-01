@@ -8,7 +8,19 @@
       "Bash(npm create *)",
       "Bash(npm install *)",
       "Bash(npm run *)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(node parse-pilot.mjs)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
+      "Bash(npx vite *)",
+      "Bash(curl -s -X POST http://localhost:5173/logger -H 'Content-Type: application/json' -d '{\"webinar-date\":\"20260311\",\"timestamp\":\"07:32\"}' -w '\\\\nHTTP %{http_code}')",
+      "Bash(curl -s -X POST http://localhost:5173/logger -H \"Content-Type: application/json\" -d '{\"webinar-date\":\"20260311\",\"timestamp\":\"00:09\"}' -w \" HTTP %{http_code}\")",
+      "Bash(curl -s -X POST http://localhost:5173/logger -H 'Content-Type: application/json' -d '{\"webinar-date\":\"20260311\",\"timestamp\":\"07:32\",\"question\":\"Can you share the best Zone Fade opportunities that were available over the past week along with the context that made them good?\"}' -w 'HTTP %{http_code}\\\\n')",
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(python3 -c ' *)",
+      "Bash(node -e ' *)",
+      "Bash(tar -xf design-bundle.tar)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(curl -s http://localhost:5173/recent)"
     ]
   }
 }

@@ -1,6 +1,6 @@
-import { useState, useEffect, useMemo, useRef } from 'react';
-import { SESSIONS } from './data.js';
+const { useState, useEffect, useMemo, useRef } = React;
 
+// ---------- Theme Toggle ----------
 function ThemeToggle({ theme, onToggle }) {
   const isDark = theme === "dusk";
   return (
@@ -31,6 +31,7 @@ function ThemeToggle({ theme, onToggle }) {
   );
 }
 
+// ---------- Header ----------
 function Header({ sessions, questions, theme, onThemeToggle }) {
   return (
     <header className="app-header">
@@ -56,6 +57,7 @@ function Header({ sessions, questions, theme, onThemeToggle }) {
   );
 }
 
+// ---------- Search ----------
 function SearchBar({ value, onChange, resultCount, query }) {
   const ref = useRef(null);
   useEffect(() => {
@@ -89,13 +91,14 @@ function SearchBar({ value, onChange, resultCount, query }) {
       </div>
       {query && (
         <div className="search-meta">
-          {resultCount} {resultCount === 1 ? "match" : "matches"} for "{query}"
+          {resultCount} {resultCount === 1 ? "match" : "matches"} for “{query}”
         </div>
       )}
     </div>
   );
 }
 
+// ---------- Filter chips ----------
 const FILTERS = [
   { id: "all", label: "All" },
   { id: "chart", label: "Chart Review" },
@@ -120,6 +123,7 @@ function FilterRow({ active, onChange }) {
   );
 }
 
+// ---------- Highlight ----------
 function Highlight({ text, query }) {
   if (!query) return <>{text}</>;
   const parts = text.split(new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi"));
@@ -136,16 +140,10 @@ function Highlight({ text, query }) {
   );
 }
 
-function QuestionRow({ q, onPlay, query, sessionIso }) {
-  const openTranscript = () => {
-    const [yyyy, mm, dd] = sessionIso.split('-');
-    const dirDate = `${yyyy}${mm}${dd}`;
-    const baseName = `OpenTrader-Coaching-Webinar-${mm}-${dd}-${yyyy}`;
-    window.open(`/coaching-webinar/${dirDate}/${baseName}.srt`, '_blank');
-  };
-
+// ---------- Question row ----------
+function QuestionRow({ q, onPlay, playing, query }) {
   return (
-    <div className="q-row">
+    <div className={`q-row ${playing ? "q-playing" : ""}`}>
       <button className="ts" onClick={() => onPlay(q)} title="Jump to moment">
         <svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor" className="ts-play">
           <path d="M8 5v14l11-7z" />
@@ -157,7 +155,7 @@ function QuestionRow({ q, onPlay, query, sessionIso }) {
         <div className="q-meta">
           <span className="asker">{q.asker}</span>
           <span className="q-sep">·</span>
-          <button className="q-link" onClick={openTranscript}>Open transcript</button>
+          <button className="q-link">Open transcript</button>
           <button className="q-link">Copy link</button>
         </div>
       </div>
@@ -165,7 +163,8 @@ function QuestionRow({ q, onPlay, query, sessionIso }) {
   );
 }
 
-function SessionBlock({ session, query, onPlay }) {
+// ---------- Session block ----------
+function SessionBlock({ session, query, onPlay, playingId }) {
   const [expanded, setExpanded] = useState(true);
   return (
     <section className="session">
@@ -186,7 +185,13 @@ function SessionBlock({ session, query, onPlay }) {
       {expanded && (
         <div className="session-body">
           {session.questions.map((q, i) => (
-            <QuestionRow key={i} q={q} query={query} onPlay={onPlay} sessionIso={session.iso} />
+            <QuestionRow
+              key={i}
+              q={q}
+              query={query}
+              onPlay={onPlay}
+              playing={playingId === `${session.iso}-${i}`}
+            />
           ))}
         </div>
       )}
@@ -194,67 +199,34 @@ function SessionBlock({ session, query, onPlay }) {
   );
 }
 
-
-function RecentHistory({ onPlay }) {
-  const [rows, setRows] = useState(null);
-  const [expanded, setExpanded] = useState(false);
-
+// ---------- Player strip ----------
+function PlayerStrip({ playing, onClose }) {
+  const [pos, setPos] = useState(0);
   useEffect(() => {
-    fetch('/recent')
-      .then(r => r.json())
-      .then(setRows)
-      .catch(() => setRows([]));
-  }, []);
-
-  const fmtDate = (raw) => `${raw.slice(0,4)}-${raw.slice(4,6)}-${raw.slice(6,8)}`;
-
+    if (!playing) return;
+    setPos(0);
+    const id = setInterval(() => setPos((p) => (p + 0.4) % 100), 80);
+    return () => clearInterval(id);
+  }, [playing]);
+  if (!playing) return null;
   return (
-    <section className="session">
-      <header className="session-head">
-        <button className="session-toggle" onClick={() => setExpanded(!expanded)}>
-          <svg className={`caret ${expanded ? "open" : ""}`} viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="m9 18 6-6-6-6" />
-          </svg>
-          <span className="session-date">Recent History</span>
+    <div className="player">
+      <div className="player-inner">
+        <button className="player-btn" aria-label="Pause">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M6 5h4v14H6zM14 5h4v14h-4z" /></svg>
         </button>
-        <span className="session-count" style={{ marginLeft: "auto" }}>
-          {rows ? `${rows.length} entries` : "…"}
-        </span>
-      </header>
-      {expanded && (
-        <div className="session-body">
-          {rows === null ? (
-            <div className="sidebar-loading" style={{ padding: "10px 14px" }}>
-              {[...Array(5)].map((_, i) => (
-                <div key={i} className="skel-row" style={{ width: `${55 + (i % 3) * 15}%`, animationDelay: `${i * 60}ms` }} />
-              ))}
-            </div>
-          ) : rows.length === 0 ? (
-            <div className="sidebar-empty">No recent activity</div>
-          ) : (
-            rows.map((row, i) => (
-              <div
-                key={i}
-                className="rv-inline-row"
-                onClick={() => onPlay({ t: row[2], q: row[3], isoDate: fmtDate(row[1]) })}
-              >
-                <button className="ts" tabIndex={-1}>
-                  <svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor" className="ts-play"><path d="M8 5v14l11-7z" /></svg>
-                  <span>{row[2]}</span>
-                </button>
-                <div className="rv-inline-body">
-                  <span className="rv-inline-date">{fmtDate(row[1])}</span>
-                  <span className="rv-inline-q">{row[3]}</span>
-                </div>
-              </div>
-            ))
-          )}
+        <div className="player-meta">
+          <div className="player-title">{playing.session} · {playing.t}</div>
+          <div className="player-q">{playing.q}</div>
         </div>
-      )}
-    </section>
+        <div className="player-progress"><div className="player-fill" style={{ width: `${pos}%` }} /></div>
+        <button className="player-close" onClick={onClose} aria-label="Close">×</button>
+      </div>
+    </div>
   );
 }
 
+// ---------- Tweaks ----------
 function TweaksPanel({ tweaks, setTweaks, onClose }) {
   const set = (k, v) => setTweaks({ ...tweaks, [k]: v });
   return (
@@ -342,17 +314,19 @@ function TweaksPanel({ tweaks, setTweaks, onClose }) {
   );
 }
 
-const TWEAK_DEFAULTS = {
-  theme: "paper",
-  font: "geist",
-  density: "comfortable",
-  tsStyle: "pill",
-  hue: 35,
-};
+// ---------- App ----------
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "theme": "paper",
+  "font": "geist",
+  "density": "comfortable",
+  "tsStyle": "pill",
+  "hue": 35
+}/*EDITMODE-END*/;
 
-export default function App() {
+function App() {
   const [query, setQuery] = useState("");
   const [filter, setFilter] = useState("all");
+  const [playing, setPlaying] = useState(null);
   const [showTweaks, setShowTweaks] = useState(false);
   const [tweaks, setTweaks] = useState(() => {
     try {
@@ -362,6 +336,7 @@ export default function App() {
     return TWEAK_DEFAULTS;
   });
 
+  // persist tweaks
   useEffect(() => {
     localStorage.setItem("ot-tweaks", JSON.stringify(tweaks));
     document.documentElement.dataset.theme = tweaks.theme;
@@ -371,14 +346,23 @@ export default function App() {
     document.documentElement.style.setProperty("--hue", tweaks.hue);
   }, [tweaks]);
 
+  // edit-mode host integration
   useEffect(() => {
     const handler = (e) => {
       if (e.data?.type === "__activate_edit_mode") setShowTweaks(true);
       if (e.data?.type === "__deactivate_edit_mode") setShowTweaks(false);
     };
     window.addEventListener("message", handler);
+    window.parent.postMessage({ type: "__edit_mode_available" }, "*");
     return () => window.removeEventListener("message", handler);
   }, []);
+
+  useEffect(() => {
+    window.parent.postMessage({
+      type: "__edit_mode_set_keys",
+      edits: tweaks
+    }, "*");
+  }, [tweaks]);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -391,7 +375,7 @@ export default function App() {
       if (filter === "setup") return /setup|zone fade|support|resistance|pre-market/i.test(txt);
       return true;
     };
-    return SESSIONS
+    return window.SESSIONS
       .map((s) => ({
         ...s,
         questions: s.questions.filter(
@@ -409,102 +393,16 @@ export default function App() {
 
   const totalMatches = filtered.reduce((a, s) => a + s.questions.length, 0);
 
-  const openVideo = (q, session) => {
-    const [yyyy, mm, dd] = session.iso.split('-');
-    const dirDate = `${yyyy}${mm}${dd}`;
-    const baseName = `OpenTrader-Coaching-Webinar-${mm}-${dd}-${yyyy}`;
-    const origin = window.location.origin;
-    const videoUrl = `${origin}/coaching-webinar/${dirDate}/${baseName}.mp4`;
-    const srtUrl   = `${origin}/coaching-webinar/${dirDate}/${baseName}.srt`;
-    const [m, s] = q.t.split(':').map(Number);
-    const startTime = m * 60 + s;
-
-    fetch('/logger', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ 'webinar-date': dirDate, timestamp: q.t, question: q.q }),
-    }).catch(() => {});
-
-    const win = window.open('', '_blank', 'width=1280,height=800,menubar=no,toolbar=no,location=no,status=no');
-    if (!win) { alert('Popup blocked — please allow popups for this page.'); return; }
-
-    win.document.write(`<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<link rel="icon" type="image/png" href="/favicon.png" />
-<title>OpenTrader Coach — ${mm}/${dd}/${yyyy} @ ${q.t}</title>
-<style>
-  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-  html,body{height:100%;background:#090b11;color:#e2d9c8;font-family:'JetBrains Mono',monospace}
-  body{display:flex;flex-direction:column;align-items:center;justify-content:center}
-  #bar{width:100%;background:#0f1420;border-bottom:1px solid #1d2638;padding:10px 20px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-shrink:0}
-  #bar-title{font-size:0.7rem;color:#5a6880;letter-spacing:0.06em}
-  #bar-date{font-size:0.75rem;color:#c8942a;font-weight:500}
-  #bar-ts{font-size:0.7rem;color:#5a6880}
-  #wrap{width:100%;flex:1;display:flex;align-items:center;justify-content:center;background:#000;min-height:0}
-  video{width:100%;height:100%;max-height:calc(100vh - 56px);object-fit:contain;display:block}
-  #status{font-size:0.72rem;color:#5a6880;padding:8px 20px;background:#090b11;width:100%;text-align:center;flex-shrink:0;border-top:1px solid #1d2638;min-height:28px}
-  ::cue{background:rgba(0,0,0,0.75);color:#fff;font-family:Arial,sans-serif;font-size:1rem}
-</style>
-</head>
-<body>
-<div id="bar">
-  <span id="bar-title">OPEN TRADER COACH &nbsp;·&nbsp; <span id="bar-date">${mm}/${dd}/${yyyy}</span></span>
-  <span id="bar-ts">Starting at ${q.t}</span>
-</div>
-<div id="wrap"><video id="vid" controls preload="auto"></video></div>
-<div id="status">Loading captions…</div>
-<script>
-(async () => {
-  const vid = document.getElementById('vid');
-  const status = document.getElementById('status');
-  vid.src = ${JSON.stringify(videoUrl)};
-  try {
-    const res = await fetch(${JSON.stringify(srtUrl)});
-    if (!res.ok) throw new Error('SRT not found (' + res.status + ')');
-    const srt = await res.text();
-    const vtt = 'WEBVTT\\n\\n' + srt
-      .replace(/\\r\\n/g,'\\n')
-      .replace(/(\\d{2}:\\d{2}:\\d{2}),(\\d{3})/g,'$1.$2')
-      .trim();
-    const blob = new Blob([vtt],{type:'text/vtt'});
-    const track = document.createElement('track');
-    track.kind='captions'; track.label='English'; track.srclang='en';
-    track.src=URL.createObjectURL(blob); track.default=true;
-    vid.appendChild(track);
-    status.textContent='Captions loaded…';
-  } catch(err) {
-    status.textContent='No captions: '+err.message;
-  }
-  vid.addEventListener('loadedmetadata',()=>{
-    vid.currentTime=${startTime};
-    vid.playbackRate=1.5;
-    for(let i=0;i<vid.textTracks.length;i++) vid.textTracks[i].mode='showing';
-    status.textContent='Captions on · 1.5× · ${mm}/${dd}/${yyyy}';
-    vid.play().catch(()=>{});
-  },{once:true});
-})();
-<\/script>
-</body></html>`);
-    win.document.close();
-  };
-
   const handlePlay = (q) => {
-    const session = SESSIONS.find((s) => s.questions.includes(q));
-    openVideo(q, session);
-  };
-
-  const handleRecentPlay = ({ t, q, isoDate }) => {
-    openVideo({ t, q }, { iso: isoDate });
+    const session = window.SESSIONS.find((s) => s.questions.includes(q));
+    setPlaying({ ...q, session: session.title, sessionIso: session.iso });
   };
 
   return (
     <div className="shell">
       <Header
-        sessions={SESSIONS.length}
-        questions={SESSIONS.reduce((n, s) => n + s.questions.length, 0)}
+        sessions={461}
+        questions={3925}
         theme={tweaks.theme}
         onThemeToggle={() => setTweaks(t => ({ ...t, theme: t.theme === "dusk" ? "paper" : "dusk" }))}
       />
@@ -518,7 +416,6 @@ export default function App() {
         <FilterRow active={filter} onChange={setFilter} />
       </div>
       <main className="list">
-        <RecentHistory onPlay={handleRecentPlay} />
         {filtered.length === 0 ? (
           <div className="empty">
             <div className="empty-big">No questions match</div>
@@ -527,10 +424,17 @@ export default function App() {
           </div>
         ) : (
           filtered.map((s) => (
-            <SessionBlock key={s.iso} session={s} query={query} onPlay={handlePlay} />
+            <SessionBlock
+              key={s.iso}
+              session={s}
+              query={query}
+              onPlay={handlePlay}
+              playingId={playing ? `${playing.sessionIso}-${s.questions.indexOf(playing)}` : null}
+            />
           ))
         )}
       </main>
+      <PlayerStrip playing={playing} onClose={() => setPlaying(null)} />
       {showTweaks && (
         <TweaksPanel
           tweaks={tweaks}
@@ -538,19 +442,8 @@ export default function App() {
           onClose={() => setShowTweaks(false)}
         />
       )}
-      <button
-        onClick={() => setShowTweaks(v => !v)}
-        style={{
-          position: 'fixed', bottom: 20, right: showTweaks ? 316 : 20,
-          background: 'var(--panel)', border: '1px solid var(--line)',
-          borderRadius: 8, padding: '6px 12px', cursor: 'pointer',
-          fontSize: 12, color: 'var(--ink-soft)', fontFamily: 'inherit',
-          boxShadow: 'var(--shadow)', transition: 'right 0.2s',
-          zIndex: 99,
-        }}
-      >
-        {showTweaks ? '✕ Close' : '⚙ Tweaks'}
-      </button>
     </div>
   );
 }
+
+Object.assign(window, { App });

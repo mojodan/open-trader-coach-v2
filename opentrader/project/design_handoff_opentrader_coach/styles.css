@@ -1,6 +1,3 @@
-/* ============ Fonts ============ */
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
-
 /* ============ Themes ============ */
 :root {
   --hue: 35;
@@ -59,6 +56,9 @@ html[data-theme="dusk"] {
   --mark: oklch(0.45 0.10 70);
   --shadow: 0 1px 2px oklch(0 0 0 / 0.25), 0 8px 24px oklch(0 0 0 / 0.28);
 }
+
+/* ============ Fonts ============ */
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
 
 html { --font-body: "Geist", ui-sans-serif, system-ui, sans-serif; --font-mono: "Geist Mono", ui-monospace, monospace; }
 html[data-font="ibm"] { --font-body: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif; --font-mono: "IBM Plex Mono", ui-monospace, monospace; }
@@ -192,43 +192,6 @@ body::before {
   color: oklch(0.88 0.10 75);
 }
 
-/* ============ Recently Viewed inline rows ============ */
-.rv-inline-row {
-  display: grid;
-  grid-template-columns: 74px 1fr;
-  gap: 16px;
-  padding: var(--row-pad);
-  padding-left: 14px;
-  padding-right: 14px;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: background 0.12s;
-}
-.rv-inline-row + .rv-inline-row { border-top: 1px dashed var(--line-soft); }
-.rv-inline-row:hover { background: oklch(from var(--accent) l c h / 0.06); }
-.rv-inline-body { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
-.rv-inline-date {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--ink-mute);
-  font-variant-numeric: tabular-nums;
-  letter-spacing: 0.01em;
-}
-.rv-inline-q { font-size: 14px; color: var(--ink); line-height: 1.5; text-wrap: pretty; }
-
-/* Skeleton loader */
-.sidebar-loading { display: flex; flex-direction: column; gap: 2px; }
-.sidebar-empty { padding: 16px 14px; font-size: 12px; color: var(--ink-mute); text-align: center; }
-.skel-row {
-  height: 14px;
-  margin: 5px 14px;
-  border-radius: 4px;
-  background: linear-gradient(90deg, var(--line-soft) 25%, var(--bg-soft) 50%, var(--line-soft) 75%);
-  background-size: 200% 100%;
-  animation: shimmer 1.4s infinite;
-}
-@keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
-
 /* ============ Sticky bar ============ */
 .sticky-bar {
   position: sticky;
@@ -237,9 +200,7 @@ body::before {
   background: linear-gradient(to bottom, var(--bg) 75%, oklch(from var(--bg) l c h / 0));
   padding: 14px 0 18px;
   margin-bottom: 8px;
-  pointer-events: none;
 }
-.sticky-bar > * { pointer-events: auto; }
 
 .search-wrap { position: relative; }
 .search {
