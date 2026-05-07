@@ -1,5 +1,30 @@
-import { useState, useEffect, useMemo, useRef } from 'react';
+import { useState, useEffect, useMemo, useRef, createContext, useContext } from 'react';
 import { SESSIONS } from './data.js';
+
+const CommentsContext = createContext({});
+
+function parseCsvLine(line) {
+  const fields = [];
+  let i = 0;
+  while (i < line.length) {
+    if (line[i] === '"') {
+      let j = i + 1, val = '';
+      while (j < line.length) {
+        if (line[j] === '"' && line[j + 1] === '"') { val += '"'; j += 2; }
+        else if (line[j] === '"') { j++; break; }
+        else { val += line[j++]; }
+      }
+      fields.push(val);
+      i = j;
+      if (line[i] === ',') i++;
+    } else {
+      const j = line.indexOf(',', i);
+      fields.push(j === -1 ? line.slice(i) : line.slice(i, j));
+      i = j === -1 ? line.length : j + 1;
+    }
+  }
+  return fields;
+}
 
 function ThemeToggle({ theme, onToggle }) {
   const isDark = theme === "dusk";
@@ -136,7 +161,120 @@ function Highlight({ text, query }) {
   );
 }
 
-function QuestionRow({ q, onPlay, query, sessionIso }) {
+function CommentBox({ storageKey, onHasComment, onOpenChange, date, videoTs }) {
+  const csvComments = useContext(CommentsContext);
+  const lookupKey = date && videoTs ? `${date}|${videoTs}` : null;
+
+  const getSaved = () => {
+    try { const l = localStorage.getItem(storageKey); if (l !== null) return l; } catch {}
+    return (lookupKey && csvComments[lookupKey]) || '';
+  };
+
+  const [open, setOpen] = useState(false);
+  const [editing, setEditing] = useState(false);
+  const [draft, setDraft] = useState("");
+  const [savedText, setSavedText] = useState(getSaved);
+  const taRef = useRef(null);
+
+  useEffect(() => {
+    try { if (localStorage.getItem(storageKey) !== null) return; } catch {}
+    if (lookupKey && csvComments[lookupKey]) setSavedText(csvComments[lookupKey]);
+  }, [csvComments]);
+
+  useEffect(() => { onHasComment?.(!!savedText); }, [savedText]);
+  useEffect(() => { if (editing && taRef.current) taRef.current.focus(); }, [editing]);
+
+  const handleOpen = (e) => {
+    e.stopPropagation();
+    setOpen(true);
+    onOpenChange?.(true);
+    if (!savedText) { setEditing(true); setDraft(""); }
+    else setEditing(false);
+  };
+
+  const handleSave = () => {
+    try { localStorage.setItem(storageKey, draft); } catch {}
+    setSavedText(draft);
+    setEditing(false);
+    if (date && videoTs) {
+      const escaped = draft.replace(/"/g, '""');
+      fetch('/api/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/csv' },
+        body: `${date},${videoTs},"${escaped}"`,
+      }).catch(() => {});
+    }
+  };
+
+  const handleCancel = () => {
+    if (!savedText) { setOpen(false); onOpenChange?.(false); }
+    setDraft(savedText);
+    setEditing(false);
+  };
+
+  const handleClose = () => { setOpen(false); onOpenChange?.(false); };
+
+  const handleDblClick = () => {
+    setDraft(savedText);
+    setEditing(true);
+    setTimeout(() => taRef.current?.focus(), 0);
+  };
+
+  if (!open) {
+    return (
+      <button className="q-link comment-link" onClick={handleOpen}>
+        {savedText ? "Comment ✎" : "Comment"}
+      </button>
+    );
+  }
+
+  return (
+    <div className="comment-box" onClick={(e) => e.stopPropagation()}>
+      {editing ? (
+        <>
+          <textarea
+            ref={taRef}
+            className="comment-ta"
+            value={draft}
+            onChange={(e) => setDraft(e.target.value)}
+            placeholder="Add a comment…"
+            rows={5}
+          />
+          <div className="comment-actions">
+            <button className="comment-btn comment-cancel" onClick={handleCancel}>
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+              Cancel
+            </button>
+            <button className="comment-btn comment-save" onClick={handleSave}>
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              Save
+            </button>
+          </div>
+        </>
+      ) : (
+        <>
+          <div className="comment-readonly" onDoubleClick={handleDblClick} title="Double-click to edit">
+            {savedText}
+          </div>
+          <div className="comment-actions">
+            <span className="comment-hint">Double-click to edit</span>
+            <button className="comment-btn comment-cancel" onClick={handleClose}>
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+              Close
+            </button>
+          </div>
+        </>
+      )}
+    </div>
+  );
+}
+
+function QuestionRow({ q, onPlay, query, sessionIso, commentKey }) {
+  const [commentOpen, setCommentOpen] = useState(false);
+  const [hasComment, setHasComment] = useState(() => {
+    try { return !!localStorage.getItem(commentKey); } catch { return false; }
+  });
+
   const openTranscript = () => {
     const [yyyy, mm, dd] = sessionIso.split('-');
     const dirDate = `${yyyy}${mm}${dd}`;
@@ -154,11 +292,18 @@ function QuestionRow({ q, onPlay, query, sessionIso }) {
       </button>
       <div className="q-body">
         <div className="q-text"><Highlight text={q.q} query={query} /></div>
-        <div className="q-meta">
+        <div className={`q-meta ${(hasComment || commentOpen) ? "q-meta-pinned" : ""}`}>
           <span className="asker">{q.asker}</span>
           <span className="q-sep">·</span>
           <button className="q-link" onClick={openTranscript}>Open transcript</button>
           <button className="q-link">Copy link</button>
+          <CommentBox
+            storageKey={commentKey}
+            date={sessionIso.replace(/-/g, '')}
+            videoTs={q.t}
+            onHasComment={setHasComment}
+            onOpenChange={setCommentOpen}
+          />
         </div>
       </div>
     </div>
@@ -168,7 +313,7 @@ function QuestionRow({ q, onPlay, query, sessionIso }) {
 function SessionBlock({ session, query, onPlay }) {
   const [expanded, setExpanded] = useState(true);
   return (
-    <section className="session">
+    <section className="session" id={`session-${session.iso}`}>
       <header className="session-head">
         <button className="session-toggle" onClick={() => setExpanded(!expanded)}>
           <svg className={`caret ${expanded ? "open" : ""}`} viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
@@ -186,7 +331,7 @@ function SessionBlock({ session, query, onPlay }) {
       {expanded && (
         <div className="session-body">
           {session.questions.map((q, i) => (
-            <QuestionRow key={i} q={q} query={query} onPlay={onPlay} sessionIso={session.iso} />
+            <QuestionRow key={i} q={q} query={query} onPlay={onPlay} sessionIso={session.iso} commentKey={`comment-${session.iso}-${i}`} />
           ))}
         </div>
       )}
@@ -243,8 +388,18 @@ function RecentHistory({ onPlay }) {
                   <span>{row[2]}</span>
                 </button>
                 <div className="rv-inline-body">
-                  <span className="rv-inline-date">{fmtDate(row[1])}</span>
+                  <button
+                    className="rv-inline-date"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      document.getElementById(`session-${fmtDate(row[1])}`)
+                        ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }}
+                  >{fmtDate(row[1])}</button>
                   <span className="rv-inline-q">{row[3]}</span>
+                  <div className="q-meta rv-meta" onClick={(e) => e.stopPropagation()}>
+                    <CommentBox storageKey={`comment-rv-${row[1]}-${row[2]}`} date={row[1]} videoTs={row[2]} />
+                  </div>
                 </div>
               </div>
             ))
@@ -353,6 +508,23 @@ const TWEAK_DEFAULTS = {
 export default function App() {
   const [query, setQuery] = useState("");
   const [filter, setFilter] = useState("all");
+  const [csvComments, setCsvComments] = useState({});
+
+  useEffect(() => {
+    fetch('/comments.csv')
+      .then(r => r.ok ? r.text() : '')
+      .then(text => {
+        const map = {};
+        text.split('\n').forEach(line => {
+          line = line.trim();
+          if (!line) return;
+          const fields = parseCsvLine(line);
+          if (fields.length >= 3) map[`${fields[0]}|${fields[1]}`] = fields[2];
+        });
+        setCsvComments(map);
+      })
+      .catch(() => {});
+  }, []);
   const [showTweaks, setShowTweaks] = useState(false);
   const [tweaks, setTweaks] = useState(() => {
     try {
@@ -501,6 +673,7 @@ export default function App() {
   };
 
   return (
+    <CommentsContext.Provider value={csvComments}>
     <div className="shell">
       <Header
         sessions={SESSIONS.length}
@@ -552,5 +725,6 @@ export default function App() {
         {showTweaks ? '✕ Close' : '⚙ Tweaks'}
       </button>
     </div>
+    </CommentsContext.Provider>
   );
 }

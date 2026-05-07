@@ -5,6 +5,8 @@ import path from 'path'
 
 const COACHING_DIR = 'C:/Users/dhaye/repos/open-trader-coach/open-trader-coach/coaching-webinar'
 const LOG_FILE = path.join(process.cwd(), 'view.log')
+const COMMENTS_FILE = path.join(process.cwd(), 'public', 'comments.csv')
+const BACKUP_DIR = path.join(process.cwd(), 'public', 'backup')
 
 function serveVideoWithRanges(req, res, filePath) {
   let stat
@@ -66,6 +68,37 @@ export default defineConfig({
               res.end()
             } catch {
               res.statusCode = 400
+              res.end()
+            }
+          })
+        })
+
+        // Save comment to public/comments.csv, backing up the existing file first
+        server.middlewares.use('/api/save', (req, res) => {
+          if (req.method !== 'POST') { res.statusCode = 405; res.end(); return }
+          let body = ''
+          req.on('data', c => { body += c })
+          req.on('end', () => {
+            try {
+              const csvLine = body.trim()
+              if (!csvLine) { res.statusCode = 400; res.end('Empty body'); return }
+
+              const now = new Date()
+              const pad = n => String(n).padStart(2, '0')
+              const backupTs = `${now.getFullYear()}${pad(now.getMonth()+1)}${pad(now.getDate())}-${pad(now.getHours())}${pad(now.getMinutes())}${pad(now.getSeconds())}`
+              const serverTsCsv = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`
+
+              if (fs.existsSync(COMMENTS_FILE)) {
+                if (!fs.existsSync(BACKUP_DIR)) fs.mkdirSync(BACKUP_DIR, { recursive: true })
+                fs.copyFileSync(COMMENTS_FILE, path.join(BACKUP_DIR, `comments-${backupTs}.csv`))
+              }
+
+              fs.appendFileSync(COMMENTS_FILE, `${csvLine},"${serverTsCsv}"\n`, 'utf8')
+              res.statusCode = 204
+              res.end()
+            } catch (e) {
+              console.error('[api/save]', e)
+              res.statusCode = 500
               res.end()
             }
           })
