@@ -1,3 +1,22 @@
+## 05-06-2026
+- 00:10 - Student Trade Review (May 5th): I took a Long within 10-15 minutes of the Open, with an 8-point Stop. My rationale was that the Overnight session was quite bullish, both Short and Intermediate-Term Biases are Neutral-Bullish and Bullish, and Nasdaq was quite strong. Was this a valid trade or should I have waited a bit longer?
+- 04:55 - Chart Review (April 30th): Last Thursday, I struggled with execution at Pre-Market Support, and was flip-flopping around that area, not knowing whether I should buy or skip the trade, especially that there were several Support Zones below. How should I behave in this type of situation, and what would be the correct process?
+- 23:08 - Student Trade Review (May 5th, May 6th): I took a Short on the push into the Bias Confirming Resistance. It was a key Zone on first test, with a Target a pullback to Initial Resistance now acting as Support or potentially even lower. Were you considering this Short? I also skipped today's Long at Pre-Market Support. What are your thoughts and how would you approach these setups?
+- 32:57 - Can you share the best trading opportunities from this past week with the context that went into making these the better setups of the week?
+## 04-29-2026
+- 00:30 - How is the VWAP used in trending markets?
+- 00:50 - Is VWAP available in TradeStation?
+- 02:15 - What is the significance of building value/acceptance during balancing periods?
+- 07:01 - Explanation of breakouts and failed breakouts from balance.
+- 11:54 - Should I consider smaller profiles within the larger balance areas?
+- 19:00 - If the market opens out of balance, are there stats on which way the market is most likely to move that day?
+- 21:35 - Market Analysis & Outlook.
+- 35:36 - Is the failure to not fill the gap at 82 a bearish signal?
+- 36:30 - Lessons from a failed trade.
+- 39:05 - Thoughts on the overnight session and Outlook.
+- 44:09 - When entering, do you use a limit or a market order?
+- 46:30 - What are the ramifications of yesterdays false AP twitter bomb?
+- 50:36 - If the twitter bomb would've moved the market even further, past larger support areas, would it have had larger ramifications?
 ## 04-22-2026
 - 00:09 - Chart Review (April 21st): I struggled to understand Tuesday's Open price action and how we should have been thinking about it. I wasn't sure if the correct approach was to look for Long at Initial Support, or Short at Initial Resistance. Were these automatic trades? I felt unclear about how proper preparation for this day should look like, and how to map out scenarios and define trade conditions in advance. Can you give examples on how I should have thought about it?
 - 01:05 - Chart Review (April 21st): Awais suggested a Short setup on the pullback following the breakdown below Initial Support. What conditions were in play at that moment that made this a valid setup?
@@ -6908,3 +6927,1011 @@ or overbought being included in your daily trade plan?
 57:00 - Analysis on Euro FX Futures.
 1:10:08 - How was the bull/bear zone derived?  Market Analysis and Outlook.
 1:17:54 - A losing month (broker statement).
+## 10-16-2013
+- 01:38 - Student Trade Review.
+- 13:32 - Discussion on scaling out.
+- 19:49 - Ziad discusses his recent trades including an upside breakout trade.
+- 46:11 - Do you have days where you sit out and make zero trades?
+- 52:44 - Using the composite volume profile to find zones.
+- 58:07 - Student Trade Review.
+- 1:01:20 - Market Analysis and Outlook.
+## 10-09-2013
+- 00:48 - Dealing with the cycle of good periods leading to overconfidence and overtrading.
+- 07:25 -  Intraday launching point of directional conviction.
+- 14:48 - Do you use RTH or Globex for homework and zones?
+- 19:09 - CLVNs and CHVNs. How do you know which ones are more important than others.
+- 23:43 - Interpreting the tick and AD lines.
+- 29:19 - Can we get the relative volume indicator on Tradestation?
+- 31:00 - What's the difference between the NYSE AD and the S&P AD?
+- 31:48 - Student Trade Review.
+- 39:27 - What are the key differences for swing trading and intraday trading?
+- 42:13 - Volume profile vs Market Profile.
+- 45:53 - Do you use intraday/developing volume profile for your trading?
+- 52:07	- Can we use the methodology to trade crude oil or gold?
+- 55:17 - Can you give a precise definition of an inflection point?
+- 1:04:21 - Do you use Initial Balance, day type, RTH concepts in other markets such as gold?
+- 1:14:04 - Market Analysis and Outlook.
+## 10-02-2013
+- 00:29 - Reference levels and analyses for different markets and asset classes (GBPUSD, YAHOO).
+- 04:34 - Auction market theory in the context of current price action.
+- 10:03 - Missing a trade and letting it go because price has bounced too far from ideal trade location.
+- 19:11 - Intermarket analysis with TF.
+- 26:17 - Invalidation of support and resistance levels. 
+- 29:40 - Have you considered taking overnight positions?
+- 31:46 - How do you gain confidence to take trades that don't look good at all?
+- 38:04 - Is TPO charting relevant anymore?
+- 40:16 - Are there extra risks for trading overnight sessions?
+- 45:23 - Do you look at absolute Advance-Decline levels for market inflection points?
+- 48:28 - Do you look for conditions to exit a trade before stop or target is hit?
+- 52:40 - How many points per contract per week is good for a reasonably experienced trader?
+- 1:00:15 - Market Analysis and Outlook.
+## 09-25-2013
+- 00:29 HVNs - General principle for significance and S/R.
+- 02:09 HVNs - Student Trade Review.
+- 07:03 Globex Setups - Should I take them?
+- 10:55 How to deal with/avoid a choppy session. Signs of chop.
+- 23:27 Avoid trading first 30 minutes? Hard Rule? Considerations: economic calendar, quality of setup. Don't be overly cautious.
+- 27:49 Use ATR for stops? Not directly, but consider big picture environment (Exit principles)
+- 36:17 Old Reference levels - relevance and ideas behind them (Institutional traders)
+- 38:50 How to deal with difficult periods/tough markets. (When the market doesn't line up with the way you view it). Discussion on mindset, edge, beliefs and confidence.
+- 52:31 Market Analysis and Outlook.
+## 09-18-2013
+- 00:32 – On Sept 16th, was buying 16.95 off the open a good idea?
+
+- 12:34 – Do you use hard stops and are they always the same size?
+
+- 13:44 – How can you tell the potential on a big gap day?
+
+- 15:45 – Do you move the stop loss after a certain number of ticks or do you just hit market if things don’t seem to be moving in your direction?
+
+- 22:49 – What are the grey, red, green and dotted lines?
+
+- 23:24 – Is it always good to trade with NQ as a barometer?
+
+- 26:57 – What trades did you take today?
+
+- 30:52 – What tips do you have which could accelerate my learning?
+
+- 32:24 – How did you trade the open today?
+
+- 47:44 – Do you ignore nearby resistance areas during an open drive when attempting to enter a trade?
+
+- 52:04 – Is it a little strange that breadth didn’t reach a little higher on this move today?
+
+- 53:24 – Why was DTN tick strange during today’s pullback?
+
+- 54:51 – Why was Tuesday’s trading environment odd?
+
+- 56:01 – How often do you see price not touching VWAP?
+
+- 57:23 – Market Analysis & Outlook.
+## 09-11-2013
+- 00:27 – Does being stretched during the day time-frame increase the odds for fade setups to be successful?
+
+- 08:37 – Are there any symbols or indicators to watch when trading the Euro?
+
+- 11:33 – How would I trade ES in Globex since I don’t have the tick, adv/dec data or other indicators?
+
+- 12:40 – At what level does the S&P adv/dec line need to be in order to indicate strength?
+
+- 16:06 – Are there internals in Eurex?
+
+- 16:49 – Can we use Global Macro to enhance trading with contextual reading?
+
+- 19:33 – Do you know a good way to learn Global Macro?
+
+- 21:07 – Does the current market environment cause the need for trading more aggressively?
+
+- 38:14 – Do you know of anyone using chart signals to trade SPY?
+
+- 39:47 – I need help seeing divergences in the adv/dec indicator?
+
+- 40:24 – Why are the S/R lines different on Ziad’s chart different than Awais’ zones?
+
+- 41:52 – What is your interpretation of today’s NYSE and S&P A/D lines with respect to price action?
+
+- 46:36 – Did Ziad go long this morning?
+
+- 48:49 – Does Ziad use footprint charts?
+
+- 49:33 – How are ETFs priced?
+
+- 50:29 – Is it OK to use market orders if you’re confident in market direction?
+
+- 52:39 – What’s the difference between using market orders or limit orders in buying the ask price?
+
+- 54:48 – Market Analysis & Outlook.
+## 09-04-2013
+- 00:23 – How do you know if the day is stretched and a fade setup is appropriate or if the days a trend day and will continue? Does an exhaustion move need to be rejected quickly or should one exit it if it’s not rejected quickly?
+
+- 07:54 – How do you trade when price is balancing for a long time around a zone when the market is stretched?
+
+- 11:02 – How can you tell when broken support or resistance will hold and when it won’t?
+
+- 14:44 – Is it better to always front-run the zones so you make sure to get filled?
+
+- 20:40 – What is the expected action around LVNs?
+
+- 22:41 – What can i do to enhance my ability to switch directional views when the market changes?
+
+- 32:12 – Student Trade Review – How could I have made a better exit?
+
+- 41:47 – Is the German DAX correlated to the ES?
+
+- 43:43 – Is it best to not be greedy and just scale out?
+
+- 46:03 – Is there a way to get the advance/decline data before the market opens?
+
+- 47:21 – Is there an indicator or way to tell whether the buyers or sellers are in control?
+
+- 47:54 – Do you give any guidance on how to turn into a full-time trader, trading for a living?
+
+- 51:08 – Does relative volume play any role in your evaluation of whether a trend will continue?
+
+- 53:07 – Does “Don’t short a slow market” mean a market trading on low volume?
+
+- 54:12 – Can you recommend a good Forex broker?
+
+- 55:10 – Why did Ziad miss the morning reversal today?
+
+- 1:00:02 – Market Analysis & Outlook.
+## 08-28-2013
+- 00:24 – How to handle a “too good to be true” feeling when you’ve had a nice string of winners.
+- 09:00 – Is it better to enter after a pullback to the zone or just enter at the zone on first hit?
+- 13:40 – Student Trade Review + Market Analysis.
+- 19:52 – How do I keep from missing what in hindsight was a good trade?
+- 21:58 – Do you ignore tick readings for the first few minutes in the day?
+- 24:06 – What was the best way to trade yesterdays trend day?
+- 28:40 – How do you change biases intraday and what criteria would you use as justification?
+- 33:33 – What tips do you have for trading while working full-time and between meetings?
+- 35:07 – Do you know a good market profile indicator for NinjaTrader®? Rancho Dinero®.
+- 37:01 – Good re-test signal.
+- 37:23 – Market profile indicator for NinjaTrader® reference: Critical Data Associates®.
+- 38:34 – Market Analysis.
+- 42:20 – Do the HVN and LVN lines update automatically in Market Delta®?
+- 42:45 – Market Outlook.
+- 47:20 – Do you consider the overnight sessions in planning for RTH?
+- 47:55 – Do you expect gaps to be filled at some point?
+- 49:03 – What is the effect of expected news on the price movement of the market?
+- 50:14 – Gap answer continued.
+- 50:33 – Do you trade the overnight market?
+- 52:25 – Why do you keep so many lines on your chart?
+- 53:09 – What do the colors on your chart mean?
+## 08-21-2013
+- 00:05 – How to determine when an area has value.
+
+- 01:50 – What time period for volume nodes is relevant when trading i.e. how far back should we go for determining when an HVN or LVN can be used for support or resistance?
+
+- 09:30 – How does rollover effect HVN and LVN value areas; are the volume nodes from previous expiration months shifted to account for the new/current month’s pricing?
+
+- 13:22 – Importance of chart time periods.
+
+- 18:51 – How to enter when the market isn’t at a support or resistance area during trending moves.
+
+- 27:00 – Is the @ES symbol for a continuous contract correct for Tradestation? Support/help ideas for specific platforms.
+
+- 29:34 – Has this market been tougher to trade than the last few months? Variance in trading seasons.
+
+- 32:49 – Example of a few good reward to risk trades from Ziad.
+
+- 54:12 – Do you hold your positions as long as possible as opposed to taking quick, smaller profits?
+
+- 58:15 – Do you ever hedge your ES positions with options?
+
+- 58:38 – Did you scale out of your example trade?
+
+- 59:00 – How long can trades take to work out? Mentality of risk assessment.
+
+- 1:01:10 – Advice on when to scratch a trade vs. when to let it run.
+
+- 1:12:00 – What internals were you looking at in your example trade?
+
+- 1:12:51 – Market Analysis & Outlook.
+## 08-14-2013
+- 00:51 - The previous day’s strong upside move was difficult to tell where exactly the move started. So does it make sense to draw a small composite to see the volume cluster where he market took off from to identify possible support?
+
+- 03:37 - RE: The significance of HVN’s, what happens when they’re re-tested and viewing the market in larger time frames with different context. 
+
+- 16:07 - How long did you read the paragraph you wrote to motivate yourself until you felt it was part of your mindset and you no longer had to read it daily?  Do you still use the techniques in the Psychology section of the training on a regular basis in your own trading?
+
+- 22:38 - Where in OpenTrader training can I find training on how to trade the VWAP?
+
+- 27:13 - What do you think about pivot points and how do you use them?
+
+- 32:15 - Would you talk about poor high/poor low (Dalton) with some examples?
+
+- 38:52 - Trade specific question.
+
+- 42:27 - In the last couple of weeks the ES has had several inside trading days, where price has remained within the previous day’s range. Is it wise to refrain from trading on inside days?
+
+- 48:21 - Comments on range-bound days and the psychology of trading them including how to avoid getting chopped up on a slow day.
+
+- 58:12 - RE: High frequency trading.
+
+- 1:00:36 - Trade specific question.
+
+- 1:01:14 - On average, how many trades do you take in a day?
+
+- 1:04:06 - Market Analysis and Outlook.
+## 08-07-2013
+- 0:40 - Just to verify, you use Trade Station for charts and you trade on the Sierra Chart DOM through Optimus Trading Group with Vision Financial as the FCM?
+
+- 3:19 - For several years I’ve been following Elliott Wave Theory and even though it’s something I understand very well, it’s a lagging indicator. Can you comment?
+
+- 4:07 - I catch myself in the prior routine with Elliott Wave Theory and reverting back to Elliott Wave counts. How can I break away from that?
+
+- 7:37 - Today’s afternoon VWAP provided a good place for a bounce, can you go over when the VWAP or VPOC is good to lean on and when it’s not?
+
+- 12:16 - Do you have a mini-training session on setting up the Market Delta and Trade Station charts?
+
+- 14:00 - Can you quickly clarify what the yellow lines are on the daily profiles?
+
+- 14:43 - Do the high volume nodes get drawn in automatically?
+
+- 15:19 - When the market is at all-time highs, what do you use as resistance for shorts? Do you ever have enough confluence to have automatic fade zones for shorts?
+
+- 18:25 - Since the breakdown yesterday I wanted to buy the high volume node around 1683. Yesterday you had the zone at 82 to 84, but this morning you moved the zone to 80 to 82, why is this?
+
+- 22:59 - In today’s trade plan you said that 80-1/2 to 82-1/2 would shut off the selling, on the downside was that due to the 10 day ATR?
+
+- 23:37 - Would you consider a first test of a zone to have taken place if the price reverses a few ticks before the zone?
+
+- 24:45 - Please explain the profile on the right side of your chart.
+
+- 25:28 - Do you use pivot points? So far I have not heard you talk about them or seen them on your charts.
+
+- 30:43 - Student Trade Review.
+
+- 32:04 - You have mentioned before that in a bullish context, when price makes a very fast flushing type move down into support, that’s usually a good opportunity to go long. So if the market is bullish in the bigger picture and bearish short term would any very fast spiking up move be a good opportunity to go short or would you view that as the bigger picture trend resuming?
+
+- 35:52 - Do you ever give much weight to the overnight profile?
+
+- 37:48 - Sometimes you enter between zones at pivots; at swing highs or lows in-between a support or resistance zone or ahead of a zone. This observation is in reference to a recap on EminiPlayer.net regarding the up and down arrows. Multiple arrows in the same direction indicate areas where you may enter if you missed the initial support or resistance zone.
+
+- 40:44 - Do you use the daily market profile for analysis purposes only or do you use it for trading as well – intraday?
+
+- 41:24 - Do you look at a five minute or sixty minute chart or something else, while a trade is on, but takes twenty or more minutes to complete while price hovers back and forth around the entry price?
+
+- 43:58 - What do you give more weight to; the NYSE A/D line or the S&P A/D line?
+
+- 45:08 - When you enter a trade, it may balance. What would you see that would warrant exiting a trade?
+
+- 46:27 - What charting platform do you use? How do you set up the A/D chart shown on the screen?
+
+- 48:49 - Student Trade Review.
+
+- 52:52 - Market Analysis and Outlook.
+## 07-31-2013
+- 00:40 - I often hear Awais talk about having conviction to hold a trade, and he will sometimes just get out - if he knows he will not have the conviction to hold it through some heat. Do you guys try and make sure to always have the conviction to hold on to your trades or otherwise just skip it? Is it kind of like a filter you guys use? 
+
+- 04:13 - I notice that initial support and initial resistance are usually really good places to enter, do you have any guidelines on how you determine initial support and resistance, is it basically the first support and resistance that you expect a reaction from and not something already tested in Globex? Do you use range analysis to gauge that as well?  
+
+- 06:41 - The zones change if price travels through them, of course, and one would think that those previous zones - where price has never revisited - would not change as the trading activity in those areas has not changed. But this isn’t the case. On a day to day basis, sometimes those zones that haven’t been tested still get changed. Why are the zones changed? 
+
+- 12:37 - I joined the OpenTrader training 5 days ago and this my first webinar. Do I need to open a futures account to trade the ES?
+
+- 14:25 - I had a long today from 82-1/2, and I had my final two targets set at 92-1/2 and 94-1/2. The ES ended up going to 94, I had my stops set at 88. Does it even make sense to have the market get that close to the target then fall all the way back to my stop-loss?
+
+- 17:40 - I use the highest volume node, in the resistance, and then back off by two ticks?
+
+- 19:29 - I took a short at 88-1/2 today, about 6:40am, as I saw a confluence in resistance. It didn’t really work out, was that a good trade today or is there a reason I should have skipped it? Discussion of the trade plan videos on the EminiPlayer.net.
+
+- 23:22 - Student Trade Review.
+
+- 24:57 - Low volume nodes seem to make good entries and targets and high volume nodes also make good targets, are there times when high volume nodes make bad entry points?
+
+- 29:14 - Could you please provide some guidelines on a reasonable account size to start trading the ES? 
+
+- 30:11 - Will the end of day liquidation last into tomorrow or was it an end of month type move?
+
+- 32:52 - Student Trade Review.
+
+- 34:11 - Discussion of the bull/bear zone spawn by student question.
+
+- 37:10 - This is the first time I’ve seen the NYSE advance/decline and S&P500 advance/decline a little disconnected. Would the S&P at plus 200 to 300 and the NYSE slightly higher to slightly lower early on, was that kind of a clue to the kind of day we were looking at?
+
+- 38:20 - Student Trade Review.
+
+- 39:58 - Market Analysis and Outlook.
+
+- 46:26 - Student Trade Review.
+
+- 48:04 - The month of August is usually low volume due to U.S. vacation season and Europeans holiday, so would it be wise to limit position size of trades and number of contracts taken?
+## 07-24-2013
+- 00:33 - When are you aggressive with your trade locations and when are you more passive – when approaching a zone? Discussion of trading environment and risk/reward potential. 
+
+- 7:12 - Where is the best place to take a trade; the top, middle or the bottom of a zone?  Trade conviction is also discussed. 
+
+- 11:26 - Yesterday the tick was moving lower (indicating selling) but still in positive territory off the open, is that an indicator to go short in the market?
+
+- 13:31 - The first test of a zone is more likely a fade of a zone while a second test is more likely a break of a level. Talk about the rationale behind this. 
+
+- 17:04 - The start of today’s trading was difficult to sit through, down move with no apparent pull-backs, Can you say a bit more about it?
+
+- 22:28 - Can you walk us through your thought process today as context switched from long to short; items you recognized, new hypothesis, plan going into the afternoon given the morning action.
+
+- 25:09 - Was 77-1/2 an automatic buy for today?
+
+- 26:04 - You mentioned several times that you don’t trade for 1-1/2 to 2-1/2 points, but those shorts at 85-1/2 with 83 just below are exactly that. How did you know the last short you took was going to go through 83?
+
+- 29:26 - The volume/price profile on the right side – what indicator is that?
+ 
+- 30:39 - I almost didn’t take a short at 1687, 11:30 Eastern because we had balanced for about an hour between 83 and 86 just below the zone. Fortunately, I took it and covered at 81-1/4. Do you think it was a good trade at that time and if so why? When do we consider balance an issue and when do we ignore it?
+
+- 37:37 - I’m having a problem missing trade ideas because of getting into the weeds of the market internals, any suggestions?
+
+- 40:38 - Today appeared to be a trend day, but by definition a trend day closes on an extreme high or low, does that mean that today was not a trend day?
+
+- 44:42 - Can you give us some commentary on your decision to play the long side toward the end of day in the face of an apparent trend day?
+
+- 47:07 - What platform do you use to trade? Are these charts coming from that platform? A discussion of Sierra Charts ensues. 
+
+- 50:25 - Market Analysis and Outlook.
+## 07-17-2013
+- 00:30 - What's the best approach for trading the 4:30am to 8:00am (PST) time frame as I have a day job and can only participate in the market on a part-time basis?
+
+- 05:55 - How to keep your focus on the bigger picture (long term) when concerns about short term trades dominate your thinking and influence your trading plan.
+
+- 12:04 - General recommendations for recognizing when a "support zone broken" can revert to a resistance zone and what constitutes a good set-up after a support zone is broken.
+
+- 14:55 - How to identify market exhaustion when trading the Euro/US dollar pair using RSI and volume as market indicators.
+
+- 16:23 - Using ATR (Average True Range) expressed in pips when trading the Euro/US dollar pair.  
+
+- 17:52 - How do you decide what to use for chart timing (RTH, 24 hour, 240 min.) when creating support/resistance levels on the eminiplayer.net web site?
+
+- 19:22 - Can you show us on your chart and explain recent intermediate term composite profiles that you're using?
+
+- 21:23 - Description of various volume profile charts shown on the screen and their purpose. 
+
+- 22:40 - Student Trade Review.
+
+- 24:38 - Student Trade Review.
+
+- 25:25 - Name of the sticky note application is "hottnotes 4".
+
+- 25:56 - Checking my account performance, I am noticing my trades before 11:00am (EST) are 90% winners but after 12:00pm (EST) I'm less than 20% accurate. Could you please elaborate on how to be more accurate during the intraday moves?  
+
+- 30:00 - Student Trade Review.
+
+- 33:05 - How does your trading focus change when the Russell is strong? Do you give more weight to market breadth & market internals?
+
+- 37:17 - What is your experience with summer volatility, do you expect the rest of the summer to have a reduced range? Answer moves into a discussion of relative volume.
+
+- 40:12 - A discussion of the training program and how best to proceed by asking relevant questions re. the area you are presently studying after completely going through the training program. 
+
+- 41:58 - Which markets are you trading and which ones are you only watching?
+
+- 42:52 - Student Trade Review.
+
+- 43:32 - Do you completely ignore the choppiness during the NY lunch?
+
+- 44:24 - Student Trade Review.
+
+- 49:41 - The longer we stay in rotation time frames, the more likely a bigger breakout.
+
+- 51:03 - We’re always hearing that the big guys are making money facilitating trades. Are institutions and hedge funds more focused on direction moves just like we are and not necessarily facilitating trades?
+
+- 53:10 - With the recent moves in Globex, do you feel that this becomes the new normal?
+
+- 56:04 - Reference back to the following question that was asked earlier: “What is your experience with summer volatility, do you expect the rest of the summer to have a reduced range?”
+
+- 58:17 - Market Analysis and Outlook.
+## 07-10-2013
+- 00:54 - Awais, you said you used to hyper-scalp oil.  Was it difficult for you to change mind-set?
+
+- 08:18 - On slow markets like today I tend to scalp.
+
+- 09:00 - Student Trade Review: A trade after the FOMC announcement.
+
+- 23:20 - Do you use the 10 day or the 14 day ATR?
+
+- 19:20 - Student Trade Review: Zone location.
+
+- 23:20 - Market Overview & Analysis.
+
+- 33:22 - Student Trade Review: What went into a zone?
+
+- 34:03 - Is the lower volume as of late unusual?
+
+- 37:16 - Did you happen to short this after-hours rally?
+
+- 40:14 - Student Trade Review: What happened at 11:00 AM Pacific time?
+
+- 40:25 - Despite the missing internals, is there anything else you can look for in the overnight session?
+
+- 42:00 - Do you look at Footprint charts and use them for entry decisions?
+
+- 44:21 - I have a question on gold.  What do you think of it?
+## 07-03-2013
+- 00:57 - In the training you say that if planning to short at a Resistance Zone you want to see how price gets there before going short.  Why might you not short if balancing before the zone?
+
+- 11:13 - How should I approach open gaps and NVPOCS in Euro trading?
+
+- 15:05 - Do you use a 2500 volume chart to assist on getting in early on a trend move or to calculate the opening range?
+
+- 19:33 - How much weight do you give to the overnight profile?
+
+- 20:22 - What is your perspective on the last week or so on the Dogi candles and not much headway in either direction?
+
+- 22:36 - How would you have interpreted the Egypt news to affect the confidence in the S&P E-mini today?
+
+- 23:34 - The Bull/Bear concept confuses me.  Who is in control?
+
+- 30:15 - The definition of the various named zones.
+
+- 33:20 - When you define the Initial Resistance zone based on a range do you take relative volume into consideration, or do you use historical volume?
+
+- 34:10 - Student Trade Review: Why is your micro balance starting on the 19th instead of the 26th?
+
+- 35:38 - Where are the coaching webinar recordings?
+
+- 36:15 - Market Overview & Analysis.
+
+- 43:08 - Can you describe how trading from a volatility point of view is over the summer period?
+## 06-26-2013
+- 00:08 - At what point does a high volume node become involved?
+
+- 06:08 - How do you get lower support levels?
+
+- 09:00 - Student Trade Review: Why no zone in an area?
+
+- 12:43 - Student Trade Review: How did you distinguish price action?
+
+- 17:38 - Student Trade Review: Do you weigh RTH alone or consider an overnight breakout?
+
+- 21:00 - Student Trade Review: Why a high zone?
+
+- 24:13 - How do you distinguish NYC tick extremes as indicators of short-term exhaustion or continuation of a trend?
+
+- 27:43 - Student Trade Review: Why short at the open?
+
+- 32:25 - What do you reason to stay in a trade longer?
+
+- 41:46 - Student Trade Review: Did you take two trades because you are more aggressive?
+
+- 50:02 - Should one set position size in accordance with your stop size?
+
+- 50:56 - Do you avoid looking at the DOM to avoid looking at the money swings?
+
+- 53:30 - Student Trade Review: Exit long at a certain point?
+
+- 59:00 - Market Overview & Analysis.
+## 06-19-2013
+- 00:19 - Discuss your understanding of who can see what is in the order book regarding stop orders that are placed with the broker.  Whether it is better to use hard or mental stops.
+
+- 07:20 - What are your thoughts on trading with the static DOM from Trading Technologies?  The value of the feature and the best way to get it.
+
+- 10:30 - Do you primarily think of where your stop and target should be, and then the entry seems to take care of itself?
+
+- 17:28 - Do you use the 10 day or the 14 day ATR?
+
+- 19:20 - Student Trade Review: Zone location.
+
+- 23:10 - Discuss trading with zones and the FOMC.
+
+- 33:10 - Do you use time as a stop?
+
+- 29:30 - Student Trade Review: Did you skip a zone?
+
+- 31:10 - Student Trade Review: Talk about you thought process after FOMC.
+
+- 39:11 - Do you view the time after FOMC as opening minutes?
+
+- 40:20 - Is this kind of balancing chop unique to FOMC?
+
+- 41:05 - Student Trade Review: Before FOMC announcement.
+
+- 41:47 - Student Trade Review: Where was your stop?
+
+- 43:25 - Is it possible to have a webinar covering the thoughts of a trader on a day?
+
+- 45:35 - Market Overview & Analysis.
+## 06-12-2013
+- 00:00 - How can you tell what the market is going to do in its first 15 minutes?
+
+- 02:26 - Which is more important, an NPOC or an Open Gap?
+
+- 03:50 - How important are day-to-day VPOCs compared to Breakouts and other reference zones?
+
+- 06:04 - How to set up a volume indicator in TradeStation.  Average Volume?
+
+- 08:30 - What do you deduce from Average Volume?
+
+- 09:00 - Does Think-or-Swim have Volume Profiles?
+
+- 09:50 - Do you have a webinar that covers Delta?
+
+- 10:20 - General information on trading futures, ES.
+
+- 13:00 - What can I expect after a Trend Day?
+
+- 14:46 - Do you use daily or overnight hours?
+
+- 15:27 - Was this the right read at a Resistance Zone?
+
+- 21:50 - Will prices be adjusted in the new contract?
+
+- 24:12 - How to trade low volume nodes.
+
+- 25:15 - How did you get a certain Support Zone?
+
+- 36:30 - Should I stay short in the downward Trend?
+
+- 38:05 - How can I tell that there are trapped traders?
+
+- 40:20 - How do you guys trade together?
+
+- 50:30 - Why was there a long at a balance zone Breakout?
+## 06-05-2013
+- 00:28 - How to interpret the day with above average volume and choppy price action.
+- 04:16 - Can you explain LVN?
+- 07:45 - Questions regarding specific S/R zones.
+- 14:43 - Was it right to treat the current day as a trend day?
+- 17:11 - Questions on specific price levels in ES.
+- 19:23 - Student Trade Review.
+- 21:32 - What is the importance of big round number in ES?
+- 23:35 - How to track Open Gaps?
+- 27:29 - Question on specific price level.
+- 29:30 - What does "Market's purpose is to facilitate trade" mean?
+- 34:55 - Other than expected range, how do you determine if a top or a bottom is in?
+- 40:50 - Are you glued to the screen all 8 hours?
+- 43:32 - Student Trade Review.
+- 44:33 - What is your recommended size for a beginner?
+- 46:54 - The kind of bounces we get throughout a trend day.
+- 50:20 - Student Trade Review.
+- 52:05 - Market Analysis & Outlook 
+- 57:47 - Do you shift the zones during the day?
+- 58:36 - Do you use High/Low for a Gap or a Close?
+- 59:29 - Trading Gaps.
+- 1:01:20 - Questions regarding trading platforms.
+- 1:06:07 - Market Analysis & Outlook 
+- 1:12:58 - Where can I get statistics?
+## 05-29-2013
+- 00:45 - Student Trade Review.
+- 10:38 - How to execute at a key zone when market is flashing into it.
+- 18:38 - Psychology behind exits; how to cope with several issues.
+- 26:38 - What type of hardware setup do you use?
+- 35:54 - Student Trade Review.
+- 43:25 - Learning to read character of the day.
+- 48:18 - Student Trade Review.
+- 51:29 - Can we read change of character intraday from volume profile?
+- 54:22 - Going over current context.
+- 55:57 - Student Trade Review.
+- 1:01:45 - Market Analysis & Outlook.
+## 05-22-2013
+- 00:40 - Pros and cons for looking at cash indices when determing inflection points.
+- 05:52 - Explaining when HVN becomes insignificant.
+- 12:35 - Different ways of drawing composite profile.
+- 16:09 - Several questions regarding technical aspects of volume profiles.
+- 19:25 - Pointing out what really matters instead of focusing on small details.
+- 22:03 - Can you please clarify the Bull/Bear zone? Line in the Sand from training.
+- 26:39 - How do I get mid-point?
+- 27:19 - How longer term top in the market is formed?
+- 28:32 - Review potential opportunities from the current day.
+- 49:35 - Is quick building of horizontal volume at higher prices a bearish sign?
+- 52:04 - Market Analysis & Outlook.
+- 1:00:28 - Going over complexity of market analysis and how long it takes to embrace it.
+- 1:06:50 - On what time-frame are S/R zones based?
+- 1:08:48 - Current S/R zones in play.
+- 1:13:00 - How to progress if you are struggling right now.
+## 05-15-2013
+- 00:20 - Student Trade Review
+- 10:50 - Is it a good idea to get rid of internals when they don't seem to work?
+- 12:30 - Higher volatility in markets.
+- 14:27 - How to weigh internals if they are more confusing than useful?
+- 16:30 - Shorting in a bullish market.
+- 19:30 - Disconnect in internals.
+- 23:07 - Index VIX.
+- 24:40 - Student Trade Review.
+- 31:39 - MATD - Morning After Trend Day.
+- 33:06 - When there is initiative buying, would it take longer before market gets exhausted?
+- 41:52 - Is it necessary to put a lot of effort into statistical research?
+- 45:20 - Market Analysis & Outlook.
+- 47:46 - Student Trade Review.
+- 53:33 - When there is nothing to lean on, do you look at pivots as resistance?
+24:40 - Student Trade Review.
+31:39 - MATD - Morning After Trend Day.
+33:06 - When there is initiative buying, would it take longer before market gets exhausted?
+41:52 - Is it necessary to put a lot of effort into statistical research?
+45:20 - Market Analysis & Outlook.
+47:46 - Student Trade Review.
+53:33 - When there is nothing to lean on, do you look at pivots as resistance?
+## 05-08-2013
+- 0:35 - Student Trade Review.
+- 6:05 - How do you determine resistance zones when they are at all time new highs?
+- 10:00 - Was that support an automatic buy zone? Discussing how price approaches the zone and keeping the bigger picture in mind.
+- 16:30 - Does news usually cause sharp move in one direction followed by reversal back to the point where it brokeout from?
+- 17:28 - What is the right exit when we have a potential trend day in play? How to avoid giving up on profit.
+- 19:50 - Student Trade Review.
+- 33:15 - How to deal with losses and losing days.
+- 38:40 - How to walk out every day with your confidence intact or even rising no matter what the result was.
+- 40:00 - Importance of execution.
+- 41:58 - When do you look for reversing position?
+- 44:07 - Student Trade Review
+- 45:25 - Can an automatic zone prepared ahead of the open be skipped if something against it occurs intraday?
+- 48:25 - Market Analysis & Outlook.
+## 05-01-2013
+- 00:39 - On April 25th, for the main long of the day, where would have been the best place to put a stop?
+- 11:13 - When you have 2 trade ideas and the stop for the 1st idea is at the same price as the entry for the 2nd idea, can you just remain in the 1st position without exiting and then re-entering?
+- 13:07 - How did you establish the support at 77?
+- 14:30 - Do you consider the gap closed based on the quick down-move caused by the fake AP twitter report or do you totally discount that price action?
+- 15:20 - When do you enter a trade based on exhaustion and how do you tell what's really exhaustion?
+- 17:08 - Do you pay more attention to tick extremes than exhaustive volume? 
+- 17:48 - What factors do you use to determine the BBZ or Line-In-Sand?
+- 27:03 - Is it ok if I want my zones to be a little different than yours?
+- 32:50 - If I'm only trading the zones and not doing my own homework, can I still be successful?
+- 37:20 - Please explain how the NYSE tick effects directional bias and how to balance that with price action.
+- 49:42 - Did you take any trades after FOMC today?
+- 50:31 - How many trades a day do you take on average?
+- 50:43 - What platforms do you use?
+- 51:29 - Market Analysis & Outlook.
+- 59:34 - Is the bias always based on RTH context?
+- 1:00:59 - What do the lines on your chart mean?
+- 1:08:13 - What time-frame should you use for building zones?
+## 04-24-2013
+- 00:30 - How is the VWAP used in trending markets?
+- 00:50 - Is VWAP available in TradeStation?
+- 02:15 - What is the significance of building value/acceptance during balancing periods?
+- 07:01 - Explanation of breakouts and failed breakouts from balance.
+- 11:54 - Should I consider smaller profiles within the larger balance areas?
+- 19:00 - If the market opens out of balance, are there stats on which way the market is most likely to move that day?
+- 21:35 - Market Analysis & Outlook.
+- 35:36 - Is the failure to not fill the gap at 82 a bearish signal?
+- 36:30 - Lessons from a failed trade.
+- 39:05 - Thoughts on the overnight session and Outlook.
+- 44:09 - When entering, do you use a limit or a market order?
+- 46:30 - What are the ramifications of yesterdays false AP twitter bomb?
+- 50:36 - If the twitter bomb would've moved the market even further, past larger support areas, would it have had larger ramifications?
+## 04-17-2013
+- 00:31 - Is there an equivalent to the NYSE tick for the DAX?
+- 03:46 - Is there any rule of thumb for gap-size, breadth or how long breadth is effected by a gap at the open?
+- 08:27 - How often do you use tick extremes to fade good zones and do you wait for the 1-minute bar on the tick to close strong/weak before entering?
+- 18:34 - Do you trade directly off of the previous days or Globex high/low or only with confluence?
+- 27:50 - Market Analysis for yesterday (4/16/2013).
+- 36:59 - Market Analysis for today.
+- 58:18 - How do you know when to front-run a zone and when to wait for price to trade into the zone before entry?
+- 1:08:30 - Does the relative volume chart compare overall average volume for that point in time or average volume for that 5-minute period?
+## 04-10-2013
+- 00:31 - How do you pick resistance zones at ATHs?
+- 01:34 - Is the morning or afternoon the most profitable time/session to trade?
+- 02:57 - If you can't trade everyday, are there any days that are better than others? 
+- 03:40 - What was the contextual view coming into yesterday's trading?
+- 07:06 - When the market comes close to support, but can't get to it and reverses, does it make it more bullish?
+- 08:31 - When the market broke upwards, did you think of it as a trend day?
+- 10:35 - The underlying reason why we trended off the open today.
+- 12:36 - Market Analysis & Outlook.
+- 17:28 - Do we look at anything besides NQ and TF for inter-market analysis?
+- 20:13 - Do you always look at NQ as the leader?
+- 21:30 - What are some of the lines on your chart?
+- 22:21 - Do you trade through Sierra Chart?
+- 23:16 - What time-frames are you using for the composite profiles?
+- 30:32 - Do you think the market is topping?
+- 34:33 - When did you recognize that today was going to be a trend-day?
+- 43:05 - During a trend-up day, can I use the tick pullback or any price pullback to enter long?
+- 45:21 - If you miss an entry, how do you get in later?
+- 51:23 - Comments on various tick charts and services.
+- 53:33 - Market Analysis & Outlook.
+- 54:22 - Does eSignal have back-adjusted data?
+- 54:52 - Do you use trend-lines or harmonics in your teaching?
+## 04-03-2013
+- 01:19 - Market Analysis & Outlook.
+- 19:17 - What was the trend video you referenced in the market analysis?
+- 20:03 - Was the trade at 53 not more risky because of the balance before it?
+- 22:25 - Was there a tell from Globex for today's weakness?
+- 23:26 - Was the negative A/D line a clue for today's weakness?
+- 26:09 - How do you determine the size of the zone?
+- 27:51 - Was a rejection of yesterday's HVN a short queue?
+- 28:55 - Market Analysis for yesterday (4/2/2013).
+- 39:35 - If yesterday's action was in the context of a downtrend, would the odds for a short have been higher?
+- 40:03 - Do you think there is a bigger selloff being setup because of today's selloff?
+- 47:50 - Do you think the TF breaking it's 2-week balance today increased the odds of a downtrend day?
+- 50:39 - Do you think 1543.50 will get hit during the next few hours?
+- 51:26 - Do you use trend-lines or channels?
+- 55:40 - What diverging internals mean as you're moving into a resistance zone
+- 58:56 - Are the zones drawn automatically or do you draw them in?
+- 1:01:51 - Comment on current Globex open.
+- 1:02:35 - Is there a video on how to construct the zones yourself?
+- 1:04:15 - What is the background on Awais' trading?
+- 1:05:40 - What is the EminiPlayer website address?
+- 1:07:06 - Are there any testimonials for the training and zones?
+- 1:08:17 - How to maximize the value of Open Trader.
+## 03-27-2013
+- 1:35- Student Trade Review.
+
+- 8:33- Student Trade Review: Why does the S&P AD line show strength even as prices seem to fall? 
+
+- 15:13- Miscellaneous follow up questions regarding previous discussion point.
+
+- 17:34- Discussion around ‘big’ or ‘small’ move, on the Advance Decline line?
+
+- 19:08- Do you use Footprint charts to buy and sell?
+
+- 20:22- Student Trade Review.
+
+- 21:54- Student Trade Review: Does the NYSE TICK give any clues about taking a long?
+
+- 25:37- Student Trade Review.
+
+- 27:00- When gapping out of a smaller timeframe balance into a larger timeframe support or resistance, does the larger time frame win out?
+
+- 30:50- Student Trade Review.
+
+- 32:57- Student Trade Review.
+
+- 33:54- For historical data review, should we use the continuous contract or the back adjusted contract?
+
+- 35:50- Ziad brings up an important issue: No matter how good you get at trading, there will be days when there is just confusing action.  Be fine with it and don’t let it knock you off your trading game.
+
+- 37:14 One of the biggest secrets of successful trading: be patient and wait for the opportunity. When the right day or time arrives, kill it with conviction.  (Don’t miss this section.)
+
+- 40:54- If your stop has been hit, and then the market seems to go in your direction, should you get back in?
+
+- 43:04- Should we traders send in our plans showing what worked well?
+
+- 44:15- Question about back adjusted charts, showing some confusion.
+
+- 45:58- Question about use of the ‘bull bear’ zone.
+
+- 47:24- Question about use of a big balance area HVN.
+
+- 48:24- How much significance do you place on the value area high or low?
+
+- 50:30- Ziad clears up confusion on one point: incorrect invalidation of an HVN when you’re still in the balance area.
+
+- 53:57- Student Trade Review re: bias.
+
+- 59:13- Student Trade Review.
+
+- 1:02:50- Is there a more objective way of reading the daily trend of a market?
+## 03-20-2013
+- 00:35- Student Trade Review with question: What do you do when a trade comes within one tick of the target, but then it reverses?  More related topics covered.
+
+- 17:00- How can the Advance Decline line be plunging on the open while the NYSE TICK is rising?
+
+- 20:35- Why does the NYSE have specialists (not electronics) matching up the order flow?
+
+- 21:18- Student Trade Review.
+
+- 22:09- When is it appropriate to use TICK divergence to trade in the absence of any other setup?
+
+- 29:30- Student Trade Review (2 trades): Discussion of trade philosophy.
+
+- 49:14- Question about Ziad’s note taking.
+
+- 50:15- Student Trade Review.
+
+- 53:10- Ziad asks for feedback from group: results so far; one biggest obstacle; before signup, what was biggest hold-back or objection, and what was reality after joining program?
+
+- 58:58- Student asks why TICK and AD line vary between data feeds.
+
+- 1:01:03- Question about recommending broker (Optimus).
+
+- 1:02:33- Do you let the market take you out at the stop or do you exit the trade yourself, if you see the trade not working?  What indicators do you use to tell if the trade is not working?
+
+- 1:13:02- Is there a fixed period of time in which to take a trade off?  
+
+- 1:14:22- Why do some large traders buy at a higher price, but when the price drops, they don’t buy more at the lower price?
+## 03-13-2013
+- 00:16- Different charting platforms. How can we get a better deal than what is typically offered?
+
+- 04:08- What is the minimum initial deposit to the trading account required by Optimus?
+
+- 05:34- Can you speak about the ‘user friendliness’ of Sierra Charts versus I/RT?
+
+- 06:33- Where is the historical data coming from (Rhythmic) in the case of Optimus brokers? 
+
+- 06:56- Can Sierra draw a profile from any start time to any end time that you choose?
+
+- 09:04- Will the basic Optimus program work with I/RT and Market Delta?
+
+- 10:56- Is the Optimus offer only for a limited time?
+
+- 11:52- In the videos, it states that if a setup has exhaustion with contextual alignment, the probability of the trade working out will be higher. In such a case, should the position size be increased?
+
+- 15:07- In the case of a reduced range, does it make sense to reduce your position size?
+
+- 16:49- What about trading during lunch hour?
+
+- 19:12- Question about trading NQ and setting up support and resistance zones.
+
+- 21:50- Question about trading NQ and what if the price gets within a couple of ticks of the zone.
+
+- 22:44- Question about how to come up with key levels.
+
+- 25:00- In markets that tend to overshoot the zones, like NQ, should you wait for the price to overshoot the zone before trading?
+
+- 26:25- Why are we not trading the Euro in the program?
+
+- 27:44- What if a market comes into a support or resistance zone with conviction, and then instead of reacting sharply, the price just starts to balance?  
+
+- 30:05- If a support zone is created by previous directional conviction, do you want to see fast rejection versus balance?
+
+- 33:37- Do you ever let intuition take you out of a trade, or do you let the edge work?
+
+- 36:43- Student Trade Review: Discussion of holding until the last hour on a trend day.
+
+- 42:27- How to develop resistance areas when prices are at new highs and there’s nothing above.
+
+- 43:20- Student Trade Review.
+
+- 52:23- What might alert you to a trade not working out (assuming no market internals)?
+
+- 57:16- If you anticipate a balance day, do you take trades at every support/resistance zone (assuming no market internals)?
+
+- 1:00:07- On balance days, if you’re not reaching your target right away, should you exit right away, exit on break even or let price hit your stop loss?
+
+- 1:02:26- After a large and fast rally (or decline), the pullback may be far from any recent support or resistance zone, and therefore, should you avoid trading it altogether?
+
+- 1:04:13- How do you determine which time frame is in control, the smaller time frame or the larger time frame?
+
+- 1:12:30- When it comes to moving stops, the guidelines are: never increase your stops, and don’t micromanage the trade. But if you don’t have conviction about the trade, can you move your stop to breakeven? (Student Trade Review).
+
+- 1:13:42- When your trade approaches your profit target, but reverses one or two ticks before reaching the target, do you just take profit at a lower profit or let it go back to break even?
+
+- 1:16:13- Student Trade Review.
+
+- 1:19:32- Student Trade Review.
+
+- 1:21:42- Student Trade Review.
+
+- 1:25:39- Market Overview and Analysis.
+## 03-06-2013
+- 01:27- Question re: VWAP (Volume Weighted Average Price): Is the VWAP a good support or resistance point for directional days?
+
+- 07:49- Is there any significance to the VPOC moving up or down during the day, other that support or resistance?
+
+- 10:50- Do you look at cumulative volume delta, and if so, do you use it for anything other than divergence?
+
+- 11:34- Is there any advantage to using a Volume Footprint chart?
+
+- 12:30- Can you show us how to set up the charts as you have them on the screen?  Important?
+
+- 15:34- Average number of ticks/week or month achievable, assuming the strategy is learned?
+
+- 20:06- Does it make sense to trade the breakout through an HVN (High Volume Node)?
+
+- 21:45- Student Trade Review: Trading right after the open.
+
+- 28:57- Trade Review: re NYSE TICK divergence.
+
+- 37:27- Request for prep work for the up-coming session on following day (Zones, etc.).
+
+- 48:00- Student Trade Review.
+
+- 51:43- Student question about Awais’ zones shown at 37:27.
+
+- 52:45- Similar to 51:43, continued questioning.
+
+- 54:06- Student Trade Review.
+
+- 54:53- Question about the Live Trading Room.
+
+- 58:58- Are there any roll over tips (as to how to handle)?
+## 02-27-2013
+- 1:30- Questioning opinion of a student’s game plan setup based on broker and software setups, including Think or Swim for charting and broker, as well as Ninja trader.
+
+- 3:00-Student Trade Review: When to stop trying to fade a trend.
+
+- 8:36- How do I get Coaching Webinars that I have missed?  
+
+- 9:24- Student Trade Review. 
+
+- 13:06- Student Trade Review: Why did price action reverse before it hits a zone?  
+
+- 16:22- Student Trade Review: further discussion about ‘exactness’, and why the market does what is does at any given point.
+
+- 20:33-Why does Open Trader program only analyze the Regular Trading Hours (RTH)?  
+
+- 21:32- What is RTH? 
+
+- 22:49- Is it true that professional traders don’t sleep and that they trade all the time?
+
+- 24:40- Do we need all the trends to be aligned to trade? How to get in and get out?  When to take a trade, when not to take a trade?
+
+- 25:05 Question about ‘stops’.
+
+- 28:02- Is there a way to mechanically back-test the strategy? 
+
+- 30:38- Discussion of Volume Profile, where volume area starts and ends.
+ 
+- 33:24- Do you use diagonal trend lines, or only horizontal?  
+
+- 35:30- Can we trade without a Volume Profile chart by approximation?
+
+- 36:10- How do you use composite charts on the larger time frame?
+
+- 36:48- Is there a way to show Volume Profile when you show balance areas in Trade Station?
+
+- 37:37- Discussion of what Globex is, starting and ending times.
+
+- 38:20- Accountability: How can the Program incorporate Individual Accountability?  
+
+- 45:00- Collaboration: How can members of the Program work together?
+
+- 48:07- Student Trade Review: support and resistance.
+## 02-20-2013
+- 01:48 - Student Trade Review.
+- 10:32 - General question about High VOL node.
+- 14:59 - Student Trade Review.
+- 21:39 - Where do you start drawing your balance area from?
+- 25:33 - Student Trade Review.
+- 33:41 - Could you provide us with some guidelines for trading European session?
+- 36:26 - Student Trade Review.
+- 42:10 - How do you look at Bull/Bear Zones?
+- 01:03:45 - How do you draw a zones? And what if two zones are close to each other?
+- 01:09:46 - It is not just about a zones, but about having a plan to trade those zones.
+## 02-13-2013
+- 01:26 - Student Trade Review.
+- 22:24 - Student Trade Review.
+- 37:58 - Comment on using the NYSE A/D Line versus S&P A/D Line.
+- 46:13 - How do you find resistance at all time highs, where there is no previous market structure?
+- 53:58 - Do you use 24/7 (overnight) session in your trading?
+- 58:05 - What would you consider to be good expectancy for your method and what would you consider to be world-class one?
+## 02-05-2013
+- 00:15 – Market Analysis & Outlook.
+- 11:38 – Student Trade Review.
+- 21:45 – Question about current RTH gap.
+- 22:47 – Does it make sense to move your stop (tighten) behind a balance area forming in front of a zone?
+- 27:59 – Question about multiple timeframe support.
+- 30:25 – Should multiple smaller balance areas be combined into a single composite?
+- 37:13 – Student Trade Review. Covers end of day trades.
+- 44:28 – Student Trade Review. Covers the ability to hold through pullbacks when odds are in your favor.
+- 49:52 – Student Trade Review. Covers hindsight bias.
+- 57:18 – Question about watching too many things.
+- 1:07:52 – At an automatic buy zone, does it make sense to break the order to enter at the front, middle and back of the zone?
+- 1:12:52 – When to watch coaching sessions as progressing through the OpenTrader training.
+## 01-30-2013
+- 01:07 - Discussion of Format of Training Program and Portal.
+
+- 07:40 - Discussion of Success & Money Psychology.
+
+- 11:00 - Psychology of a big trade and how I lost 80% of it later.
+
+- 17:00 - Limiting belief and how it effects trading.
+
+- 25:00 - New beliefs and how they apply to trading. 
+
+- 31:00 - Becoming aware of self limiting beliefs and to think of your own internally.
+
+- 33:00 - Opening Up to Questions.
+
+- 35:40 - Book that addresses self sabotage: The Secret Code of Success by Noah St John.
+
+- 38:15 - Trading multiple markets vs trading a single market.
+
+- 40:27 - Mistakes in Trading in loss for Ziad.
+
+- 42:30 - Guidelines for balance areas, and example of how to trade them.
+
+- 49:10 - Sharing info in pre-market analysis.
+## 01-23-2013
+- 00:00 - Introduction from Awais and Ziad regarding OpenTrader.
+
+- 01:04 - Ziad Background on Trading in Kuwait and Premise behind Opentrader starting.
+
+- 01:43 - Ziad explains about “Will He Ever Make it as a Trader".
+
+- 08:15 - How OpenTrader got started and its vision of social transparency.
+
+- 11:45 - Goals as a Trader.
+
+- 20:00 - Associations and Beliefs of Great Traders.
+
+- 28:20 - Metholodgy of Training of OpenTrader.
+
+- 40:20 - Key to selective aggression, when to be aggressive and when to be passive.
+
+- 44:00 - How coaching calls will be constructed.
+
+- 47:00 - Questions/Feedback from Awais about how the Program is not to be quickly absorbed.
+
+- 50:00 - How to go through Training Portal.
+
+- 51:24 - Entering at support\resistance area, how to look at price action if area will hold.
+
+- 54:30 - Significance of overnight VPOC.
+
+- 55:30 - Becoming consistently profitable.
+
+- 59:20 - Drill 8 regarding reading profiles.
