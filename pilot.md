@@ -1,3 +1,15 @@
+## 05-27-2026
+- 00:09 - Chart Review (May 21st): I keep failing to pull the trigger on good Zone Fades. Can you show how to construct the context from both the shorter and larger timeframe perspective and how to incorporate it into Thursday's trade plan?
+- 14:45 - Chart Review (May 22nd): Friday's trading was quite frustrating for me. I had daisy-chained the first two Support Zones, but once the market moved away after the Open and then pulled back, I cancelled the daisy-chain in favor of the lower price and ended up missing the trade. Should I focus on improving my execution and decision making around daisy-chains?
+- 20:19 - Chart Review (May 26th): On Tuesday, I daisy-chained the first two Supports, but after getting the Scale, and seeing ES not hitting my high-odds Target, I became unsure about what to do next. Should I tighten my Stop Loss in this situation, and if I do get stopped out, should I still consider re-entering or just let the trade go?
+## 05-20-2026
+- 00:08 - Chart Review (May 15th): Can you share the logic behind Friday's Initial Support Zone?
+- 10:38 - Chart Review (May 19th): Short-Term Bias was Neutral, so I was mainly focused on the Long side at Support and completely missed the early Short opportunity. What were the structural signs that should have made us more Bearish, and show should we have prepared for the Long before the Open?
+- 19:29 - Can you share the Zone Fades that were relatively easy to catch and which you believe we should be focusing on, and what were the key elements around these setups?
+## 05-13-2026
+- 00:10 - Chart Review (May 12th): On Tuesday, What was happening in Nasdaq that made us more focused on the Short side in ES?
+- 06:13 - Student Trade Review (May 12th): I went Long at the front of Initial Support leaning on the Zone and the Short-Term Neutral-Bullish Bias. I got the first scale out then got stopped out. Was this a valid trade, and how can I avoid such a trade next time?
+- 10:50 - Can you share the best Zone Fade opportunities from this past week along with the context that went into them?
 ## 05-06-2026
 - 00:10 - Student Trade Review (May 5th): I took a Long within 10-15 minutes of the Open, with an 8-point Stop. My rationale was that the Overnight session was quite bullish, both Short and Intermediate-Term Biases are Neutral-Bullish and Bullish, and Nasdaq was quite strong. Was this a valid trade or should I have waited a bit longer?
 - 04:55 - Chart Review (April 30th): Last Thursday, I struggled with execution at Pre-Market Support, and was flip-flopping around that area, not knowing whether I should buy or skip the trade, especially that there were several Support Zones below. How should I behave in this type of situation, and what would be the correct process?
